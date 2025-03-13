@@ -1,0 +1,36 @@
+<view class="container">
+  <view class="header">
+    <view class="selectors">
+      <picker class="picker" bindchange="onStageChange" value="{{stageIndex}}" range="{{stages}}">
+        <view>阶段：{{stages[stageIndex]}}</view>
+      </picker>
+      <picker class="picker" bindchange="onGradeChange" value="{{gradeIndex}}" range="{{grades}}">
+        <view>年级：{{grades[gradeIndex]}}</view>
+      </picker>
+    </view>
+    <view class="info">
+      <text class="score" wx:if="{{gameStarted}}">得分: {{score}}</text>
+      <text class="help-count">剩余提示: {{helpCount}}</text>
+    </view>
+  </view>
+
+  <view class="game-board">
+    <block wx:for="{{board}}" wx:for-item="row" wx:for-index="i" wx:key="i">
+      <view class="row">
+        <block wx:for="{{row}}" wx:for-item="cell" wx:for-index="j" wx:key="j">
+          <view class="cell {{selected && selected.i === i && selected.j === j ? 'selected' : ''}} {{highlightPair && ((highlightPair.pos1.i === i && highlightPair.pos1.j === j) || (highlightPair.pos2.i === i && highlightPair.pos2.j === j)) ? 'highlight' : ''}}"
+                bindtap="onCellTap" 
+                data-i="{{i}}" 
+                data-j="{{j}}">
+            {{cell}}
+          </view>
+        </block>
+      </view>
+    </block>
+  </view>
+
+  <view class="controls">
+    <button class="start-btn" bindtap="startGame" wx:if="{{!gameStarted}}">开始游戏</button>
+    <button class="help-btn" bindtap="onHelpTap" disabled="{{helpCount <= 0 || !gameStarted}}">提示</button>
+  </view>
+</view>

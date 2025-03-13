@@ -1,0 +1,134 @@
+/* 整体容器样式 */
+.game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  /* 游戏标题样式 */
+  .game-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* 游戏状态显示区域样式 */
+  .game-status {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .status-item {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* 游戏棋盘区域样式 */
+  .game-board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .board-row {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .board-cell {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .chinese-word {
+    color: #ff6600; /* 中文单词颜色 */
+  }
+  
+  .english-word {
+    color: #0099ff; /* 英文单词颜色 */
+  }
+  
+  .board-cell:active {
+    transform: scale(0.95);
+  }
+  
+  /* 开始游戏按钮样式 */
+  .start-game-btn-container {
+    margin-bottom: 10px;
+  }
+  
+  .start-game-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0099ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .start-game-btn:active {
+    transform: translateY(2px);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* 帮助按钮样式 */
+  .help-btn-container {
+    margin-bottom: 20px;
+  }
+  
+  .help-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .help-btn:active {
+    transform: translateY(2px);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* 游戏说明区域样式 */
+  .game-instruction {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+    line-height: 1.6;
+  }
