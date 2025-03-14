@@ -1,11 +1,14 @@
 <view class="container">
   <view class="header">
-    <view class="selectors">
-      <picker class="picker" bindchange="onStageChange" value="{{stageIndex}}" range="{{stages}}">
-        <view>阶段：{{stages[stageIndex]}}</view>
+    <view class="picker-container">
+      <picker bindchange="onStageChange" value="{{stageIndex}}" range="{{stages}}">
+        <view class="picker">阶段：{{stages[stageIndex]}}</view>
       </picker>
-      <picker class="picker" bindchange="onGradeChange" value="{{gradeIndex}}" range="{{grades}}">
-        <view>年级：{{grades[gradeIndex]}}</view>
+      <picker bindchange="onGradeChange" value="{{gradeIndex}}" range="{{grades}}">
+        <view class="picker">年级：{{grades[gradeIndex]}}</view>
+      </picker>
+      <picker bindchange="onDifficultyChange" value="{{difficultyIndex}}" range="{{difficulties}}">
+        <view class="picker">难度：{{difficulties[difficultyIndex]}}</view>
       </picker>
     </view>
     <view class="info">
@@ -18,10 +21,11 @@
     <block wx:for="{{board}}" wx:for-item="row" wx:for-index="i" wx:key="i">
       <view class="row">
         <block wx:for="{{row}}" wx:for-item="cell" wx:for-index="j" wx:key="j">
-          <view class="cell {{selected && selected.i === i && selected.j === j ? 'selected' : ''}} {{highlightPair && ((highlightPair.pos1.i === i && highlightPair.pos1.j === j) || (highlightPair.pos2.i === i && highlightPair.pos2.j === j)) ? 'highlight' : ''}}"
+          <view class="cell {{selected && selected.i === i && selected.j === j ? 'selected' : ''}} {{highlightPair && ((highlightPair.pos1.i === i && highlightPair.pos1.j === j) || (highlightPair.pos2.i === i && highlightPair.pos2.j === j)) ? 'highlight' : ''}} {{wordTypes[i][j] === 'chinese' ? 'chinese-word' : wordTypes[i][j] === 'english' ? 'english-word' : wordTypes[i][j] === 'hint' ? 'hint' : wordTypes[i][j] === 'empty' ? 'empty' : ''}}"
                 bindtap="onCellTap" 
                 data-i="{{i}}" 
-                data-j="{{j}}">
+                data-j="{{j}}" 
+                data-length="{{board[i][j].length}}">
             {{cell}}
           </view>
         </block>

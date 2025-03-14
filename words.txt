@@ -1,0 +1,472 @@
+钢笔（pen）
+铅笔（pencil）
+铅笔盒（pencil-case）
+尺子（ruler）
+书（book）
+书包（schoolbag）
+漫画书（comic book）
+明信片（postcard）
+报纸（newspaper）
+包（bag）
+橡皮（eraser）
+蜡笔（crayon）
+卷笔刀（sharpener）
+故事书（story-book）
+笔记本（notebook）
+语文书（Chinese book）
+英语书（English book）
+数学书（math book）
+杂志（magazine）
+词典（dictionary）
+脚（foot）
+头（head）
+脸（face）
+头发（hair）
+鼻子（nose）
+嘴（mouth）
+眼睛（eye）
+耳朵（ear）
+手臂（arm）
+手（hand）
+手指（finger）
+腿（leg）
+尾巴（tail）
+身体（body）
+红（red）
+蓝（blue）
+黄（yellow）
+绿（green）
+白（white）
+黑（black）
+粉红（pink）
+紫（purple）
+橙（orange）
+棕（brown）
+灰（grey）
+猫（cat）
+狗（dog）
+猪（pig）
+鸭（duck）
+兔（rabbit）
+马（horse）
+大象（elephant）
+蚂蚁（ant）
+鱼（fish）
+鹰（eagle）
+鹿（deer）
+海狸（beaver）
+鸟（bird）
+蛇（snake）
+老鼠（mouse）
+松鼠（squirrel）
+熊（bear）
+袋鼠（kangaroo）
+猴（monkey）
+熊猫（panda）
+狮子（lion）
+老虎（tiger）
+狐狸（fox）
+斑马（zebra）
+长颈鹿（giraffe）
+鹅（goose）
+母鸡（hen）
+火鸡（turkey）
+小羊（lamb）
+绵羊（sheep）
+山羊（goat）
+奶牛（cow）
+驴（donkey）
+鱿鱼（squid）
+龙虾（lobster）
+鲨鱼（shark）
+海豹（seal）
+抹香鲸（sperm whale）
+虎鲸（killer whale）
+朋友（friend）
+男孩（boy）
+女孩（girl）
+母亲（mother）
+父亲（father）
+姐妹（sister）
+兄弟（brother）
+叔叔（uncle）
+男人（man）
+女人（woman）
+先生（Mr.）
+女士（lady）
+妈妈（mom）
+爸爸（dad）
+父母（parents）
+（外）祖母（grandma/grandmother）
+（外）祖父（grandpa/grandfather）
+小姐（Miss）
+姑姑（aunt）
+儿子（son）
+婴儿（baby）
+小孩（kid）
+堂（表）兄弟，堂（表）姐妹（cousin）
+同学（classmate）
+女王（queen）
+参观者（visitor）
+邻居（neighbors）
+校长（principal）
+大学生（university student）
+笔友（pen pal）
+旅行者（tourist）
+人物（people）
+机器人（robot）
+教师（teacher）
+学生（student）
+医生（doctor）
+护士（nurse）
+司机（driver）
+农民（farmer）
+歌唱家（singer）
+（男）警察（policeman）
+作家（writer）
+男演员（actor）
+女演员（actress）
+画家（artist）
+电视台记者（TV reporter）
+工程师（engineer）
+会计（accountant）
+销售员（salesperson）
+清洁工（cleaner）
+售货员（assistant）
+棒球运动员（baseball player）
+星期一（Monday）
+星期二（Tuesday）
+星期三（Wednesday）
+星期四（Thursday）
+星期五（Friday）
+星期六（Saturday）
+星期日（Sunday）
+周末（weekend）
+一月份（January (Jan)）
+二月份（February (Feb)）
+三月份（March (Mar) ）
+四月份（April （Apr））
+五月份（May (May)）
+六月份（June (Jun)）
+七月份（July (Jul)）
+八月份（August (Aug)）
+九月份（September (Sept)）
+十月份（October (Oct)）
+十一月（November (Nov)）
+十二月（December (Dec)）
+春（spring）
+夏（summer）
+秋（autumn /fall）
+冬（winter）
+南（south）
+北（north）
+东（east）
+西（west）
+左边（left）
+右边（right）
+上（up）
+下（down）
+发烧（have a fever ）
+疼痛（hurt）
+感冒（have a cold）
+牙疼（have a toothache ）
+头疼（have a headache）
+喉咙疼（have a sore throat）
+one（一）
+two（二）
+three（三）
+four（四）
+five（五）
+six（六）
+seven（七）
+eight（八）
+nine（九）
+ten（十）
+eleven（十一）
+twelve（十二）
+thirteen（十三）
+fourteen（十四）
+fifteen（十五）
+sixteen（十六）
+seventeen（十七）
+eighteen（十八）
+nineteen（十九）
+twenty（二十）
+thirty（三十）
+forty（四十）
+fifty（五十）
+sixty（六十）
+seventy（七十）
+eighty（八十）
+ninety（九十）
+hundred（百）
+thousand（千）
+million（百万）
+first（第一）
+second（第二）
+third（第三）
+fourth（第四）
+fifth（第五）
+sixth（第六）
+seventh（第七）
+eighth（第八）
+ninth（第九）
+tenth（第十）
+eleventh（第十一）
+twelfth（第十二）
+big（大的）
+small（小的）
+long（长的）
+short（短的；矮的）
+tall（高的）
+young（年轻的）
+old（老的；旧的）
+strong（强壮的）
+thin（瘦的）
+active（积极的；活跃的）
+quiet（安静的；文静的）
+nice（好的；愉快的）
+kind（和蔼的；亲切的）
+strict（严格的）
+smart（聪明的；巧妙的）
+funny（滑稽可笑的）
+sweet（甜的）
+sour（酸的）
+salty（咸的）
+fresh（新鲜的）
+healthy（健康的）
+favorite（最喜爱的）
+tasty（好吃的）
+clean（干净的）
+tired（疲劳的；累的）
+excited（兴奋的）
+angry（生气的；愤怒的）
+happy（高兴的；幸福的）
+bored（无聊的；烦人的）
+sad（忧愁的；悲伤的）
+taller（更高的）
+shorter（更矮的；更短的）
+stronger（更强壮的）
+older（更老的；年龄更大的）
+younger（更年轻的）
+bigger（更大的）
+smaller（更小的）
+longer（更长的）
+thinner（更瘦的）
+heavier（更重的）
+good（好的）
+better（更好的）
+bad（坏的）
+worse（更坏的；更差的）
+fine（好的；健康的）
+great（很好的；伟大的）
+new（新的）
+old（老的；旧的）
+fat（胖的）
+thin（瘦的）
+right（正确的；右边的）
+left（左边的）
+easy（容易的）
+difficult（困难的）
+same（相同的）
+different（不同的）
+big（大的）
+small（小的）
+tall（高的）
+short（矮的；短的）
+long（长的）
+wide（宽的）
+high（高的）
+low（低的）
+slow（慢的）
+fast（快的；迅速的）
+late（晚的；迟到的）
+early（早的）
+hot（热的；辣的）
+cold（冷的）
+warm（温暖的）
+cool（凉爽的）
+rainy（下雨的；多雨的）
+snowy（下雪的；多雪的）
+windy（有风的；多风的）
+cloudy（多云的）
+sunny（晴朗的）
+today（今天）
+tomorrow（明天）
+yesterday（昨天）
+this morning（今天上午）
+this afternoon（今天下午）
+this evening（今天晚上）
+tonight（今晚）
+weekend（周末）
+Monday（星期一）
+Tuesday（星期二）
+Wednesday（星期三）
+Thursday（星期四）
+Friday（星期五）
+Saturday（星期六）
+Sunday（星期日）
+January（一月）
+February（二月）
+March（三月）
+April（四月）
+May（五月）
+June（六月）
+July（七月）
+August（八月）
+September（九月）
+October（十月）
+November（十一月）
+December（十二月）
+spring（春天；春季）
+summer（夏天；夏季）
+autumn（秋天；秋季）
+winter（冬天；冬季）
+morning（早晨；上午）
+afternoon（下午）
+evening（晚上；傍晚）
+night（夜晚）
+noon（中午）
+week（周；星期）
+month（月；月份）
+year（年；年份）
+clock（时钟）
+time（时间）
+hour（小时）
+minute（分钟）
+second（秒）
+breakfast（早餐）
+lunch（午餐）
+dinner（晚餐）
+get up（起床）
+go to school（上学）
+go home（回家）
+go to bed（上床睡觉）
+watch TV（看电视）
+read books（读书）
+do homework（做作业）
+do housework（做家务）
+play football（踢足球）
+play basketball（打篮球）
+play ping-pong（打乒乓球）
+play chess（下棋）
+go shopping（去购物）
+go hiking（去远足）
+go fishing（去钓鱼）
+go swimming（去游泳）
+go skiing（去滑雪）
+go ice-skating（去滑冰）
+visit grandparents（看望祖父母）
+wash clothes（洗衣服）
+clean the room（打扫房间）
+cook dinner（做晚餐）
+water the flowers（浇花）
+draw pictures（画画）
+make kites（制作风筝）
+collect stamps（集邮）
+ride a bike（骑自行车）
+play the piano（弹钢琴）
+play the violin（拉小提琴）
+sing songs（唱歌）
+dance（跳舞）
+eat breakfast（吃早餐）
+eat lunch（吃午餐）
+eat dinner（吃晚餐）
+drink water（喝水）
+drink milk（喝牛奶）
+drink tea（喝茶）
+drink coffee（喝咖啡）
+have English class（上英语课）
+have math class（上数学课）
+have Chinese class（上语文课）
+have P.E. class（上体育课）
+have art class（上美术课）
+have music class（上音乐课）
+have science class（上科学课）
+go to the park（去公园）
+go to the zoo（去动物园）
+go to the cinema（去看电影）
+go to the library（去图书馆）
+go to the hospital（去医院）
+go to the supermarket（去超市）
+go to the bank（去银行）
+go to the post office（去邮局）
+go to the bookstore（去书店）
+go to the museum（去博物馆）
+go to the theatre（去剧院）
+go to the restaurant（去餐馆）
+take a trip（去旅行）
+read a magazine（读杂志）
+go on a picnic（去野餐）
+buy（买）
+sell（卖）
+open（打开）
+close（关闭）
+put（放；放置）
+take（拿；带走）
+bring（带来）
+give（给）
+show（展示；给…… 看）
+use（使用）
+wash（洗）
+clean（打扫；清洁）
+cook（烹饪；做饭）
+paint（绘画；油漆）
+draw（画）
+write（写）
+read（读；看）
+listen（听）
+speak（说；讲）
+talk（交谈；谈话）
+tell（告诉；讲述）
+ask（问；请求）
+answer（回答；答案）
+play（玩；踢；打；弹）
+run（跑）
+jump（跳）
+walk（走；步行）
+climb（爬）
+swim（游泳）
+fly（飞）
+ride（骑；乘）
+drive（驾驶）
+sit（坐）
+stand（站；站立）
+sleep（睡觉）
+wake up（醒来）
+get dressed（穿衣服）
+brush teeth（刷牙）
+wash face（洗脸）
+wash hands（洗手）
+take a bath（洗澡）
+go to the toilet（去厕所）
+come（来）
+go（去）
+stop（停；停止）
+wait（等待）
+turn（转弯；转动）
+left（左边；向左）
+right（右边；向右）
+straight（成直线地；笔直地）
+front（前面；前部）
+behind（在…… 后面）
+next to（与…… 相邻）
+near（在…… 附近）
+in（在…… 里面）
+on（在…… 上面）
+under（在…… 下面）
+above（在…… 上面）
+below（在…… 下面）
+between（在…… 之间）
+beside（在…… 旁边）
+across from（在…… 对面）
+over（在…… 上方；超过）
+through（穿过；通过）
+with（和…… 一起；带有）
+without（没有）
+and（和；并且）
+or（或者；否则）
+but（但是）
+so（所以；因此）
+because（因为）
+
