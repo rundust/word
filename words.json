@@ -1,0 +1,1914 @@
+{"id": 1, "stage": "小学", "grade": "KET", "chinese": "一个；一", "english": "a"}
+{"id": 2, "stage": "小学", "grade": "KET", "chinese": "关于；大约", "english": "about"}
+{"id": 3, "stage": "小学", "grade": "KET", "chinese": "在…… 上面", "english": "above"}
+{"id": 4, "stage": "小学", "grade": "KET", "chinese": "接受", "english": "accept"}
+{"id": 5, "stage": "小学", "grade": "KET", "chinese": "事故；意外", "english": "accident"}
+{"id": 6, "stage": "小学", "grade": "KET", "chinese": "穿过；横过", "english": "across"}
+{"id": 7, "stage": "小学", "grade": "KET", "chinese": "行动；表演", "english": "act"}
+{"id": 8, "stage": "小学", "grade": "KET", "chinese": "活动", "english": "activity"}
+{"id": 9, "stage": "小学", "grade": "KET", "chinese": "增加；添加", "english": "add"}
+{"id": 10, "stage": "小学", "grade": "KET", "chinese": "地址", "english": "address"}
+{"id": 11, "stage": "小学", "grade": "KET", "chinese": "害怕的；担心的", "english": "afraid"}
+{"id": 12, "stage": "小学", "grade": "KET", "chinese": "在…… 之后", "english": "after"}
+{"id": 13, "stage": "小学", "grade": "KET", "chinese": "下午", "english": "afternoon"}
+{"id": 14, "stage": "小学", "grade": "KET", "chinese": "再一次；又", "english": "again"}
+{"id": 15, "stage": "小学", "grade": "KET", "chinese": "反对；靠着", "english": "against"}
+{"id": 16, "stage": "小学", "grade": "KET", "chinese": "年龄；时代", "english": "age"}
+{"id": 17, "stage": "小学", "grade": "KET", "chinese": "以前", "english": "ago"}
+{"id": 18, "stage": "小学", "grade": "KET", "chinese": "同意；赞成", "english": "agree"}
+{"id": 19, "stage": "小学", "grade": "KET", "chinese": "空气；天空", "english": "air"}
+{"id": 20, "stage": "小学", "grade": "KET", "chinese": "所有的；全部", "english": "all"}
+{"id": 21, "stage": "小学", "grade": "KET", "chinese": "允许；准许", "english": "allow"}
+{"id": 22, "stage": "小学", "grade": "KET", "chinese": "几乎；差不多", "english": "almost"}
+{"id": 23, "stage": "小学", "grade": "KET", "chinese": "独自的；单独的", "english": "alone"}
+{"id": 24, "stage": "小学", "grade": "KET", "chinese": "沿着；顺着", "english": "along"}
+{"id": 25, "stage": "小学", "grade": "KET", "chinese": "已经", "english": "already"}
+{"id": 26, "stage": "小学", "grade": "KET", "chinese": "也；同样", "english": "also"}
+{"id": 27, "stage": "小学", "grade": "KET", "chinese": "虽然；尽管", "english": "although"}
+{"id": 28, "stage": "小学", "grade": "KET", "chinese": "总是；一直", "english": "always"}
+{"id": 29, "stage": "小学", "grade": "KET", "chinese": "美国；美洲", "english": "America"}
+{"id": 30, "stage": "小学", "grade": "KET", "chinese": "美国的；美国人", "english": "American"}
+{"id": 31, "stage": "小学", "grade": "KET", "chinese": "在…… 之中", "english": "among"}
+{"id": 32, "stage": "小学", "grade": "KET", "chinese": "一个；一", "english": "an"}
+{"id": 33, "stage": "小学", "grade": "KET", "chinese": "和；与；并且", "english": "and"}
+{"id": 34, "stage": "小学", "grade": "KET", "chinese": "生气的；愤怒的", "english": "angry"}
+{"id": 35, "stage": "小学", "grade": "KET", "chinese": "动物", "english": "animal"}
+{"id": 36, "stage": "小学", "grade": "KET", "chinese": "回答；答案", "english": "answer"}
+{"id": 37, "stage": "小学", "grade": "KET", "chinese": "任何的；一些", "english": "any"}
+{"id": 38, "stage": "小学", "grade": "KET", "chinese": "任何人", "english": "anybody"}
+{"id": 39, "stage": "小学", "grade": "KET", "chinese": "任何人", "english": "anyone"}
+{"id": 40, "stage": "小学", "grade": "KET", "chinese": "任何事；任何东西", "english": "anything"}
+{"id": 41, "stage": "小学", "grade": "KET", "chinese": "任何地方", "english": "anywhere"}
+{"id": 42, "stage": "小学", "grade": "KET", "chinese": "出现；显得", "english": "appear"}
+{"id": 43, "stage": "小学", "grade": "KET", "chinese": "苹果", "english": "apple"}
+{"id": 44, "stage": "小学", "grade": "KET", "chinese": "四月", "english": "April"}
+{"id": 45, "stage": "小学", "grade": "KET", "chinese": "是", "english": "are"}
+{"id": 46, "stage": "小学", "grade": "KET", "chinese": "地区；面积", "english": "area"}
+{"id": 47, "stage": "小学", "grade": "KET", "chinese": "手臂；胳膊", "english": "arm"}
+{"id": 48, "stage": "小学", "grade": "KET", "chinese": "在…… 周围；大约", "english": "around"}
+{"id": 49, "stage": "小学", "grade": "KET", "chinese": "到达；抵达", "english": "arrive"}
+{"id": 50, "stage": "小学", "grade": "KET", "chinese": "艺术；美术", "english": "art"}
+{"id": 51, "stage": "小学", "grade": "KET", "chinese": "作为；像；当…… 时候", "english": "as"}
+{"id": 52, "stage": "小学", "grade": "KET", "chinese": "问；请求", "english": "ask"}
+{"id": 53, "stage": "小学", "grade": "KET", "chinese": "睡着的", "english": "asleep"}
+{"id": 54, "stage": "小学", "grade": "KET", "chinese": "在；以；向", "english": "at"}
+{"id": 55, "stage": "小学", "grade": "KET", "chinese": "攻击；袭击", "english": "attack"}
+{"id": 56, "stage": "小学", "grade": "KET", "chinese": "注意；关注", "english": "attention"}
+{"id": 57, "stage": "小学", "grade": "KET", "chinese": "八月", "english": "August"}
+{"id": 58, "stage": "小学", "grade": "KET", "chinese": "阿姨；姑姑；婶婶", "english": "aunt"}
+{"id": 59, "stage": "小学", "grade": "KET", "chinese": "澳大利亚", "english": "Australia"}
+{"id": 60, "stage": "小学", "grade": "KET", "chinese": "澳大利亚的；澳大利亚人", "english": "Australian"}
+{"id": 61, "stage": "小学", "grade": "KET", "chinese": "秋天", "english": "autumn"}
+{"id": 62, "stage": "小学", "grade": "KET", "chinese": "离开；远离", "english": "away"}
+{"id": 63, "stage": "小学", "grade": "KET", "chinese": "婴儿", "english": "baby"}
+{"id": 64, "stage": "小学", "grade": "KET", "chinese": "后面；背部；回来", "english": "back"}
+{"id": 65, "stage": "小学", "grade": "KET", "chinese": "坏的；糟糕的", "english": "bad"}
+{"id": 66, "stage": "小学", "grade": "KET", "chinese": "包；袋", "english": "bag"}
+{"id": 67, "stage": "小学", "grade": "KET", "chinese": "球", "english": "ball"}
+{"id": 68, "stage": "小学", "grade": "KET", "chinese": "气球", "english": "balloon"}
+{"id": 69, "stage": "小学", "grade": "KET", "chinese": "香蕉", "english": "banana"}
+{"id": 70, "stage": "小学", "grade": "KET", "chinese": "银行；河岸", "english": "bank"}
+{"id": 71, "stage": "小学", "grade": "KET", "chinese": "条；棒；酒吧", "english": "bar"}
+{"id": 72, "stage": "小学", "grade": "KET", "chinese": "基础；基地", "english": "base"}
+{"id": 73, "stage": "小学", "grade": "KET", "chinese": "篮子", "english": "basket"}
+{"id": 74, "stage": "小学", "grade": "KET", "chinese": "篮球", "english": "basketball"}
+{"id": 75, "stage": "小学", "grade": "KET", "chinese": "洗澡；浴缸", "english": "bath"}
+{"id": 76, "stage": "小学", "grade": "KET", "chinese": "浴室；卫生间", "english": "bathroom"}
+{"id": 77, "stage": "小学", "grade": "KET", "chinese": "是；存在", "english": "be"}
+{"id": 78, "stage": "小学", "grade": "KET", "chinese": "海滩", "english": "beach"}
+{"id": 79, "stage": "小学", "grade": "KET", "chinese": "熊；忍受", "english": "bear"}
+{"id": 80, "stage": "小学", "grade": "KET", "chinese": "美丽的；漂亮的", "english": "beautiful"}
+{"id": 81, "stage": "小学", "grade": "KET", "chinese": "因为", "english": "because"}
+{"id": 82, "stage": "小学", "grade": "KET", "chinese": "变成；成为", "english": "become"}
+{"id": 83, "stage": "小学", "grade": "KET", "chinese": "床", "english": "bed"}
+{"id": 84, "stage": "小学", "grade": "KET", "chinese": "卧室", "english": "bedroom"}
+{"id": 85, "stage": "小学", "grade": "KET", "chinese": "蜜蜂", "english": "bee"}
+{"id": 86, "stage": "小学", "grade": "KET", "chinese": "在…… 之前", "english": "before"}
+{"id": 87, "stage": "小学", "grade": "KET", "chinese": "开始", "english": "begin"}
+{"id": 88, "stage": "小学", "grade": "KET", "chinese": "在…… 后面", "english": "behind"}
+{"id": 89, "stage": "小学", "grade": "KET", "chinese": "相信；认为", "english": "believe"}
+{"id": 90, "stage": "小学", "grade": "KET", "chinese": "铃；钟", "english": "bell"}
+{"id": 91, "stage": "小学", "grade": "KET", "chinese": "在…… 下面", "english": "below"}
+{"id": 92, "stage": "小学", "grade": "KET", "chinese": "在…… 旁边", "english": "beside"}
+{"id": 93, "stage": "小学", "grade": "KET", "chinese": "最好的", "english": "best"}
+{"id": 94, "stage": "小学", "grade": "KET", "chinese": "更好的", "english": "better"}
+{"id": 95, "stage": "小学", "grade": "KET", "chinese": "在…… 之间", "english": "between"}
+{"id": 96, "stage": "小学", "grade": "KET", "chinese": "自行车", "english": "bicycle"}
+{"id": 97, "stage": "小学", "grade": "KET", "chinese": "大的", "english": "big"}
+{"id": 98, "stage": "小学", "grade": "KET", "chinese": "自行车", "english": "bike"}
+{"id": 99, "stage": "小学", "grade": "KET", "chinese": "账单；钞票", "english": "bill"}
+{"id": 100, "stage": "小学", "grade": "KET", "chinese": "鸟", "english": "bird"}
+{"id": 101, "stage": "小学", "grade": "KET", "chinese": "出生；诞生", "english": "birth"}
+{"id": 102, "stage": "小学", "grade": "KET", "chinese": "生日", "english": "birthday"}
+{"id": 103, "stage": "小学", "grade": "KET", "chinese": "一点；少量", "english": "bit"}
+{"id": 104, "stage": "小学", "grade": "KET", "chinese": "黑色的；黑色", "english": "black"}
+{"id": 105, "stage": "小学", "grade": "KET", "chinese": "黑板", "english": "blackboard"}
+{"id": 106, "stage": "小学", "grade": "KET", "chinese": "责备；归咎于", "english": "blame"}
+{"id": 107, "stage": "小学", "grade": "KET", "chinese": "蓝色的；蓝色", "english": "blue"}
+{"id": 108, "stage": "小学", "grade": "KET", "chinese": "木板；董事会", "english": "board"}
+{"id": 109, "stage": "小学", "grade": "KET", "chinese": "船", "english": "boat"}
+{"id": 110, "stage": "小学", "grade": "KET", "chinese": "身体", "english": "body"}
+{"id": 111, "stage": "小学", "grade": "KET", "chinese": "书", "english": "book"}
+{"id": 112, "stage": "小学", "grade": "KET", "chinese": "书店", "english": "bookshop"}
+{"id": 113, "stage": "小学", "grade": "KET", "chinese": "无聊的；令人厌烦的", "english": "boring"}
+{"id": 114, "stage": "小学", "grade": "KET", "chinese": "两者都", "english": "both"}
+{"id": 115, "stage": "小学", "grade": "KET", "chinese": "瓶子", "english": "bottle"}
+{"id": 116, "stage": "小学", "grade": "KET", "chinese": "盒子；箱子", "english": "box"}
+{"id": 117, "stage": "小学", "grade": "KET", "chinese": "男孩", "english": "boy"}
+{"id": 118, "stage": "小学", "grade": "KET", "chinese": "面包", "english": "bread"}
+{"id": 119, "stage": "小学", "grade": "KET", "chinese": "打破；休息", "english": "break"}
+{"id": 120, "stage": "小学", "grade": "KET", "chinese": "早餐", "english": "breakfast"}
+{"id": 121, "stage": "小学", "grade": "KET", "chinese": "桥", "english": "bridge"}
+{"id": 122, "stage": "小学", "grade": "KET", "chinese": "明亮的；聪明的", "english": "bright"}
+{"id": 123, "stage": "小学", "grade": "KET", "chinese": "带来", "english": "bring"}
+{"id": 124, "stage": "小学", "grade": "KET", "chinese": "兄弟", "english": "brother"}
+{"id": 125, "stage": "小学", "grade": "KET", "chinese": "棕色的；棕色", "english": "brown"}
+{"id": 126, "stage": "小学", "grade": "KET", "chinese": "刷子；刷", "english": "brush"}
+{"id": 127, "stage": "小学", "grade": "KET", "chinese": "建造；建立", "english": "build"}
+{"id": 128, "stage": "小学", "grade": "KET", "chinese": "建筑物；大楼", "english": "building"}
+{"id": 129, "stage": "小学", "grade": "KET", "chinese": "燃烧；烧伤", "english": "burn"}
+{"id": 130, "stage": "小学", "grade": "KET", "chinese": "公共汽车", "english": "bus"}
+{"id": 131, "stage": "小学", "grade": "KET", "chinese": "忙碌的", "english": "busy"}
+{"id": 132, "stage": "小学", "grade": "KET", "chinese": "但是", "english": "but"}
+{"id": 133, "stage": "小学", "grade": "KET", "chinese": "买", "english": "buy"}
+{"id": 134, "stage": "小学", "grade": "KET", "chinese": "通过；被；在…… 旁边", "english": "by"}
+{"id": 135, "stage": "小学", "grade": "KET", "chinese": "蛋糕", "english": "cake"}
+{"id": 136, "stage": "小学", "grade": "KET", "chinese": "呼叫；称呼；打电话", "english": "call"}
+{"id": 137, "stage": "小学", "grade": "KET", "chinese": "照相机", "english": "camera"}
+{"id": 138, "stage": "小学", "grade": "KET", "chinese": "露营；营地", "english": "camp"}
+{"id": 139, "stage": "小学", "grade": "KET", "chinese": "能；可以；罐头", "english": "can"}
+{"id": 140, "stage": "小学", "grade": "KET", "chinese": "加拿大", "english": "Canada"}
+{"id": 141, "stage": "小学", "grade": "KET", "chinese": "加拿大的；加拿大人", "english": "Canadian"}
+{"id": 142, "stage": "小学", "grade": "KET", "chinese": "汽车", "english": "car"}
+{"id": 143, "stage": "小学", "grade": "KET", "chinese": "卡片", "english": "card"}
+{"id": 144, "stage": "小学", "grade": "KET", "chinese": "关心；照顾；小心", "english": "care"}
+{"id": 145, "stage": "小学", "grade": "KET", "chinese": "小心的；仔细的", "english": "careful"}
+{"id": 146, "stage": "小学", "grade": "KET", "chinese": "粗心的", "english": "careless"}
+{"id": 147, "stage": "小学", "grade": "KET", "chinese": "携带；搬运", "english": "carry"}
+{"id": 148, "stage": "小学", "grade": "KET", "chinese": "猫", "english": "cat"}
+{"id": 149, "stage": "小学", "grade": "KET", "chinese": "抓住；赶上", "english": "catch"}
+{"id": 150, "stage": "小学", "grade": "KET", "chinese": "原因；引起", "english": "cause"}
+{"id": 151, "stage": "小学", "grade": "KET", "chinese": "光盘", "english": "CD"}
+{"id": 152, "stage": "小学", "grade": "KET", "chinese": "椅子", "english": "chair"}
+{"id": 153, "stage": "小学", "grade": "KET", "chinese": "机会", "english": "chance"}
+{"id": 154, "stage": "小学", "grade": "KET", "chinese": "改变；变化；零钱", "english": "change"}
+{"id": 155, "stage": "小学", "grade": "KET", "chinese": "便宜的", "english": "cheap"}
+{"id": 156, "stage": "小学", "grade": "KET", "chinese": "检查；核对", "english": "check"}
+{"id": 157, "stage": "小学", "grade": "KET", "chinese": "奶酪", "english": "cheese"}
+{"id": 158, "stage": "小学", "grade": "KET", "chinese": "厨师", "english": "chef"}
+{"id": 159, "stage": "小学", "grade": "KET", "chinese": "鸡肉；小鸡", "english": "chicken"}
+{"id": 160, "stage": "小学", "grade": "KET", "chinese": "孩子", "english": "child"}
+{"id": 161, "stage": "小学", "grade": "KET", "chinese": "孩子们", "english": "children"}
+{"id": 162, "stage": "小学", "grade": "KET", "chinese": "中国", "english": "China"}
+{"id": 163, "stage": "小学", "grade": "KET", "chinese": "中国的；中国人；汉语", "english": "Chinese"}
+{"id": 164, "stage": "小学", "grade": "KET", "chinese": "巧克力", "english": "chocolate"}
+{"id": 165, "stage": "小学", "grade": "KET", "chinese": "选择", "english": "choice"}
+{"id": 166, "stage": "小学", "grade": "KET", "chinese": "选择", "english": "choose"}
+{"id": 167, "stage": "小学", "grade": "KET", "chinese": "电影院", "english": "cinema"}
+{"id": 168, "stage": "小学", "grade": "KET", "chinese": "城市", "english": "city"}
+{"id": 169, "stage": "小学", "grade": "KET", "chinese": "班级；课；种类", "english": "class"}
+{"id": 170, "stage": "小学", "grade": "KET", "chinese": "同学", "english": "classmate"}
+{"id": 171, "stage": "小学", "grade": "KET", "chinese": "教室", "english": "classroom"}
+{"id": 172, "stage": "小学", "grade": "KET", "chinese": "干净的；打扫", "english": "clean"}
+{"id": 173, "stage": "小学", "grade": "KET", "chinese": "清楚的；清晰的", "english": "clear"}
+{"id": 174, "stage": "小学", "grade": "KET", "chinese": "聪明的", "english": "clever"}
+{"id": 175, "stage": "小学", "grade": "KET", "chinese": "爬；攀登", "english": "climb"}
+{"id": 176, "stage": "小学", "grade": "KET", "chinese": "钟", "english": "clock"}
+{"id": 177, "stage": "小学", "grade": "KET", "chinese": "关闭；近的", "english": "close"}
+{"id": 178, "stage": "小学", "grade": "KET", "chinese": "衣服", "english": "clothes"}
+{"id": 179, "stage": "小学", "grade": "KET", "chinese": "云", "english": "cloud"}
+{"id": 180, "stage": "小学", "grade": "KET", "chinese": "多云的", "english": "cloudy"}
+{"id": 181, "stage": "小学", "grade": "KET", "chinese": "俱乐部", "english": "club"}
+{"id": 182, "stage": "小学", "grade": "KET", "chinese": "教练；长途客车", "english": "coach"}
+{"id": 183, "stage": "小学", "grade": "KET", "chinese": "外套", "english": "coat"}
+{"id": 184, "stage": "小学", "grade": "KET", "chinese": "咖啡", "english": "coffee"}
+{"id": 185, "stage": "小学", "grade": "KET", "chinese": "硬币", "english": "coin"}
+{"id": 186, "stage": "小学", "grade": "KET", "chinese": "冷的；寒冷；感冒", "english": "cold"}
+{"id": 187, "stage": "小学", "grade": "KET", "chinese": "收集", "english": "collect"}
+{"id": 188, "stage": "小学", "grade": "KET", "chinese": "学院", "english": "college"}
+{"id": 189, "stage": "小学", "grade": "KET", "chinese": "颜色", "english": "colour"}
+{"id": 190, "stage": "小学", "grade": "KET", "chinese": "来", "english": "come"}
+{"id": 191, "stage": "小学", "grade": "KET", "chinese": "计算机", "english": "computer"}
+{"id": 192, "stage": "小学", "grade": "KET", "chinese": "音乐会", "english": "concert"}
+{"id": 193, "stage": "小学", "grade": "KET", "chinese": "烹饪；厨师", "english": "cook"}
+{"id": 194, "stage": "小学", "grade": "KET", "chinese": "炊具", "english": "cooker"}
+{"id": 195, "stage": "小学", "grade": "KET", "chinese": "凉爽的；酷的", "english": "cool"}
+{"id": 196, "stage": "小学", "grade": "KET", "chinese": "复制；副本；抄袭", "english": "copy"}
+{"id": 197, "stage": "小学", "grade": "KET", "chinese": "角落", "english": "corner"}
+{"id": 198, "stage": "小学", "grade": "KET", "chinese": "正确的；纠正", "english": "correct"}
+{"id": 199, "stage": "小学", "grade": "KET", "chinese": "花费；成本", "english": "cost"}
+{"id": 200, "stage": "小学", "grade": "KET", "chinese": "能；可以", "english": "could"}
+{"id": 201, "stage": "小学", "grade": "KET", "chinese": "国家；乡村", "english": "country"}
+{"id": 202, "stage": "小学", "grade": "KET", "chinese": "乡村", "english": "countryside"}
+{"id": 203, "stage": "小学", "grade": "KET", "chinese": "一对；夫妇", "english": "couple"}
+{"id": 204, "stage": "小学", "grade": "KET", "chinese": "课程；过程", "english": "course"}
+{"id": 205, "stage": "小学", "grade": "KET", "chinese": "堂兄弟姊妹；表兄弟姊妹", "english": "cousin"}
+{"id": 206, "stage": "小学", "grade": "KET", "chinese": "覆盖；封面", "english": "cover"}
+{"id": 207, "stage": "小学", "grade": "KET", "chinese": "奶牛", "english": "cow"}
+{"id": 208, "stage": "小学", "grade": "KET", "chinese": "蜡笔", "english": "crayon"}
+{"id": 209, "stage": "小学", "grade": "KET", "chinese": "创造", "english": "create"}
+{"id": 210, "stage": "小学", "grade": "KET", "chinese": "穿过；交叉；十字架", "english": "cross"}
+{"id": 211, "stage": "小学", "grade": "KET", "chinese": "哭；喊", "english": "cry"}
+{"id": 212, "stage": "小学", "grade": "KET", "chinese": "杯子", "english": "cup"}
+{"id": 213, "stage": "小学", "grade": "KET", "chinese": "橱柜", "english": "cupboard"}
+{"id": 214, "stage": "小学", "grade": "KET", "chinese": "切；割", "english": "cut"}
+{"id": 215, "stage": "小学", "grade": "KET", "chinese": "爸爸", "english": "dad"}
+{"id": 216, "stage": "小学", "grade": "KET", "chinese": "跳舞；舞蹈", "english": "dance"}
+{"id": 217, "stage": "小学", "grade": "KET", "chinese": "危险", "english": "danger"}
+{"id": 218, "stage": "小学", "grade": "KET", "chinese": "危险的", "english": "dangerous"}
+{"id": 219, "stage": "小学", "grade": "KET", "chinese": "黑暗的；深色的", "english": "dark"}
+{"id": 220, "stage": "小学", "grade": "KET", "chinese": "日期", "english": "date"}
+{"id": 221, "stage": "小学", "grade": "KET", "chinese": "女儿", "english": "daughter"}
+{"id": 222, "stage": "小学", "grade": "KET", "chinese": "天；白天", "english": "day"}
+{"id": 223, "stage": "小学", "grade": "KET", "chinese": "死的", "english": "dead"}
+{"id": 224, "stage": "小学", "grade": "KET", "chinese": "亲爱的；昂贵的", "english": "dear"}
+{"id": 225, "stage": "小学", "grade": "KET", "chinese": "十二月", "english": "December"}
+{"id": 226, "stage": "小学", "grade": "KET", "chinese": "决定", "english": "decide"}
+{"id": 227, "stage": "小学", "grade": "KET", "chinese": "美味的", "english": "delicious"}
+{"id": 228, "stage": "小学", "grade": "KET", "chinese": "牙医", "english": "dentist"}
+{"id": 229, "stage": "小学", "grade": "KET", "chinese": "部门；系", "english": "department"}
+{"id": 230, "stage": "小学", "grade": "KET", "chinese": "依靠", "english": "depend"}
+{"id": 231, "stage": "小学", "grade": "KET", "chinese": "描述", "english": "describe"}
+{"id": 232, "stage": "小学", "grade": "KET", "chinese": "书桌", "english": "desk"}
+{"id": 233, "stage": "小学", "grade": "KET", "chinese": "发展；开发", "english": "develop"}
+{"id": 234, "stage": "小学", "grade": "KET", "chinese": "死", "english": "die"}
+{"id": 235, "stage": "小学", "grade": "KET", "chinese": "不同的", "english": "different"}
+{"id": 236, "stage": "小学", "grade": "KET", "chinese": "困难的", "english": "difficult"}
+{"id": 237, "stage": "小学", "grade": "KET", "chinese": "挖", "english": "dig"}
+{"id": 238, "stage": "小学", "grade": "KET", "chinese": "晚餐", "english": "dinner"}
+{"id": 239, "stage": "小学", "grade": "KET", "chinese": "直接的；指导", "english": "direct"}
+{"id": 240, "stage": "小学", "grade": "KET", "chinese": "方向", "english": "direction"}
+{"id": 241, "stage": "小学", "grade": "KET", "chinese": "脏的", "english": "dirty"}
+{"id": 242, "stage": "小学", "grade": "KET", "chinese": "发现", "english": "discover"}
+{"id": 243, "stage": "小学", "grade": "KET", "chinese": "盘子；菜肴", "english": "dish"}
+{"id": 244, "stage": "小学", "grade": "KET", "chinese": "做；干", "english": "do"}
+{"id": 245, "stage": "小学", "grade": "KET", "chinese": "医生；博士", "english": "doctor"}
+{"id": 246, "stage": "小学", "grade": "KET", "chinese": "狗", "english": "dog"}
+{"id": 247, "stage": "小学", "grade": "KET", "chinese": "玩偶", "english": "doll"}
+{"id": 248, "stage": "小学", "grade": "KET", "chinese": "门", "english": "door"}
+{"id": 249, "stage": "小学", "grade": "KET", "chinese": "向下", "english": "down"}
+{"id": 250, "stage": "小学", "grade": "KET", "chinese": "画；拉；拖", "english": "draw"}
+{"id": 251, "stage": "小学", "grade": "KET", "chinese": "梦；梦想", "english": "dream"}
+{"id": 252, "stage": "小学", "grade": "KET", "chinese": "连衣裙；穿衣", "english": "dress"}
+{"id": 253, "stage": "小学", "grade": "KET", "chinese": "喝；饮料", "english": "drink"}
+{"id": 254, "stage": "小学", "grade": "KET", "chinese": "驾驶；开车", "english": "drive"}
+{"id": 255, "stage": "小学", "grade": "KET", "chinese": "司机", "english": "driver"}
+{"id": 256, "stage": "小学", "grade": "KET", "chinese": "落下；滴；放弃", "english": "drop"}
+{"id": 257, "stage": "小学", "grade": "KET", "chinese": "干燥的；弄干", "english": "dry"}
+{"id": 258, "stage": "小学", "grade": "KET", "chinese": "鸭子", "english": "duck"}
+{"id": 259, "stage": "小学", "grade": "KET", "chinese": "饺子", "english": "dumpling"}
+{"id": 260, "stage": "小学", "grade": "KET", "chinese": "在…… 期间", "english": "during"}
+{"id": 261, "stage": "小学", "grade": "KET", "chinese": "每个", "english": "each"}
+{"id": 262, "stage": "小学", "grade": "KET", "chinese": "耳朵", "english": "ear"}
+{"id": 263, "stage": "小学", "grade": "KET", "chinese": "早的；早地", "english": "early"}
+{"id": 264, "stage": "小学", "grade": "KET", "chinese": "地球；土地", "english": "earth"}
+{"id": 265, "stage": "小学", "grade": "KET", "chinese": "东方的；东方", "english": "east"}
+{"id": 266, "stage": "小学", "grade": "KET", "chinese": "容易的", "english": "easy"}
+{"id": 267, "stage": "小学", "grade": "KET", "chinese": "吃", "english": "eat"}
+{"id": 268, "stage": "小学", "grade": "KET", "chinese": "边缘", "english": "edge"}
+{"id": 269, "stage": "小学", "grade": "KET", "chinese": "教育", "english": "education"}
+{"id": 270, "stage": "小学", "grade": "KET", "chinese": "鸡蛋", "english": "egg"}
+{"id": 271, "stage": "小学", "grade": "KET", "chinese": "八", "english": "eight"}
+{"id": 272, "stage": "小学", "grade": "KET", "chinese": "十八", "english": "eighteen"}
+{"id": 273, "stage": "小学", "grade": "KET", "chinese": "第八", "english": "eighth"}
+{"id": 274, "stage": "小学", "grade": "KET", "chinese": "八十", "english": "eighty"}
+{"id": 275, "stage": "小学", "grade": "KET", "chinese": "两者之一；也", "english": "either"}
+{"id": 276, "stage": "小学", "grade": "KET", "chinese": "年长的", "english": "elder"}
+{"id": 277, "stage": "小学", "grade": "KET", "chinese": "电的", "english": "electric"}
+{"id": 278, "stage": "小学", "grade": "KET", "chinese": "大象", "english": "elephant"}
+{"id": 279, "stage": "小学", "grade": "KET", "chinese": "十一", "english": "eleven"}
+{"id": 280, "stage": "小学", "grade": "KET", "chinese": "其他的；别的", "english": "else"}
+{"id": 281, "stage": "小学", "grade": "KET", "chinese": "电子邮件", "english": "e-mail"}
+{"id": 282, "stage": "小学", "grade": "KET", "chinese": "空的", "english": "empty"}
+{"id": 283, "stage": "小学", "grade": "KET", "chinese": "结束；尽头", "english": "end"}
+{"id": 284, "stage": "小学", "grade": "KET", "chinese": "英格兰；英国", "english": "England"}
+{"id": 285, "stage": "小学", "grade": "KET", "chinese": "英语；英国的；英国人", "english": "English"}
+{"id": 286, "stage": "小学", "grade": "KET", "chinese": "享受；喜欢", "english": "enjoy"}
+{"id": 287, "stage": "小学", "grade": "KET", "chinese": "足够的；足够地", "english": "enough"}
+{"id": 288, "stage": "小学", "grade": "KET", "chinese": "进入", "english": "enter"}
+{"id": 289, "stage": "小学", "grade": "KET", "chinese": "环境", "english": "environment"}
+{"id": 290, "stage": "小学", "grade": "KET", "chinese": "橡皮擦", "english": "eraser"}
+{"id": 291, "stage": "小学", "grade": "KET", "chinese": "逃跑", "english": "escape"}
+{"id": 292, "stage": "小学", "grade": "KET", "chinese": "特别；尤其", "english": "especially"}
+{"id": 293, "stage": "小学", "grade": "KET", "chinese": "欧洲", "english": "Europe"}
+{"id": 294, "stage": "小学", "grade": "KET", "chinese": "欧洲的；欧洲人", "english": "European"}
+{"id": 295, "stage": "小学", "grade": "KET", "chinese": "甚至；即使", "english": "even"}
+{"id": 296, "stage": "小学", "grade": "KET", "chinese": "晚上", "english": "evening"}
+{"id": 297, "stage": "小学", "grade": "KET", "chinese": "曾经", "english": "ever"}
+{"id": 298, "stage": "小学", "grade": "KET", "chinese": "每个", "english": "every"}
+{"id": 299, "stage": "小学", "grade": "KET", "chinese": "每个人", "english": "everybody"}
+{"id": 300, "stage": "小学", "grade": "KET", "chinese": "每个人", "english": "everyone"}
+{"id": 301, "stage": "小学", "grade": "KET", "chinese": "每件事；一切", "english": "everything"}
+{"id": 302, "stage": "小学", "grade": "KET", "chinese": "到处", "english": "everywhere"}
+{"id": 303, "stage": "小学", "grade": "KET", "chinese": "考试", "english": "exam"}
+{"id": 304, "stage": "小学", "grade": "KET", "chinese": "例子；榜样", "english": "example"}
+{"id": 305, "stage": "小学", "grade": "KET", "chinese": "优秀的", "english": "excellent"}
+{"id": 306, "stage": "小学", "grade": "KET", "chinese": "借口；原谅", "english": "excuse"}
+{"id": 307, "stage": "小学", "grade": "KET", "chinese": "锻炼；练习", "english": "exercise"}
+{"id": 308, "stage": "小学", "grade": "KET", "chinese": "期待；预计", "english": "expect"}
+{"id": 309, "stage": "小学", "grade": "KET", "chinese": "昂贵的", "english": "expensive"}
+{"id": 310, "stage": "小学", "grade": "KET", "chinese": "经验；经历", "english": "experience"}
+{"id": 311, "stage": "小学", "grade": "KET", "chinese": "解释", "english": "explain"}
+{"id": 312, "stage": "小学", "grade": "KET", "chinese": "眼睛", "english": "eye"}
+{"id": 313, "stage": "小学", "grade": "KET", "chinese": "脸；面对", "english": "face"}
+{"id": 314, "stage": "小学", "grade": "KET", "chinese": "事实", "english": "fact"}
+{"id": 315, "stage": "小学", "grade": "KET", "chinese": "工厂", "english": "factory"}
+{"id": 316, "stage": "小学", "grade": "KET", "chinese": "失败", "english": "fail"}
+{"id": 317, "stage": "小学", "grade": "KET", "chinese": "公平的；集市", "english": "fair"}
+{"id": 318, "stage": "小学", "grade": "KET", "chinese": "落下；秋天", "english": "fall"}
+{"id": 319, "stage": "小学", "grade": "KET", "chinese": "家庭；家人", "english": "family"}
+{"id": 320, "stage": "小学", "grade": "KET", "chinese": "著名的", "english": "famous"}
+{"id": 321, "stage": "小学", "grade": "KET", "chinese": "风扇；迷；爱好者", "english": "fan"}
+{"id": 322, "stage": "小学", "grade": "KET", "chinese": "远的", "english": "far"}
+{"id": 323, "stage": "小学", "grade": "KET", "chinese": "农场", "english": "farm"}
+{"id": 324, "stage": "小学", "grade": "KET", "chinese": "农民", "english": "farmer"}
+{"id": 325, "stage": "小学", "grade": "KET", "chinese": "快的；快地", "english": "fast"}
+{"id": 326, "stage": "小学", "grade": "KET", "chinese": "胖的；脂肪", "english": "fat"}
+{"id": 327, "stage": "小学", "grade": "KET", "chinese": "父亲", "english": "father"}
+{"id": 328, "stage": "小学", "grade": "KET", "chinese": "二月", "english": "February"}
+{"id": 329, "stage": "小学", "grade": "KET", "chinese": "喂养", "english": "feed"}
+{"id": 330, "stage": "小学", "grade": "KET", "chinese": "感觉；觉得", "english": "feel"}
+{"id": 331, "stage": "小学", "grade": "KET", "chinese": "感觉；情感", "english": "feeling"}
+{"id": 332, "stage": "小学", "grade": "KET", "chinese": "很少的；几个", "english": "few"}
+{"id": 333, "stage": "小学", "grade": "KET", "chinese": "田野；领域", "english": "field"}
+{"id": 334, "stage": "小学", "grade": "KET", "chinese": "十五", "english": "fifteen"}
+{"id": 335, "stage": "小学", "grade": "KET", "chinese": "第五", "english": "fifth"}
+{"id": 336, "stage": "小学", "grade": "KET", "chinese": "五十", "english": "fifty"}
+{"id": 337, "stage": "小学", "grade": "KET", "chinese": "打架；战斗", "english": "fight"}
+{"id": 338, "stage": "小学", "grade": "KET", "chinese": "数字；人物；图形", "english": "figure"}
+{"id": 339, "stage": "小学", "grade": "KET", "chinese": "装满；填充", "english": "fill"}
+{"id": 340, "stage": "小学", "grade": "KET", "chinese": "电影；胶卷", "english": "film"}
+{"id": 341, "stage": "小学", "grade": "KET", "chinese": "最后的", "english": "final"}
+{"id": 342, "stage": "小学", "grade": "KET", "chinese": "找到；发现", "english": "find"}
+{"id": 343, "stage": "小学", "grade": "KET", "chinese": "好的；晴朗的；罚款", "english": "fine"}
+{"id": 344, "stage": "小学", "grade": "KET", "chinese": "手指", "english": "finger"}
+{"id": 345, "stage": "小学", "grade": "KET", "chinese": "完成", "english": "finish"}
+{"id": 346, "stage": "小学", "grade": "KET", "chinese": "火；火灾；开火", "english": "fire"}
+{"id": 347, "stage": "小学", "grade": "KET", "chinese": "第一；首先", "english": "first"}
+{"id": 348, "stage": "小学", "grade": "KET", "chinese": "鱼；钓鱼", "english": "fish"}
+{"id": 349, "stage": "小学", "grade": "KET", "chinese": "渔夫", "english": "fisherman"}
+{"id": 350, "stage": "小学", "grade": "KET", "chinese": "适合；健康的", "english": "fit"}
+{"id": 351, "stage": "小学", "grade": "KET", "chinese": "五", "english": "five"}
+{"id": 352, "stage": "小学", "grade": "KET", "chinese": "修理；安装", "english": "fix"}
+{"id": 353, "stage": "小学", "grade": "KET", "chinese": "旗帜", "english": "flag"}
+{"id": 354, "stage": "小学", "grade": "KET", "chinese": "公寓；平坦的", "english": "flat"}
+{"id": 355, "stage": "小学", "grade": "KET", "chinese": "地板；楼层", "english": "floor"}
+{"id": 356, "stage": "小学", "grade": "KET", "chinese": "花", "english": "flower"}
+{"id": 357, "stage": "小学", "grade": "KET", "chinese": "飞；苍蝇", "english": "fly"}
+{"id": 358, "stage": "小学", "grade": "KET", "chinese": "跟随；遵循", "english": "follow"}
+{"id": 359, "stage": "小学", "grade": "KET", "chinese": "食物", "english": "food"}
+{"id": 360, "stage": "小学", "grade": "KET", "chinese": "脚；英尺", "english": "foot"}
+{"id": 361, "stage": "小学", "grade": "KET", "chinese": "足球", "english": "football"}
+{"id": 362, "stage": "小学", "grade": "KET", "chinese": "为了；因为；对于", "english": "for"}
+{"id": 363, "stage": "小学", "grade": "KET", "chinese": "力量；强迫", "english": "force"}
+{"id": 364, "stage": "小学", "grade": "KET", "chinese": "外国的", "english": "foreign"}
+{"id": 365, "stage": "小学", "grade": "KET", "chinese": "森林", "english": "forest"}
+{"id": 366, "stage": "小学", "grade": "KET", "chinese": "忘记", "english": "forget"}
+{"id": 367, "stage": "小学", "grade": "KET", "chinese": "叉子", "english": "fork"}
+{"id": 368, "stage": "小学", "grade": "KET", "chinese": "形式；表格；形成", "english": "form"}
+{"id": 369, "stage": "小学", "grade": "KET", "chinese": "四十", "english": "forty"}
+{"id": 370, "stage": "小学", "grade": "KET", "chinese": "向前", "english": "forward"}
+{"id": 371, "stage": "小学", "grade": "KET", "chinese": "四", "english": "four"}
+{"id": 372, "stage": "小学", "grade": "KET", "chinese": "十四", "english": "fourteen"}
+{"id": 373, "stage": "小学", "grade": "KET", "chinese": "第四", "english": "fourth"}
+{"id": 374, "stage": "小学", "grade": "KET", "chinese": "自由的；免费的", "english": "free"}
+{"id": 375, "stage": "小学", "grade": "KET", "chinese": "星期五", "english": "Friday"}
+{"id": 376, "stage": "小学", "grade": "KET", "chinese": "朋友", "english": "friend"}
+{"id": 377, "stage": "小学", "grade": "KET", "chinese": "友好的", "english": "friendly"}
+{"id": 378, "stage": "小学", "grade": "KET", "chinese": "从；来自", "english": "from"}
+{"id": 379, "stage": "小学", "grade": "KET", "chinese": "前面的；前面", "english": "front"}
+{"id": 380, "stage": "小学", "grade": "KET", "chinese": "水果", "english": "fruit"}
+{"id": 381, "stage": "小学", "grade": "KET", "chinese": "满的；饱的", "english": "full"}
+{"id": 382, "stage": "小学", "grade": "KET", "chinese": "有趣的；乐趣", "english": "fun"}
+{"id": 383, "stage": "小学", "grade": "KET", "chinese": "有趣的；滑稽的", "english": "funny"}
+{"id": 384, "stage": "小学", "grade": "KET", "chinese": "家具", "english": "furniture"}
+{"id": 385, "stage": "小学", "grade": "KET", "chinese": "未来", "english": "future"}
+{"id": 386, "stage": "小学", "grade": "KET", "chinese": "游戏；比赛", "english": "game"}
+{"id": 387, "stage": "小学", "grade": "KET", "chinese": "花园", "english": "garden"}
+{"id": 388, "stage": "小学", "grade": "KET", "chinese": "大门", "english": "gate"}
+{"id": 389, "stage": "小学", "grade": "KET", "chinese": "一般的；将军", "english": "general"}
+{"id": 390, "stage": "小学", "grade": "KET", "chinese": "得到；变得；到达", "english": "get"}
+{"id": 391, "stage": "小学", "grade": "KET", "chinese": "礼物", "english": "gift"}
+{"id": 392, "stage": "小学", "grade": "KET", "chinese": "长颈鹿", "english": "giraffe"}
+{"id": 393, "stage": "小学", "grade": "KET", "chinese": "女孩", "english": "girl"}
+{"id": 394, "stage": "小学", "grade": "KET", "chinese": "给", "english": "give"}
+{"id": 395, "stage": "小学", "grade": "KET", "chinese": "高兴的", "english": "glad"}
+{"id": 396, "stage": "小学", "grade": "KET", "chinese": "玻璃；玻璃杯", "english": "glass"}
+{"id": 397, "stage": "小学", "grade": "KET", "chinese": "去；走；变得", "english": "go"}
+{"id": 398, "stage": "小学", "grade": "KET", "chinese": "目标；球门", "english": "goal"}
+{"id": 399, "stage": "小学", "grade": "KET", "chinese": "山羊", "english": "goat"}
+{"id": 400, "stage": "小学", "grade": "KET", "chinese": "神；上帝", "english": "god"}
+{"id": 401, "stage": "小学", "grade": "KET", "chinese": "金；金色的", "english": "gold"}
+{"id": 402, "stage": "小学", "grade": "KET", "chinese": "好的；优良的；愉快的", "english": "good"}
+{"id": 403, "stage": "小学", "grade": "KET", "chinese": "再见", "english": "goodbye"}
+{"id": 404, "stage": "小学", "grade": "KET", "chinese": "鹅；鹅肉", "english": "goose"}
+{"id": 405, "stage": "小学", "grade": "KET", "chinese": "政府", "english": "government"}
+{"id": 406, "stage": "小学", "grade": "KET", "chinese": "等级；年级；成绩", "english": "grade"}
+{"id": 407, "stage": "小学", "grade": "KET", "chinese": "语法", "english": "grammar"}
+{"id": 408, "stage": "小学", "grade": "KET", "chinese": "葡萄", "english": "grape"}
+{"id": 409, "stage": "小学", "grade": "KET", "chinese": "草；草地", "english": "grass"}
+{"id": 410, "stage": "小学", "grade": "KET", "chinese": "伟大的；极好的；重大的", "english": "great"}
+{"id": 411, "stage": "小学", "grade": "KET", "chinese": "绿色的；绿色", "english": "green"}
+{"id": 412, "stage": "小学", "grade": "KET", "chinese": "灰色的；灰色，英式拼法，美式为 gray", "english": "grey"}
+{"id": 413, "stage": "小学", "grade": "KET", "chinese": "地面；土地", "english": "ground"}
+{"id": 414, "stage": "小学", "grade": "KET", "chinese": "组；群；团体", "english": "group"}
+{"id": 415, "stage": "小学", "grade": "KET", "chinese": "生长；种植；成长", "english": "grow"}
+{"id": 416, "stage": "小学", "grade": "KET", "chinese": "猜测；猜想", "english": "guess"}
+{"id": 417, "stage": "小学", "grade": "KET", "chinese": "客人；宾客", "english": "guest"}
+{"id": 418, "stage": "小学", "grade": "KET", "chinese": "导游；指南；指导", "english": "guide"}
+{"id": 419, "stage": "小学", "grade": "KET", "chinese": "吉他", "english": "guitar"}
+{"id": 420, "stage": "小学", "grade": "KET", "chinese": "枪；炮", "english": "gun"}
+{"id": 421, "stage": "小学", "grade": "KET", "chinese": "头发", "english": "hair"}
+{"id": 422, "stage": "小学", "grade": "KET", "chinese": "一半；半个；半场", "english": "half"}
+{"id": 423, "stage": "小学", "grade": "KET", "chinese": "大厅；礼堂", "english": "hall"}
+{"id": 424, "stage": "小学", "grade": "KET", "chinese": "火腿", "english": "ham"}
+{"id": 425, "stage": "小学", "grade": "KET", "chinese": "汉堡包", "english": "hamburger"}
+{"id": 426, "stage": "小学", "grade": "KET", "chinese": "手；帮助；掌管", "english": "hand"}
+{"id": 427, "stage": "小学", "grade": "KET", "chinese": "英俊的；可观的", "english": "handsome"}
+{"id": 428, "stage": "小学", "grade": "KET", "chinese": "悬挂；吊；绞死", "english": "hang"}
+{"id": 429, "stage": "小学", "grade": "KET", "chinese": "发生", "english": "happen"}
+{"id": 430, "stage": "小学", "grade": "KET", "chinese": "高兴的；快乐的", "english": "happy"}
+{"id": 431, "stage": "小学", "grade": "KET", "chinese": "硬的；困难的；努力地", "english": "hard"}
+{"id": 432, "stage": "小学", "grade": "KET", "chinese": "帽子", "english": "hat"}
+{"id": 433, "stage": "小学", "grade": "KET", "chinese": "有；吃；喝；进行", "english": "have"}
+{"id": 434, "stage": "小学", "grade": "KET", "chinese": "他", "english": "he"}
+{"id": 435, "stage": "小学", "grade": "KET", "chinese": "头；头部；首脑", "english": "head"}
+{"id": 436, "stage": "小学", "grade": "KET", "chinese": "头痛", "english": "headache"}
+{"id": 437, "stage": "小学", "grade": "KET", "chinese": "健康；卫生", "english": "health"}
+{"id": 438, "stage": "小学", "grade": "KET", "chinese": "健康的", "english": "healthy"}
+{"id": 439, "stage": "小学", "grade": "KET", "chinese": "听见；听说", "english": "hear"}
+{"id": 440, "stage": "小学", "grade": "KET", "chinese": "心脏；内心；中心", "english": "heart"}
+{"id": 441, "stage": "小学", "grade": "KET", "chinese": "热；热度；加热", "english": "heat"}
+{"id": 442, "stage": "小学", "grade": "KET", "chinese": "重的；沉重的", "english": "heavy"}
+{"id": 443, "stage": "小学", "grade": "KET", "chinese": "喂；你好", "english": "hello"}
+{"id": 444, "stage": "小学", "grade": "KET", "chinese": "帮助；帮忙", "english": "help"}
+{"id": 445, "stage": "小学", "grade": "KET", "chinese": "有帮助的；有用的", "english": "helpful"}
+{"id": 446, "stage": "小学", "grade": "KET", "chinese": "她；她的", "english": "her"}
+{"id": 447, "stage": "小学", "grade": "KET", "chinese": "这里；这儿", "english": "here"}
+{"id": 448, "stage": "小学", "grade": "KET", "chinese": "英雄；男主角", "english": "hero"}
+{"id": 449, "stage": "小学", "grade": "KET", "chinese": "她自己", "english": "herself"}
+{"id": 450, "stage": "小学", "grade": "KET", "chinese": "高的；高级的；高地", "english": "high"}
+{"id": 451, "stage": "小学", "grade": "KET", "chinese": "小山；丘陵", "english": "hill"}
+{"id": 452, "stage": "小学", "grade": "KET", "chinese": "他", "english": "him"}
+{"id": 453, "stage": "小学", "grade": "KET", "chinese": "他自己", "english": "himself"}
+{"id": 454, "stage": "小学", "grade": "KET", "chinese": "他的", "english": "his"}
+{"id": 455, "stage": "小学", "grade": "KET", "chinese": "历史；历史学", "english": "history"}
+{"id": 456, "stage": "小学", "grade": "KET", "chinese": "打；击；碰撞", "english": "hit"}
+{"id": 457, "stage": "小学", "grade": "KET", "chinese": "业余爱好；嗜好", "english": "hobby"}
+{"id": 458, "stage": "小学", "grade": "KET", "chinese": "拿；抱；握住；举行", "english": "hold"}
+{"id": 459, "stage": "小学", "grade": "KET", "chinese": "洞；孔；洞穴", "english": "hole"}
+{"id": 460, "stage": "小学", "grade": "KET", "chinese": "假日；假期", "english": "holiday"}
+{"id": 461, "stage": "小学", "grade": "KET", "chinese": "家；家乡；回家", "english": "home"}
+{"id": 462, "stage": "小学", "grade": "KET", "chinese": "家庭作业", "english": "homework"}
+{"id": 463, "stage": "小学", "grade": "KET", "chinese": "家乡；故乡", "english": "hometown"}
+{"id": 464, "stage": "小学", "grade": "KET", "chinese": "诚实的；正直的", "english": "honest"}
+{"id": 465, "stage": "小学", "grade": "KET", "chinese": "希望；期望", "english": "hope"}
+{"id": 466, "stage": "小学", "grade": "KET", "chinese": "马", "english": "horse"}
+{"id": 467, "stage": "小学", "grade": "KET", "chinese": "医院", "english": "hospital"}
+{"id": 468, "stage": "小学", "grade": "KET", "chinese": "热的；辣的", "english": "hot"}
+{"id": 469, "stage": "小学", "grade": "KET", "chinese": "旅馆；酒店", "english": "hotel"}
+{"id": 470, "stage": "小学", "grade": "KET", "chinese": "小时", "english": "hour"}
+{"id": 471, "stage": "小学", "grade": "KET", "chinese": "房子；住宅", "english": "house"}
+{"id": 472, "stage": "小学", "grade": "KET", "chinese": "怎样；如何；多少", "english": "how"}
+{"id": 473, "stage": "小学", "grade": "KET", "chinese": "然而；可是", "english": "however"}
+{"id": 474, "stage": "小学", "grade": "KET", "chinese": "百", "english": "hundred"}
+{"id": 475, "stage": "小学", "grade": "KET", "chinese": "饥饿的", "english": "hungry"}
+{"id": 476, "stage": "小学", "grade": "KET", "chinese": "匆忙；赶快", "english": "hurry"}
+{"id": 477, "stage": "小学", "grade": "KET", "chinese": "伤害；使受伤；疼痛", "english": "hurt"}
+{"id": 478, "stage": "小学", "grade": "KET", "chinese": "丈夫", "english": "husband"}
+{"id": 479, "stage": "小学", "grade": "KET", "chinese": "冰；冰块", "english": "ice"}
+{"id": 480, "stage": "小学", "grade": "KET", "chinese": "冰淇淋", "english": "ice-cream"}
+{"id": 481, "stage": "小学", "grade": "KET", "chinese": "主意；想法；观念", "english": "idea"}
+{"id": 482, "stage": "小学", "grade": "KET", "chinese": "如果；假如；是否", "english": "if"}
+{"id": 483, "stage": "小学", "grade": "KET", "chinese": "生病的；不健康的", "english": "ill"}
+{"id": 484, "stage": "小学", "grade": "KET", "chinese": "重要的", "english": "important"}
+{"id": 485, "stage": "小学", "grade": "KET", "chinese": "在…… 里面；在…… 期间；在…… 方面", "english": "in"}
+{"id": 486, "stage": "小学", "grade": "KET", "chinese": "包括；包含", "english": "include"}
+{"id": 487, "stage": "小学", "grade": "KET", "chinese": "信息；资料", "english": "information"}
+{"id": 488, "stage": "小学", "grade": "KET", "chinese": "在…… 里面；里面的", "english": "inside"}
+{"id": 489, "stage": "小学", "grade": "KET", "chinese": "代替；而不是", "english": "instead"}
+{"id": 490, "stage": "小学", "grade": "KET", "chinese": "兴趣；爱好；使感兴趣", "english": "interest"}
+{"id": 491, "stage": "小学", "grade": "KET", "chinese": "有趣的", "english": "interesting"}
+{"id": 492, "stage": "小学", "grade": "KET", "chinese": "到…… 里面；进入", "english": "into"}
+{"id": 493, "stage": "小学", "grade": "KET", "chinese": "邀请；招待", "english": "invite"}
+{"id": 494, "stage": "小学", "grade": "KET", "chinese": "铁；熨斗；熨烫", "english": "iron"}
+{"id": 495, "stage": "小学", "grade": "KET", "chinese": "岛屿", "english": "island"}
+{"id": 496, "stage": "小学", "grade": "KET", "chinese": "它", "english": "it"}
+{"id": 497, "stage": "小学", "grade": "KET", "chinese": "它的", "english": "its"}
+{"id": 498, "stage": "小学", "grade": "KET", "chinese": "它自己", "english": "itself"}
+{"id": 499, "stage": "小学", "grade": "KET", "chinese": "夹克衫", "english": "jacket"}
+{"id": 500, "stage": "小学", "grade": "KET", "chinese": "一月", "english": "January"}
+{"id": 501, "stage": "小学", "grade": "KET", "chinese": "日本", "english": "Japan"}
+{"id": 502, "stage": "小学", "grade": "KET", "chinese": "日本的；日本人；日语", "english": "Japanese"}
+{"id": 503, "stage": "小学", "grade": "KET", "chinese": "工作；职业", "english": "job"}
+{"id": 504, "stage": "小学", "grade": "KET", "chinese": "参加；加入；连接", "english": "join"}
+{"id": 505, "stage": "小学", "grade": "KET", "chinese": "笑话；玩笑", "english": "joke"}
+{"id": 506, "stage": "小学", "grade": "KET", "chinese": "旅行；旅程", "english": "journey"}
+{"id": 507, "stage": "小学", "grade": "KET", "chinese": "欢乐；喜悦；乐趣", "english": "joy"}
+{"id": 508, "stage": "小学", "grade": "KET", "chinese": "果汁；菜汁", "english": "juice"}
+{"id": 509, "stage": "小学", "grade": "KET", "chinese": "七月", "english": "July"}
+{"id": 510, "stage": "小学", "grade": "KET", "chinese": "跳；跳跃；暴涨", "english": "jump"}
+{"id": 511, "stage": "小学", "grade": "KET", "chinese": "六月", "english": "June"}
+{"id": 512, "stage": "小学", "grade": "KET", "chinese": "正好；恰好；刚刚", "english": "just"}
+{"id": 513, "stage": "小学", "grade": "KET", "chinese": "保持；保留；继续", "english": "keep"}
+{"id": 514, "stage": "小学", "grade": "KET", "chinese": "钥匙；关键；答案", "english": "key"}
+{"id": 515, "stage": "小学", "grade": "KET", "chinese": "键盘", "english": "keyboard"}
+{"id": 516, "stage": "小学", "grade": "KET", "chinese": "踢", "english": "kick"}
+{"id": 517, "stage": "小学", "grade": "KET", "chinese": "小孩；儿童", "english": "kid"}
+{"id": 518, "stage": "小学", "grade": "KET", "chinese": "杀死；弄死", "english": "kill"}
+{"id": 519, "stage": "小学", "grade": "KET", "chinese": "千克；公斤，kilogram 的缩写", "english": "kilo"}
+{"id": 520, "stage": "小学", "grade": "KET", "chinese": "千米；公里，美式为 kilometer", "english": "kilometre"}
+{"id": 521, "stage": "小学", "grade": "KET", "chinese": "种类；善良的；和蔼的", "english": "kind"}
+{"id": 522, "stage": "小学", "grade": "KET", "chinese": "国王；君主", "english": "king"}
+{"id": 523, "stage": "小学", "grade": "KET", "chinese": "厨房", "english": "kitchen"}
+{"id": 524, "stage": "小学", "grade": "KET", "chinese": "风筝", "english": "kite"}
+{"id": 525, "stage": "小学", "grade": "KET", "chinese": "膝盖", "english": "knee"}
+{"id": 526, "stage": "小学", "grade": "KET", "chinese": "刀；匕首", "english": "knife"}
+{"id": 527, "stage": "小学", "grade": "KET", "chinese": "敲；打；击", "english": "knock"}
+{"id": 528, "stage": "小学", "grade": "KET", "chinese": "知道；了解；认识", "english": "know"}
+{"id": 529, "stage": "小学", "grade": "KET", "chinese": "知识；学问", "english": "knowledge"}
+{"id": 530, "stage": "小学", "grade": "KET", "chinese": "实验室，laboratory 的缩写", "english": "lab"}
+{"id": 531, "stage": "小学", "grade": "KET", "chinese": "梯子；阶梯", "english": "ladder"}
+{"id": 532, "stage": "小学", "grade": "KET", "chinese": "女士；夫人；小姐", "english": "lady"}
+{"id": 533, "stage": "小学", "grade": "KET", "chinese": "湖；湖泊", "english": "lake"}
+{"id": 534, "stage": "小学", "grade": "KET", "chinese": "陆地；土地；着陆", "english": "land"}
+{"id": 535, "stage": "小学", "grade": "KET", "chinese": "语言", "english": "language"}
+{"id": 536, "stage": "小学", "grade": "KET", "chinese": "大的；大规模的", "english": "large"}
+{"id": 537, "stage": "小学", "grade": "KET", "chinese": "最后的；最近的；持续", "english": "last"}
+{"id": 538, "stage": "小学", "grade": "KET", "chinese": "迟的；晚的；迟到地", "english": "late"}
+{"id": 539, "stage": "小学", "grade": "KET", "chinese": "后来；稍后", "english": "later"}
+{"id": 540, "stage": "小学", "grade": "KET", "chinese": "笑；大笑；嘲笑", "english": "laugh"}
+{"id": 541, "stage": "小学", "grade": "KET", "chinese": "法律；法规；规律", "english": "law"}
+{"id": 542, "stage": "小学", "grade": "KET", "chinese": "懒惰的", "english": "lazy"}
+{"id": 543, "stage": "小学", "grade": "KET", "chinese": "带领；引导；领导", "english": "lead"}
+{"id": 544, "stage": "小学", "grade": "KET", "chinese": "树叶；叶子", "english": "leaf"}
+{"id": 545, "stage": "小学", "grade": "KET", "chinese": "学习；学会；得知", "english": "learn"}
+{"id": 546, "stage": "小学", "grade": "KET", "chinese": "最少；最小；至少", "english": "least"}
+{"id": 547, "stage": "小学", "grade": "KET", "chinese": "离开；留下；遗忘", "english": "leave"}
+{"id": 548, "stage": "小学", "grade": "KET", "chinese": "左边的；左边；离开 leave 的过去式", "english": "left"}
+{"id": 549, "stage": "小学", "grade": "KET", "chinese": "腿；腿部", "english": "leg"}
+{"id": 550, "stage": "小学", "grade": "KET", "chinese": "柠檬", "english": "lemon"}
+{"id": 551, "stage": "小学", "grade": "KET", "chinese": "借出；借给", "english": "lend"}
+{"id": 552, "stage": "小学", "grade": "KET", "chinese": "课程；教训", "english": "lesson"}
+{"id": 553, "stage": "小学", "grade": "KET", "chinese": "让；允许", "english": "let"}
+{"id": 554, "stage": "小学", "grade": "KET", "chinese": "信；字母", "english": "letter"}
+{"id": 555, "stage": "小学", "grade": "KET", "chinese": "图书馆；图书室", "english": "library"}
+{"id": 556, "stage": "小学", "grade": "KET", "chinese": "躺；平躺；说谎", "english": "lie"}
+{"id": 557, "stage": "小学", "grade": "KET", "chinese": "生命；生活；人生", "english": "life"}
+{"id": 558, "stage": "小学", "grade": "KET", "chinese": "举起；抬起；电梯", "english": "lift"}
+{"id": 559, "stage": "小学", "grade": "KET", "chinese": "光；光线；轻的；明亮的", "english": "light"}
+{"id": 560, "stage": "小学", "grade": "KET", "chinese": "喜欢；像；如同", "english": "like"}
+{"id": 561, "stage": "小学", "grade": "KET", "chinese": "线；线条；排", "english": "line"}
+{"id": 562, "stage": "小学", "grade": "KET", "chinese": "狮子", "english": "lion"}
+{"id": 563, "stage": "小学", "grade": "KET", "chinese": "清单；目录；列出", "english": "list"}
+{"id": 564, "stage": "小学", "grade": "KET", "chinese": "听；倾听", "english": "listen"}
+{"id": 565, "stage": "小学", "grade": "KET", "chinese": "小的；少的；一点儿", "english": "little"}
+{"id": 566, "stage": "小学", "grade": "KET", "chinese": "居住；生活；活着；直播", "english": "live"}
+{"id": 567, "stage": "小学", "grade": "KET", "chinese": "锁；锁上", "english": "lock"}
+{"id": 568, "stage": "小学", "grade": "KET", "chinese": "长的；长时间的", "english": "long"}
+{"id": 569, "stage": "小学", "grade": "KET", "chinese": "看；瞧；看起来", "english": "look"}
+{"id": 570, "stage": "小学", "grade": "KET", "chinese": "丢失；失去；输掉", "english": "lose"}
+{"id": 571, "stage": "小学", "grade": "KET", "chinese": "许多；大量", "english": "lot"}
+{"id": 572, "stage": "小学", "grade": "KET", "chinese": "大声的；响亮的", "english": "loud"}
+{"id": 573, "stage": "小学", "grade": "KET", "chinese": "爱；喜爱；热爱", "english": "love"}
+{"id": 574, "stage": "小学", "grade": "KET", "chinese": "可爱的；美好的", "english": "lovely"}
+{"id": 575, "stage": "小学", "grade": "KET", "chinese": "低的；矮的；低下地", "english": "low"}
+{"id": 576, "stage": "小学", "grade": "KET", "chinese": "运气；好运", "english": "luck"}
+{"id": 577, "stage": "小学", "grade": "KET", "chinese": "幸运的", "english": "lucky"}
+{"id": 578, "stage": "小学", "grade": "KET", "chinese": "午餐", "english": "lunch"}
+{"id": 579, "stage": "小学", "grade": "KET", "chinese": "机器", "english": "machine"}
+{"id": 580, "stage": "小学", "grade": "KET", "chinese": "夫人；女士", "english": "madam"}
+{"id": 581, "stage": "小学", "grade": "KET", "chinese": "杂志", "english": "magazine"}
+{"id": 582, "stage": "小学", "grade": "KET", "chinese": "邮件；信件；邮寄", "english": "mail"}
+{"id": 583, "stage": "小学", "grade": "KET", "chinese": "主要的", "english": "main"}
+{"id": 584, "stage": "小学", "grade": "KET", "chinese": "制作；使；让；成为", "english": "make"}
+{"id": 585, "stage": "小学", "grade": "KET", "chinese": "男人；人；人类", "english": "man"}
+{"id": 586, "stage": "小学", "grade": "KET", "chinese": "管理；经营；设法", "english": "manage"}
+{"id": 587, "stage": "小学", "grade": "KET", "chinese": "经理；管理人", "english": "manager"}
+{"id": 588, "stage": "小学", "grade": "KET", "chinese": "许多的；大量的", "english": "many"}
+{"id": 589, "stage": "小学", "grade": "KET", "chinese": "地图", "english": "map"}
+{"id": 590, "stage": "小学", "grade": "KET", "chinese": "三月", "english": "March"}
+{"id": 591, "stage": "小学", "grade": "KET", "chinese": "标记；记号；分数", "english": "mark"}
+{"id": 592, "stage": "小学", "grade": "KET", "chinese": "市场；集市", "english": "market"}
+{"id": 593, "stage": "小学", "grade": "KET", "chinese": "结婚；娶；嫁", "english": "marry"}
+{"id": 594, "stage": "小学", "grade": "KET", "chinese": "比赛；火柴；匹配", "english": "match"}
+{"id": 595, "stage": "小学", "grade": "KET", "chinese": "事情；问题；要紧", "english": "matter"}
+{"id": 596, "stage": "小学", "grade": "KET", "chinese": "可以；也许；可能", "english": "may"}
+{"id": 597, "stage": "小学", "grade": "KET", "chinese": "也许；可能", "english": "maybe"}
+{"id": 598, "stage": "小学", "grade": "KET", "chinese": "我", "english": "me"}
+{"id": 599, "stage": "小学", "grade": "KET", "chinese": "一餐；一顿饭", "english": "meal"}
+{"id": 600, "stage": "小学", "grade": "KET", "chinese": "意思是；意味着；打算", "english": "mean"}
+{"id": 601, "stage": "小学", "grade": "KET", "chinese": "意思；含义", "english": "meaning"}
+{"id": 602, "stage": "小学", "grade": "KET", "chinese": "肉", "english": "meat"}
+{"id": 603, "stage": "小学", "grade": "KET", "chinese": "药；医学", "english": "medicine"}
+{"id": 604, "stage": "小学", "grade": "KET", "chinese": "遇见；见到；会面", "english": "meet"}
+{"id": 605, "stage": "小学", "grade": "KET", "chinese": "会议；集会", "english": "meeting"}
+{"id": 606, "stage": "小学", "grade": "KET", "chinese": "成员；会员", "english": "member"}
+{"id": 607, "stage": "小学", "grade": "KET", "chinese": "记忆；记忆力", "english": "memory"}
+{"id": 608, "stage": "小学", "grade": "KET", "chinese": "修理；修补", "english": "mend"}
+{"id": 609, "stage": "小学", "grade": "KET", "chinese": "菜单", "english": "menu"}
+{"id": 610, "stage": "小学", "grade": "KET", "chinese": "消息；信息", "english": "message"}
+{"id": 611, "stage": "小学", "grade": "KET", "chinese": "金属", "english": "metal"}
+{"id": 612, "stage": "小学", "grade": "KET", "chinese": "中间；中部；中间的", "english": "middle"}
+{"id": 613, "stage": "小学", "grade": "KET", "chinese": "可能；也许，may 的过去式", "english": "might"}
+{"id": 614, "stage": "小学", "grade": "KET", "chinese": "英里", "english": "mile"}
+{"id": 615, "stage": "小学", "grade": "KET", "chinese": "牛奶；挤奶", "english": "milk"}
+{"id": 616, "stage": "小学", "grade": "KET", "chinese": "百万", "english": "million"}
+{"id": 617, "stage": "小学", "grade": "KET", "chinese": "头脑；心思；介意", "english": "mind"}
+{"id": 618, "stage": "小学", "grade": "KET", "chinese": "我的；矿；矿井", "english": "mine"}
+{"id": 619, "stage": "小学", "grade": "KET", "chinese": "分钟；片刻", "english": "minute"}
+{"id": 620, "stage": "小学", "grade": "KET", "chinese": "想念；错过；女士", "english": "miss"}
+{"id": 621, "stage": "小学", "grade": "KET", "chinese": "错误；失误", "english": "mistake"}
+{"id": 622, "stage": "小学", "grade": "KET", "chinese": "模型；模范；模特", "english": "model"}
+{"id": 623, "stage": "小学", "grade": "KET", "chinese": "现代的", "english": "modern"}
+{"id": 624, "stage": "小学", "grade": "KET", "chinese": "时刻；瞬间", "english": "moment"}
+{"id": 625, "stage": "小学", "grade": "KET", "chinese": "钱；货币", "english": "money"}
+{"id": 626, "stage": "小学", "grade": "KET", "chinese": "猴子", "english": "monkey"}
+{"id": 627, "stage": "小学", "grade": "KET", "chinese": "月；月份", "english": "month"}
+{"id": 628, "stage": "小学", "grade": "KET", "chinese": "月亮；月球", "english": "moon"}
+{"id": 629, "stage": "小学", "grade": "KET", "chinese": "早晨；上午", "english": "morning"}
+{"id": 630, "stage": "小学", "grade": "KET", "chinese": "大多数；最多；最", "english": "most"}
+{"id": 631, "stage": "小学", "grade": "KET", "chinese": "母亲；妈妈", "english": "mother"}
+{"id": 632, "stage": "小学", "grade": "KET", "chinese": "山；山脉", "english": "mountain"}
+{"id": 633, "stage": "小学", "grade": "KET", "chinese": "老鼠；鼠标", "english": "mouse"}
+{"id": 634, "stage": "小学", "grade": "KET", "chinese": "嘴；口腔", "english": "mouth"}
+{"id": 635, "stage": "小学", "grade": "KET", "chinese": "移动；搬动；搬家", "english": "move"}
+{"id": 636, "stage": "小学", "grade": "KET", "chinese": "电影", "english": "movie"}
+{"id": 637, "stage": "小学", "grade": "KET", "chinese": "先生", "english": "Mr."}
+{"id": 638, "stage": "小学", "grade": "KET", "chinese": "夫人；太太", "english": "Mrs."}
+{"id": 639, "stage": "小学", "grade": "KET", "chinese": "女士", "english": "Ms."}
+{"id": 640, "stage": "小学", "grade": "KET", "chinese": "许多；大量；非常", "english": "much"}
+{"id": 641, "stage": "小学", "grade": "KET", "chinese": "音乐；乐曲", "english": "music"}
+{"id": 642, "stage": "小学", "grade": "KET", "chinese": "必须；一定", "english": "must"}
+{"id": 643, "stage": "小学", "grade": "KET", "chinese": "我的", "english": "my"}
+{"id": 644, "stage": "小学", "grade": "KET", "chinese": "我自己", "english": "myself"}
+{"id": 645, "stage": "小学", "grade": "KET", "chinese": "名字；名称；命名", "english": "name"}
+{"id": 646, "stage": "小学", "grade": "KET", "chinese": "国家；民族", "english": "nation"}
+{"id": 647, "stage": "小学", "grade": "KET", "chinese": "国家的；民族的", "english": "national"}
+{"id": 648, "stage": "小学", "grade": "KET", "chinese": "自然的；天然的", "english": "natural"}
+{"id": 649, "stage": "小学", "grade": "KET", "chinese": "自然；自然界", "english": "nature"}
+{"id": 650, "stage": "小学", "grade": "KET", "chinese": "在…… 附近；接近；近的", "english": "near"}
+{"id": 651, "stage": "小学", "grade": "KET", "chinese": "几乎；将近", "english": "nearly"}
+{"id": 652, "stage": "小学", "grade": "KET", "chinese": "必要的；必需的", "english": "necessary"}
+{"id": 653, "stage": "小学", "grade": "KET", "chinese": "脖子；颈部", "english": "neck"}
+{"id": 654, "stage": "小学", "grade": "KET", "chinese": "需要；必要；需求", "english": "need"}
+{"id": 655, "stage": "小学", "grade": "KET", "chinese": "针；指针", "english": "needle"}
+{"id": 656, "stage": "小学", "grade": "KET", "chinese": "两者都不；也不", "english": "neither"}
+{"id": 657, "stage": "小学", "grade": "KET", "chinese": "紧张的；不安的", "english": "nervous"}
+{"id": 658, "stage": "小学", "grade": "KET", "chinese": "网；网络", "english": "net"}
+{"id": 659, "stage": "小学", "grade": "KET", "chinese": "从不；决不", "english": "never"}
+{"id": 660, "stage": "小学", "grade": "KET", "chinese": "新的；新鲜的", "english": "new"}
+{"id": 661, "stage": "小学", "grade": "KET", "chinese": "新闻；消息", "english": "news"}
+{"id": 662, "stage": "小学", "grade": "KET", "chinese": "报纸", "english": "newspaper"}
+{"id": 663, "stage": "小学", "grade": "KET", "chinese": "下一个；接下来；紧挨着", "english": "next"}
+{"id": 664, "stage": "小学", "grade": "KET", "chinese": "美好的；令人愉快的", "english": "nice"}
+{"id": 665, "stage": "小学", "grade": "KET", "chinese": "夜晚；晚上", "english": "night"}
+{"id": 666, "stage": "小学", "grade": "KET", "chinese": "九", "english": "nine"}
+{"id": 667, "stage": "小学", "grade": "KET", "chinese": "十九", "english": "nineteen"}
+{"id": 668, "stage": "小学", "grade": "KET", "chinese": "第九", "english": "ninth"}
+{"id": 669, "stage": "小学", "grade": "KET", "chinese": "九十", "english": "ninety"}
+{"id": 670, "stage": "小学", "grade": "KET", "chinese": "不；没有；不是", "english": "no"}
+{"id": 671, "stage": "小学", "grade": "KET", "chinese": "噪音；喧闹声", "english": "noise"}
+{"id": 672, "stage": "小学", "grade": "KET", "chinese": "吵闹的；嘈杂的", "english": "noisy"}
+{"id": 673, "stage": "小学", "grade": "KET", "chinese": "没有一个；毫无", "english": "none"}
+{"id": 674, "stage": "小学", "grade": "KET", "chinese": "也不", "english": "nor"}
+{"id": 675, "stage": "小学", "grade": "KET", "chinese": "北方；北部；北方的", "english": "north"}
+{"id": 676, "stage": "小学", "grade": "KET", "chinese": "鼻子", "english": "nose"}
+{"id": 677, "stage": "小学", "grade": "KET", "chinese": "不；没有", "english": "not"}
+{"id": 678, "stage": "小学", "grade": "KET", "chinese": "笔记；便条；音符", "english": "note"}
+{"id": 679, "stage": "小学", "grade": "KET", "chinese": "没有什么；没有东西", "english": "nothing"}
+{"id": 680, "stage": "小学", "grade": "KET", "chinese": "注意；通知；布告", "english": "notice"}
+{"id": 681, "stage": "小学", "grade": "KET", "chinese": "现在；目前", "english": "now"}
+{"id": 682, "stage": "小学", "grade": "KET", "chinese": "数字；号码；数量", "english": "number"}
+{"id": 683, "stage": "小学", "grade": "KET", "chinese": "护士；保姆", "english": "nurse"}
+{"id": 684, "stage": "小学", "grade": "KET", "chinese": "坚果；螺母", "english": "nut"}
+{"id": 685, "stage": "小学", "grade": "KET", "chinese": "遵守；服从", "english": "obey"}
+{"id": 686, "stage": "小学", "grade": "KET", "chinese": "物体；对象；目标", "english": "object"}
+{"id": 687, "stage": "小学", "grade": "KET", "chinese": "海洋", "english": "ocean"}
+{"id": 688, "stage": "小学", "grade": "KET", "chinese": "…… 的；属于", "english": "of"}
+{"id": 689, "stage": "小学", "grade": "KET", "chinese": "离开；脱落；关掉", "english": "off"}
+{"id": 690, "stage": "小学", "grade": "KET", "chinese": "提供；给予；提议", "english": "offer"}
+{"id": 691, "stage": "小学", "grade": "KET", "chinese": "办公室", "english": "office"}
+{"id": 692, "stage": "小学", "grade": "KET", "chinese": "官员；军官", "english": "officer"}
+{"id": 693, "stage": "小学", "grade": "KET", "chinese": "经常；常常", "english": "often"}
+{"id": 694, "stage": "小学", "grade": "KET", "chinese": "油；石油", "english": "oil"}
+{"id": 695, "stage": "小学", "grade": "KET", "chinese": "老的；旧的", "english": "old"}
+{"id": 696, "stage": "小学", "grade": "KET", "chinese": "在…… 上面；关于；在…… 时候", "english": "on"}
+{"id": 697, "stage": "小学", "grade": "KET", "chinese": "一次；曾经；一旦", "english": "once"}
+{"id": 698, "stage": "小学", "grade": "KET", "chinese": "一；一个；某一个", "english": "one"}
+{"id": 699, "stage": "小学", "grade": "KET", "chinese": "仅仅；只；唯一的", "english": "only"}
+{"id": 700, "stage": "小学", "grade": "KET", "chinese": "打开；开放的；公开的", "english": "open"}
+{"id": 701, "stage": "小学", "grade": "KET", "chinese": "手术；操作；经营", "english": "operation"}
+{"id": 702, "stage": "小学", "grade": "KET", "chinese": "意见；看法；观点", "english": "opinion"}
+{"id": 703, "stage": "小学", "grade": "KET", "chinese": "或者；否则", "english": "or"}
+{"id": 704, "stage": "小学", "grade": "KET", "chinese": "橙子；橙色；橙色的", "english": "orange"}
+{"id": 705, "stage": "小学", "grade": "KET", "chinese": "命令；顺序；订购", "english": "order"}
+{"id": 706, "stage": "小学", "grade": "KET", "chinese": "其他的；另外的", "english": "other"}
+{"id": 707, "stage": "小学", "grade": "KET", "chinese": "我们的", "english": "our"}
+{"id": 708, "stage": "小学", "grade": "KET", "chinese": "我们的", "english": "ours"}
+{"id": 709, "stage": "小学", "grade": "KET", "chinese": "我们自己", "english": "ourselves"}
+{"id": 710, "stage": "小学", "grade": "KET", "chinese": "向外；出去；在外", "english": "out"}
+{"id": 711, "stage": "小学", "grade": "KET", "chinese": "在…… 外面；外面的", "english": "outside"}
+{"id": 712, "stage": "小学", "grade": "KET", "chinese": "在…… 上方；超过；结束", "english": "over"}
+{"id": 713, "stage": "小学", "grade": "KET", "chinese": "自己的；拥有", "english": "own"}
+{"id": 714, "stage": "小学", "grade": "KET", "chinese": "主人；所有者", "english": "owner"}
+{"id": 715, "stage": "小学", "grade": "KET", "chinese": "页；页码", "english": "page"}
+{"id": 716, "stage": "小学", "grade": "KET", "chinese": "疼痛；痛苦", "english": "pain"}
+{"id": 717, "stage": "小学", "grade": "KET", "chinese": "油漆；绘画；颜料", "english": "paint"}
+{"id": 718, "stage": "小学", "grade": "KET", "chinese": "一双；一对", "english": "pair"}
+{"id": 719, "stage": "小学", "grade": "KET", "chinese": "宫殿", "english": "palace"}
+{"id": 720, "stage": "小学", "grade": "KET", "chinese": "纸；纸张；报纸", "english": "paper"}
+{"id": 721, "stage": "小学", "grade": "KET", "chinese": "父亲；母亲；家长", "english": "parent"}
+{"id": 722, "stage": "小学", "grade": "KET", "chinese": "公园；停车场；停车", "english": "park"}
+{"id": 723, "stage": "小学", "grade": "KET", "chinese": "部分；零件；角色", "english": "part"}
+{"id": 724, "stage": "小学", "grade": "KET", "chinese": "聚会；政党", "english": "party"}
+{"id": 725, "stage": "小学", "grade": "KET", "chinese": "通过；传递；经过", "english": "pass"}
+{"id": 726, "stage": "小学", "grade": "KET", "chinese": "乘客；旅客", "english": "passenger"}
+{"id": 727, "stage": "小学", "grade": "KET", "chinese": "过去的；过去；经过", "english": "past"}
+{"id": 728, "stage": "小学", "grade": "KET", "chinese": "支付；付款", "english": "pay"}
+{"id": 729, "stage": "小学", "grade": "KET", "chinese": "和平；平静", "english": "peace"}
+{"id": 730, "stage": "小学", "grade": "KET", "chinese": "梨", "english": "pear"}
+{"id": 731, "stage": "小学", "grade": "KET", "chinese": "钢笔；笔", "english": "pen"}
+{"id": 732, "stage": "小学", "grade": "KET", "chinese": "铅笔", "english": "pencil"}
+{"id": 733, "stage": "小学", "grade": "KET", "chinese": "人；人们；人民", "english": "people"}
+{"id": 734, "stage": "小学", "grade": "KET", "chinese": "每；每一", "english": "per"}
+{"id": 735, "stage": "小学", "grade": "KET", "chinese": "也许；可能", "english": "perhaps"}
+{"id": 736, "stage": "小学", "grade": "KET", "chinese": "人；个人", "english": "person"}
+{"id": 737, "stage": "小学", "grade": "KET", "chinese": "宠物", "english": "pet"}
+{"id": 738, "stage": "小学", "grade": "KET", "chinese": "电话；打电话", "english": "phone"}
+{"id": 739, "stage": "小学", "grade": "KET", "chinese": "照片，photograph 的缩写", "english": "photo"}
+{"id": 740, "stage": "小学", "grade": "KET", "chinese": "物理；物理学", "english": "physics"}
+{"id": 741, "stage": "小学", "grade": "KET", "chinese": "钢琴", "english": "piano"}
+{"id": 742, "stage": "小学", "grade": "KET", "chinese": "挑选；采摘；捡起", "english": "pick"}
+{"id": 743, "stage": "小学", "grade": "KET", "chinese": "图片；照片；图画", "english": "picture"}
+{"id": 744, "stage": "小学", "grade": "KET", "chinese": "片；块；件", "english": "piece"}
+{"id": 745, "stage": "小学", "grade": "KET", "chinese": "猪", "english": "pig"}
+{"id": 746, "stage": "小学", "grade": "KET", "chinese": "飞行员；领航员", "english": "pilot"}
+{"id": 747, "stage": "小学", "grade": "KET", "chinese": "粉色；粉色的", "english": "pink"}
+{"id": 748, "stage": "小学", "grade": "KET", "chinese": "地方；地点；放置", "english": "place"}
+{"id": 749, "stage": "小学", "grade": "KET", "chinese": "计划；打算", "english": "plan"}
+{"id": 750, "stage": "小学", "grade": "KET", "chinese": "飞机；平面", "english": "plane"}
+{"id": 751, "stage": "小学", "grade": "KET", "chinese": "植物；种植", "english": "plant"}
+{"id": 752, "stage": "小学", "grade": "KET", "chinese": "玩；玩耍；演奏；表演", "english": "play"}
+{"id": 753, "stage": "小学", "grade": "KET", "chinese": "运动员；演奏者", "english": "player"}
+{"id": 754, "stage": "小学", "grade": "KET", "chinese": "操场；运动场", "english": "playground"}
+{"id": 755, "stage": "小学", "grade": "KET", "chinese": "请；使高兴；使满意", "english": "please"}
+{"id": 756, "stage": "小学", "grade": "KET", "chinese": "愉快；快乐；乐趣", "english": "pleasure"}
+{"id": 757, "stage": "小学", "grade": "KET", "chinese": "大量；充足", "english": "plenty"}
+{"id": 758, "stage": "小学", "grade": "KET", "chinese": "口袋；衣袋", "english": "pocket"}
+{"id": 759, "stage": "小学", "grade": "KET", "chinese": "诗；诗歌", "english": "poem"}
+{"id": 760, "stage": "小学", "grade": "KET", "chinese": "要点；观点；指着", "english": "point"}
+{"id": 761, "stage": "小学", "grade": "KET", "chinese": "警察；警方", "english": "police"}
+{"id": 762, "stage": "小学", "grade": "KET", "chinese": "男警察", "english": "policeman"}
+{"id": 763, "stage": "小学", "grade": "KET", "chinese": "女警察", "english": "policewoman"}
+{"id": 764, "stage": "小学", "grade": "KET", "chinese": "政策；方针", "english": "policy"}
+{"id": 765, "stage": "小学", "grade": "KET", "chinese": "池塘", "english": "pond"}
+{"id": 766, "stage": "小学", "grade": "KET", "chinese": "水池；游泳池", "english": "pool"}
+{"id": 767, "stage": "小学", "grade": "KET", "chinese": "贫穷的；可怜的", "english": "poor"}
+{"id": 768, "stage": "小学", "grade": "KET", "chinese": "流行的；受欢迎的", "english": "popular"}
+{"id": 769, "stage": "小学", "grade": "KET", "chinese": "人口；人口数量", "english": "population"}
+{"id": 770, "stage": "小学", "grade": "KET", "chinese": "邮政；邮件；邮寄", "english": "post"}
+{"id": 771, "stage": "小学", "grade": "KET", "chinese": "明信片", "english": "postcard"}
+{"id": 772, "stage": "小学", "grade": "KET", "chinese": "邮递员", "english": "postman"}
+{"id": 773, "stage": "小学", "grade": "KET", "chinese": "锅；壶；罐", "english": "pot"}
+{"id": 774, "stage": "小学", "grade": "KET", "chinese": "土豆；马铃薯", "english": "potato"}
+{"id": 775, "stage": "小学", "grade": "KET", "chinese": "英镑；磅", "english": "pound"}
+{"id": 776, "stage": "小学", "grade": "KET", "chinese": "权力；力量；电力", "english": "power"}
+{"id": 777, "stage": "小学", "grade": "KET", "chinese": "练习；实践；训练", "english": "practice"}
+{"id": 778, "stage": "小学", "grade": "KET", "chinese": "礼物；现在；目前；呈现", "english": "present"}
+{"id": 779, "stage": "小学", "grade": "KET", "chinese": "总统；主席；校长", "english": "president"}
+{"id": 780, "stage": "小学", "grade": "KET", "chinese": "价格；价钱", "english": "price"}
+{"id": 781, "stage": "小学", "grade": "KET", "chinese": "骄傲；自豪", "english": "pride"}
+{"id": 782, "stage": "小学", "grade": "KET", "chinese": "印刷；打印", "english": "print"}
+{"id": 783, "stage": "小学", "grade": "KET", "chinese": "监狱", "english": "prison"}
+{"id": 784, "stage": "小学", "grade": "KET", "chinese": "囚犯", "english": "prisoner"}
+{"id": 785, "stage": "小学", "grade": "KET", "chinese": "私人的；私密的", "english": "private"}
+{"id": 786, "stage": "小学", "grade": "KET", "chinese": "问题；难题", "english": "problem"}
+{"id": 787, "stage": "小学", "grade": "KET", "chinese": "生产；制造；产生", "english": "produce"}
+{"id": 788, "stage": "小学", "grade": "KET", "chinese": "节目；计划；程序，美式拼法，英式为 programme", "english": "program"}
+{"id": 789, "stage": "小学", "grade": "KET", "chinese": "进步；进展", "english": "progress"}
+{"id": 790, "stage": "小学", "grade": "KET", "chinese": "承诺；诺言；答应", "english": "promise"}
+{"id": 791, "stage": "小学", "grade": "KET", "chinese": "保护；保卫", "english": "protect"}
+{"id": 792, "stage": "小学", "grade": "KET", "chinese": "骄傲的；自豪的", "english": "proud"}
+{"id": 793, "stage": "小学", "grade": "KET", "chinese": "提供；供给", "english": "provide"}
+{"id": 794, "stage": "小学", "grade": "KET", "chinese": "公众的；公共的", "english": "public"}
+{"id": 795, "stage": "小学", "grade": "KET", "chinese": "拉；拖；拽", "english": "pull"}
+{"id": 796, "stage": "小学", "grade": "KET", "chinese": "推；推动", "english": "push"}
+{"id": 797, "stage": "小学", "grade": "KET", "chinese": "放；安置；使处于", "english": "put"}
+{"id": 798, "stage": "小学", "grade": "KET", "chinese": "质量；品质", "english": "quality"}
+{"id": 799, "stage": "小学", "grade": "KET", "chinese": "问题；疑问；询问", "english": "question"}
+{"id": 800, "stage": "小学", "grade": "KET", "chinese": "快的；迅速的", "english": "quick"}
+{"id": 801, "stage": "小学", "grade": "KET", "chinese": "迅速地；很快地", "english": "quickly"}
+{"id": 802, "stage": "小学", "grade": "KET", "chinese": "安静的；寂静的", "english": "quiet"}
+{"id": 803, "stage": "小学", "grade": "KET", "chinese": "相当；很；非常", "english": "quite"}
+{"id": 804, "stage": "小学", "grade": "KET", "chinese": "赛跑；比赛；种族", "english": "race"}
+{"id": 805, "stage": "小学", "grade": "KET", "chinese": "收音机；无线电", "english": "radio"}
+{"id": 806, "stage": "小学", "grade": "KET", "chinese": "雨；雨水；下雨", "english": "rain"}
+{"id": 807, "stage": "小学", "grade": "KET", "chinese": "彩虹", "english": "rainbow"}
+{"id": 808, "stage": "小学", "grade": "KET", "chinese": "提高；举起；筹集", "english": "raise"}
+{"id": 809, "stage": "小学", "grade": "KET", "chinese": "相当；宁可；宁愿", "english": "rather"}
+{"id": 810, "stage": "小学", "grade": "KET", "chinese": "到达；抵达；够到", "english": "reach"}
+{"id": 811, "stage": "小学", "grade": "KET", "chinese": "读；阅读", "english": "read"}
+{"id": 812, "stage": "小学", "grade": "KET", "chinese": "准备好的；愿意的", "english": "ready"}
+{"id": 813, "stage": "小学", "grade": "KET", "chinese": "真的；真实的", "english": "real"}
+{"id": 814, "stage": "小学", "grade": "KET", "chinese": "真正地；确实", "english": "really"}
+{"id": 815, "stage": "小学", "grade": "KET", "chinese": "原因；理由", "english": "reason"}
+{"id": 816, "stage": "小学", "grade": "KET", "chinese": "收到；接到；接收", "english": "receive"}
+{"id": 817, "stage": "小学", "grade": "KET", "chinese": "最近的；近来的", "english": "recent"}
+{"id": 818, "stage": "小学", "grade": "KET", "chinese": "认出；识别；承认", "english": "recognize"}
+{"id": 819, "stage": "小学", "grade": "KET", "chinese": "记录；记载；唱片", "english": "record"}
+{"id": 820, "stage": "小学", "grade": "KET", "chinese": "红色；红色的", "english": "red"}
+{"id": 821, "stage": "小学", "grade": "KET", "chinese": "提到；涉及；参考", "english": "refer"}
+{"id": 822, "stage": "小学", "grade": "KET", "chinese": "拒绝；回绝", "english": "refuse"}
+{"id": 823, "stage": "小学", "grade": "KET", "chinese": "认为；看待；尊敬", "english": "regard"}
+{"id": 824, "stage": "小学", "grade": "KET", "chinese": "有规律的；定期的", "english": "regular"}
+{"id": 825, "stage": "小学", "grade": "KET", "chinese": "关系；关联；亲属", "english": "relation"}
+{"id": 826, "stage": "小学", "grade": "KET", "chinese": "亲属；亲戚", "english": "relative"}
+{"id": 827, "stage": "小学", "grade": "KET", "chinese": "记得；记住；想起", "english": "remember"}
+{"id": 828, "stage": "小学", "grade": "KET", "chinese": "修理；修补", "english": "repair"}
+{"id": 829, "stage": "小学", "grade": "KET", "chinese": "重复；重做；复述", "english": "repeat"}
+{"id": 830, "stage": "小学", "grade": "KET", "chinese": "报告；报道；汇报", "english": "report"}
+{"id": 831, "stage": "小学", "grade": "KET", "chinese": "休息；剩余部分；其余的人", "english": "rest"}
+{"id": 832, "stage": "小学", "grade": "KET", "chinese": "餐馆；饭店", "english": "restaurant"}
+{"id": 833, "stage": "小学", "grade": "KET", "chinese": "结果；后果", "english": "result"}
+{"id": 834, "stage": "小学", "grade": "KET", "chinese": "返回；归还；回来", "english": "return"}
+{"id": 835, "stage": "小学", "grade": "KET", "chinese": "复习；回顾；评论", "english": "review"}
+{"id": 836, "stage": "小学", "grade": "KET", "chinese": "大米；米饭", "english": "rice"}
+{"id": 837, "stage": "小学", "grade": "KET", "chinese": "富有的；富裕的", "english": "rich"}
+{"id": 838, "stage": "小学", "grade": "KET", "chinese": "骑；乘；搭乘", "english": "ride"}
+{"id": 839, "stage": "小学", "grade": "KET", "chinese": "右边；正确的；右边的", "english": "right"}
+{"id": 840, "stage": "小学", "grade": "KET", "chinese": "戒指；铃声；打电话；响铃", "english": "ring"}
+{"id": 841, "stage": "小学", "grade": "KET", "chinese": "河流", "english": "river"}
+{"id": 842, "stage": "小学", "grade": "KET", "chinese": "路；道路", "english": "road"}
+{"id": 843, "stage": "小学", "grade": "KET", "chinese": "抢劫；掠夺", "english": "rob"}
+{"id": 844, "stage": "小学", "grade": "KET", "chinese": "岩石；摇滚乐", "english": "rock"}
+{"id": 845, "stage": "小学", "grade": "KET", "chinese": "角色；作用；职责", "english": "role"}
+{"id": 846, "stage": "小学", "grade": "KET", "chinese": "房间；空间；余地", "english": "room"}
+{"id": 847, "stage": "小学", "grade": "KET", "chinese": "玫瑰；蔷薇", "english": "rose"}
+{"id": 848, "stage": "小学", "grade": "KET", "chinese": "圆形的；环绕；大约", "english": "round"}
+{"id": 849, "stage": "小学", "grade": "KET", "chinese": "排；行；划船", "english": "row"}
+{"id": 850, "stage": "小学", "grade": "KET", "chinese": "橡胶；橡皮", "english": "rubber"}
+{"id": 851, "stage": "小学", "grade": "KET", "chinese": "规则；规章；统治", "english": "rule"}
+{"id": 852, "stage": "小学", "grade": "KET", "chinese": "跑；奔跑；经营", "english": "run"}
+{"id": 853, "stage": "小学", "grade": "KET", "chinese": "冲；奔；匆忙行动", "english": "rush"}
+{"id": 854, "stage": "小学", "grade": "KET", "chinese": "悲伤的；难过的", "english": "sad"}
+{"id": 855, "stage": "小学", "grade": "KET", "chinese": "安全的；平安的", "english": "safe"}
+{"id": 856, "stage": "小学", "grade": "KET", "chinese": "安全；安全性", "english": "safety"}
+{"id": 857, "stage": "小学", "grade": "KET", "chinese": "航行；航海；帆", "english": "sail"}
+{"id": 858, "stage": "小学", "grade": "KET", "chinese": "销售；出售；减价出售", "english": "sale"}
+{"id": 859, "stage": "小学", "grade": "KET", "chinese": "盐", "english": "salt"}
+{"id": 860, "stage": "小学", "grade": "KET", "chinese": "相同的；同样的", "english": "same"}
+{"id": 861, "stage": "小学", "grade": "KET", "chinese": "沙；沙子", "english": "sand"}
+{"id": 862, "stage": "小学", "grade": "KET", "chinese": "三明治", "english": "sandwich"}
+{"id": 863, "stage": "小学", "grade": "KET", "chinese": "星期六", "english": "Saturday"}
+{"id": 864, "stage": "小学", "grade": "KET", "chinese": "节省；挽救；保存", "english": "save"}
+{"id": 865, "stage": "小学", "grade": "KET", "chinese": "说；讲", "english": "say"}
+{"id": 866, "stage": "小学", "grade": "KET", "chinese": "学校", "english": "school"}
+{"id": 867, "stage": "小学", "grade": "KET", "chinese": "科学；自然科学", "english": "science"}
+{"id": 868, "stage": "小学", "grade": "KET", "chinese": "科学家", "english": "scientist"}
+{"id": 869, "stage": "小学", "grade": "KET", "chinese": "得分；分数；成绩", "english": "score"}
+{"id": 870, "stage": "小学", "grade": "KET", "chinese": "海；海洋", "english": "sea"}
+{"id": 871, "stage": "小学", "grade": "KET", "chinese": "搜索；寻找；搜查", "english": "search"}
+{"id": 872, "stage": "小学", "grade": "KET", "chinese": "季节", "english": "season"}
+{"id": 873, "stage": "小学", "grade": "KET", "chinese": "座位；坐", "english": "seat"}
+{"id": 874, "stage": "小学", "grade": "KET", "chinese": "秒；第二；第二的", "english": "second"}
+{"id": 875, "stage": "小学", "grade": "KET", "chinese": "秘密；秘诀；秘密的", "english": "secret"}
+{"id": 876, "stage": "小学", "grade": "KET", "chinese": "看见；看到；明白", "english": "see"}
+{"id": 877, "stage": "小学", "grade": "KET", "chinese": "似乎；好像", "english": "seem"}
+{"id": 878, "stage": "小学", "grade": "KET", "chinese": "卖；出售", "english": "sell"}
+{"id": 879, "stage": "小学", "grade": "KET", "chinese": "发送；寄；派遣", "english": "send"}
+{"id": 880, "stage": "小学", "grade": "KET", "chinese": "感觉；感官；意识", "english": "sense"}
+{"id": 881, "stage": "小学", "grade": "KET", "chinese": "句子；宣判；判决", "english": "sentence"}
+{"id": 882, "stage": "小学", "grade": "KET", "chinese": "九月", "english": "September"}
+{"id": 883, "stage": "小学", "grade": "KET", "chinese": "严肃的；认真的；严重的", "english": "serious"}
+{"id": 884, "stage": "小学", "grade": "KET", "chinese": "服务；招待；供应", "english": "serve"}
+{"id": 885, "stage": "小学", "grade": "KET", "chinese": "服务；服务机构", "english": "service"}
+{"id": 886, "stage": "小学", "grade": "KET", "chinese": "设置；放置；一套", "english": "set"}
+{"id": 887, "stage": "小学", "grade": "KET", "chinese": "几个；若干", "english": "several"}
+{"id": 888, "stage": "小学", "grade": "KET", "chinese": "将；会；应该", "english": "shall"}
+{"id": 889, "stage": "小学", "grade": "KET", "chinese": "形状；外形；塑造", "english": "shape"}
+{"id": 890, "stage": "小学", "grade": "KET", "chinese": "分享；分担；共用", "english": "share"}
+{"id": 891, "stage": "小学", "grade": "KET", "chinese": "她", "english": "she"}
+{"id": 892, "stage": "小学", "grade": "KET", "chinese": "羊；绵羊", "english": "sheep"}
+{"id": 893, "stage": "小学", "grade": "KET", "chinese": "架子；搁板", "english": "shelf"}
+{"id": 894, "stage": "小学", "grade": "KET", "chinese": "照耀；发光；闪耀", "english": "shine"}
+{"id": 895, "stage": "小学", "grade": "KET", "chinese": "船；轮船", "english": "ship"}
+{"id": 896, "stage": "小学", "grade": "KET", "chinese": "衬衫", "english": "shirt"}
+{"id": 897, "stage": "小学", "grade": "KET", "chinese": "鞋", "english": "shoe"}
+{"id": 898, "stage": "小学", "grade": "KET", "chinese": "商店；购物", "english": "shop"}
+{"id": 899, "stage": "小学", "grade": "KET", "chinese": "短的；矮的", "english": "short"}
+{"id": 900, "stage": "小学", "grade": "KET", "chinese": "展示；显示；演出", "english": "show"}
+{"id": 901, "stage": "小学", "grade": "KET", "chinese": "关闭；关上", "english": "shut"}
+{"id": 902, "stage": "小学", "grade": "KET", "chinese": "生病的；不舒服的", "english": "sick"}
+{"id": 903, "stage": "小学", "grade": "KET", "chinese": "边；侧面；方面", "english": "side"}
+{"id": 904, "stage": "小学", "grade": "KET", "chinese": "符号；标志；签名", "english": "sign"}
+{"id": 905, "stage": "小学", "grade": "KET", "chinese": "沉默；寂静", "english": "silence"}
+{"id": 906, "stage": "小学", "grade": "KET", "chinese": "沉默的；寂静的", "english": "silent"}
+{"id": 907, "stage": "小学", "grade": "KET", "chinese": "银；银色；银色的", "english": "silver"}
+{"id": 908, "stage": "小学", "grade": "KET", "chinese": "相似的；类似的", "english": "similar"}
+{"id": 909, "stage": "小学", "grade": "KET", "chinese": "简单的；简易的", "english": "simple"}
+{"id": 910, "stage": "小学", "grade": "KET", "chinese": "自从；因为；既然", "english": "since"}
+{"id": 911, "stage": "小学", "grade": "KET", "chinese": "唱；唱歌", "english": "sing"}
+{"id": 912, "stage": "小学", "grade": "KET", "chinese": "歌手；歌唱家", "english": "singer"}
+{"id": 913, "stage": "小学", "grade": "KET", "chinese": "单一的；单个的", "english": "single"}
+{"id": 914, "stage": "小学", "grade": "KET", "chinese": "先生；阁下", "english": "sir"}
+{"id": 915, "stage": "小学", "grade": "KET", "chinese": "姐妹", "english": "sister"}
+{"id": 916, "stage": "小学", "grade": "KET", "chinese": "坐；就座", "english": "sit"}
+{"id": 917, "stage": "小学", "grade": "KET", "chinese": "情况；形势；处境", "english": "situation"}
+{"id": 918, "stage": "小学", "grade": "KET", "chinese": "六", "english": "six"}
+{"id": 919, "stage": "小学", "grade": "KET", "chinese": "十六", "english": "sixteen"}
+{"id": 920, "stage": "小学", "grade": "KET", "chinese": "第六", "english": "sixth"}
+{"id": 921, "stage": "小学", "grade": "KET", "chinese": "六十", "english": "sixty"}
+{"id": 922, "stage": "小学", "grade": "KET", "chinese": "尺寸；大小；尺码", "english": "size"}
+{"id": 923, "stage": "小学", "grade": "KET", "chinese": "技能；技巧；技艺", "english": "skill"}
+{"id": 924, "stage": "小学", "grade": "KET", "chinese": "皮肤；外皮", "english": "skin"}
+{"id": 925, "stage": "小学", "grade": "KET", "chinese": "裙子；短裙", "english": "skirt"}
+{"id": 926, "stage": "小学", "grade": "KET", "chinese": "天空", "english": "sky"}
+{"id": 927, "stage": "小学", "grade": "KET", "chinese": "睡觉；睡眠", "english": "sleep"}
+{"id": 928, "stage": "小学", "grade": "KET", "chinese": "困倦的；想睡觉的", "english": "sleepy"}
+{"id": 929, "stage": "小学", "grade": "KET", "chinese": "慢的；缓慢的；慢慢地", "english": "slow"}
+{"id": 930, "stage": "小学", "grade": "KET", "chinese": "小的；少的", "english": "small"}
+{"id": 931, "stage": "小学", "grade": "KET", "chinese": "闻；嗅；气味", "english": "smell"}
+{"id": 932, "stage": "小学", "grade": "KET", "chinese": "微笑；笑容", "english": "smile"}
+{"id": 933, "stage": "小学", "grade": "KET", "chinese": "烟；吸烟；冒烟", "english": "smoke"}
+{"id": 934, "stage": "小学", "grade": "KET", "chinese": "雪；下雪", "english": "snow"}
+{"id": 935, "stage": "小学", "grade": "KET", "chinese": "下雪的；多雪的", "english": "snowy"}
+{"id": 936, "stage": "小学", "grade": "KET", "chinese": "所以；因此；这样", "english": "so"}
+{"id": 937, "stage": "小学", "grade": "KET", "chinese": "肥皂", "english": "soap"}
+{"id": 938, "stage": "小学", "grade": "KET", "chinese": "社会的；社交的", "english": "social"}
+{"id": 939, "stage": "小学", "grade": "KET", "chinese": "社会；社团；协会", "english": "society"}
+{"id": 940, "stage": "小学", "grade": "KET", "chinese": "短袜", "english": "sock"}
+{"id": 941, "stage": "小学", "grade": "KET", "chinese": "柔软的；轻柔的", "english": "soft"}
+{"id": 942, "stage": "小学", "grade": "KET", "chinese": "一些；若干；某个", "english": "some"}
+{"id": 943, "stage": "小学", "grade": "KET", "chinese": "某人；有人", "english": "somebody"}
+{"id": 944, "stage": "小学", "grade": "KET", "chinese": "某人；有人", "english": "someone"}
+{"id": 945, "stage": "小学", "grade": "KET", "chinese": "某事；某物", "english": "something"}
+{"id": 946, "stage": "小学", "grade": "KET", "chinese": "有时；间或", "english": "sometimes"}
+{"id": 947, "stage": "小学", "grade": "KET", "chinese": "在某处；到某处", "english": "somewhere"}
+{"id": 948, "stage": "小学", "grade": "KET", "chinese": "儿子", "english": "son"}
+{"id": 949, "stage": "小学", "grade": "KET", "chinese": "歌曲；歌谣", "english": "song"}
+{"id": 950, "stage": "小学", "grade": "KET", "chinese": "不久；很快", "english": "soon"}
+{"id": 951, "stage": "小学", "grade": "KET", "chinese": "抱歉的；难过的；遗憾的", "english": "sorry"}
+{"id": 952, "stage": "小学", "grade": "KET", "chinese": "种类；类别；整理", "english": "sort"}
+{"id": 953, "stage": "小学", "grade": "KET", "chinese": "声音；听起来", "english": "sound"}
+{"id": 954, "stage": "小学", "grade": "KET", "chinese": "汤；羹", "english": "soup"}
+{"id": 955, "stage": "小学", "grade": "KET", "chinese": "南方；南部；南方的", "english": "south"}
+{"id": 956, "stage": "小学", "grade": "KET", "chinese": "空间；太空；空地", "english": "space"}
+{"id": 957, "stage": "小学", "grade": "KET", "chinese": "说；讲；谈话", "english": "speak"}
+{"id": 958, "stage": "小学", "grade": "KET", "chinese": "演讲者；扬声器", "english": "speaker"}
+{"id": 959, "stage": "小学", "grade": "KET", "chinese": "特别的；特殊的", "english": "special"}
+{"id": 960, "stage": "小学", "grade": "KET", "chinese": "拼写；拼读", "english": "spell"}
+{"id": 961, "stage": "小学", "grade": "KET", "chinese": "花费；度过；消耗", "english": "spend"}
+{"id": 962, "stage": "小学", "grade": "KET", "chinese": "勺子；匙", "english": "spoon"}
+{"id": 963, "stage": "小学", "grade": "KET", "chinese": "运动；体育活动", "english": "sport"}
+{"id": 964, "stage": "小学", "grade": "KET", "chinese": "春天；春季；弹簧", "english": "spring"}
+{"id": 965, "stage": "小学", "grade": "KET", "chinese": "正方形；广场；平方的", "english": "square"}
+{"id": 966, "stage": "小学", "grade": "KET", "chinese": "邮票；印章；盖章", "english": "stamp"}
+{"id": 967, "stage": "小学", "grade": "KET", "chinese": "星星；明星；星状物", "english": "star"}
+{"id": 968, "stage": "小学", "grade": "KET", "chinese": "开始；出发；启动", "english": "start"}
+{"id": 969, "stage": "小学", "grade": "KET", "chinese": "州；国家；状态", "english": "state"}
+{"id": 970, "stage": "小学", "grade": "KET", "chinese": "车站；站；所", "english": "station"}
+{"id": 971, "stage": "小学", "grade": "KET", "chinese": "停留；待；保持", "english": "stay"}
+{"id": 972, "stage": "小学", "grade": "KET", "chinese": "步；脚步；步骤", "english": "step"}
+{"id": 973, "stage": "小学", "grade": "KET", "chinese": "仍然；依旧；静止的", "english": "still"}
+{"id": 974, "stage": "小学", "grade": "KET", "chinese": "胃；腹部", "english": "stomach"}
+{"id": 975, "stage": "小学", "grade": "KET", "chinese": "停止；中止；车站", "english": "stop"}
+{"id": 976, "stage": "小学", "grade": "KET", "chinese": "商店；贮存；储藏", "english": "store"}
+{"id": 977, "stage": "小学", "grade": "KET", "chinese": "故事；小说；叙述", "english": "story"}
+{"id": 978, "stage": "小学", "grade": "KET", "chinese": "直的；笔直地；直接的", "english": "straight"}
+{"id": 979, "stage": "小学", "grade": "KET", "chinese": "奇怪的；陌生的", "english": "strange"}
+{"id": 980, "stage": "小学", "grade": "KET", "chinese": "街道；街", "english": "street"}
+{"id": 981, "stage": "小学", "grade": "KET", "chinese": "严格的；严厉的", "english": "strict"}
+{"id": 982, "stage": "小学", "grade": "KET", "chinese": "强壮的；强大的；强烈的", "english": "strong"}
+{"id": 983, "stage": "小学", "grade": "KET", "chinese": "学生；学者", "english": "student"}
+{"id": 984, "stage": "小学", "grade": "KET", "chinese": "学习；研究；书房", "english": "study"}
+{"id": 985, "stage": "小学", "grade": "KET", "chinese": "愚蠢的；笨的", "english": "stupid"}
+{"id": 986, "stage": "小学", "grade": "KET", "chinese": "学科；科目；主题", "english": "subject"}
+{"id": 987, "stage": "小学", "grade": "KET", "chinese": "成功；做成", "english": "succeed"}
+{"id": 988, "stage": "小学", "grade": "KET", "chinese": "成功；成就", "english": "success"}
+{"id": 989, "stage": "小学", "grade": "KET", "chinese": "成功的；有成就的", "english": "successful"}
+{"id": 990, "stage": "小学", "grade": "KET", "chinese": "这样的；如此的；这样", "english": "such"}
+{"id": 991, "stage": "小学", "grade": "KET", "chinese": "突然地；忽然", "english": "suddenly"}
+{"id": 992, "stage": "小学", "grade": "KET", "chinese": "糖；食糖", "english": "sugar"}
+{"id": 993, "stage": "小学", "grade": "KET", "chinese": "建议；提议；暗示", "english": "suggest"}
+{"id": 994, "stage": "小学", "grade": "KET", "chinese": "夏天；夏季", "english": "summer"}
+{"id": 995, "stage": "小学", "grade": "KET", "chinese": "太阳；阳光；日光", "english": "sun"}
+{"id": 996, "stage": "小学", "grade": "KET", "chinese": "阳光充足的；晴朗的", "english": "sunny"}
+{"id": 997, "stage": "小学", "grade": "KET", "chinese": "超市", "english": "supermarket"}
+{"id": 998, "stage": "小学", "grade": "KET", "chinese": "晚餐；晚饭", "english": "supper"}
+{"id": 999, "stage": "小学", "grade": "KET", "chinese": "供应；供给；补给", "english": "supply"}
+{"id": 1000, "stage": "小学", "grade": "KET", "chinese": "支持；支撑；支援", "english": "support"}
+{"id": 1001, "stage": "小学", "grade": "KET", "chinese": "确信的；肯定的；当然", "english": "sure"}
+{"id": 1002, "stage": "小学", "grade": "KET", "chinese": "表面；表层；外观", "english": "surface"}
+{"id": 1003, "stage": "小学", "grade": "KET", "chinese": "使惊奇；使诧异；惊奇", "english": "surprise"}
+{"id": 1004, "stage": "小学", "grade": "KET", "chinese": "甜的；糖果；可爱的", "english": "sweet"}
+{"id": 1005, "stage": "小学", "grade": "KET", "chinese": "游泳；游水", "english": "swim"}
+{"id": 1006, "stage": "小学", "grade": "KET", "chinese": "游泳者", "english": "swimmer"}
+{"id": 1007, "stage": "小学", "grade": "KET", "chinese": "游泳；游泳运动", "english": "swimming"}
+{"id": 1008, "stage": "小学", "grade": "KET", "chinese": "毛衣；线衣", "english": "sweater"}
+{"id": 1009, "stage": "小学", "grade": "KET", "chinese": "桌子；表格；餐桌", "english": "table"}
+{"id": 1010, "stage": "小学", "grade": "KET", "chinese": "尾巴；尾部；后部", "english": "tail"}
+{"id": 1011, "stage": "小学", "grade": "KET", "chinese": "拿；取；花费；乘坐", "english": "take"}
+{"id": 1012, "stage": "小学", "grade": "KET", "chinese": "谈话；交谈；演讲", "english": "talk"}
+{"id": 1013, "stage": "小学", "grade": "KET", "chinese": "高的；高大的", "english": "tall"}
+{"id": 1014, "stage": "小学", "grade": "KET", "chinese": "磁带；录音带；胶带", "english": "tape"}
+{"id": 1015, "stage": "小学", "grade": "KET", "chinese": "任务；工作；作业", "english": "task"}
+{"id": 1016, "stage": "小学", "grade": "KET", "chinese": "出租车；计程车", "english": "taxi"}
+{"id": 1017, "stage": "小学", "grade": "KET", "chinese": "茶；茶叶；茶点", "english": "tea"}
+{"id": 1018, "stage": "小学", "grade": "KET", "chinese": "教；讲授；教导", "english": "teach"}
+{"id": 1019, "stage": "小学", "grade": "KET", "chinese": "教师；老师；导师", "english": "teacher"}
+{"id": 1020, "stage": "小学", "grade": "KET", "chinese": "队；组；团队", "english": "team"}
+{"id": 1021, "stage": "小学", "grade": "KET", "chinese": "技术；科技；工艺", "english": "technology"}
+{"id": 1022, "stage": "小学", "grade": "KET", "chinese": "电话；电话机；打电话", "english": "telephone"}
+{"id": 1023, "stage": "小学", "grade": "KET", "chinese": "告诉；讲述；吩咐", "english": "tell"}
+{"id": 1024, "stage": "小学", "grade": "KET", "chinese": "十", "english": "ten"}
+{"id": 1025, "stage": "小学", "grade": "KET", "chinese": "网球；网球运动", "english": "tennis"}
+{"id": 1026, "stage": "小学", "grade": "KET", "chinese": "帐篷；帐棚", "english": "tent"}
+{"id": 1027, "stage": "小学", "grade": "KET", "chinese": "学期；术语；期限", "english": "term"}
+{"id": 1028, "stage": "小学", "grade": "KET", "chinese": "可怕的；糟糕的；非常讨厌的", "english": "terrible"}
+{"id": 1029, "stage": "小学", "grade": "KET", "chinese": "测验；考查；测试", "english": "test"}
+{"id": 1030, "stage": "小学", "grade": "KET", "chinese": "比；比较", "english": "than"}
+{"id": 1031, "stage": "小学", "grade": "KET", "chinese": "感谢；谢谢；道谢", "english": "thank"}
+{"id": 1032, "stage": "小学", "grade": "KET", "chinese": "那；那个；那样", "english": "that"}
+{"id": 1033, "stage": "小学", "grade": "KET", "chinese": "这；那；这些；那些", "english": "the"}
+{"id": 1034, "stage": "小学", "grade": "KET", "chinese": "他们的；她们的；它们的", "english": "their"}
+{"id": 1035, "stage": "小学", "grade": "KET", "chinese": "他们；她们；它们", "english": "them"}
+{"id": 1036, "stage": "小学", "grade": "KET", "chinese": "他们自己；她们自己；它们自己", "english": "themselves"}
+{"id": 1037, "stage": "小学", "grade": "KET", "chinese": "然后；那时；接着", "english": "then"}
+{"id": 1038, "stage": "小学", "grade": "KET", "chinese": "在那里；到那里；那里", "english": "there"}
+{"id": 1039, "stage": "小学", "grade": "KET", "chinese": "这些", "english": "these"}
+{"id": 1040, "stage": "小学", "grade": "KET", "chinese": "他们；她们；它们", "english": "they"}
+{"id": 1041, "stage": "小学", "grade": "KET", "chinese": "事情；东西；事物", "english": "thing"}
+{"id": 1042, "stage": "小学", "grade": "KET", "chinese": "想；思考；认为", "english": "think"}
+{"id": 1043, "stage": "小学", "grade": "KET", "chinese": "第三；三分之一", "english": "third"}
+{"id": 1044, "stage": "小学", "grade": "KET", "chinese": "十三", "english": "thirteen"}
+{"id": 1045, "stage": "小学", "grade": "KET", "chinese": "三十", "english": "thirty"}
+{"id": 1046, "stage": "小学", "grade": "KET", "chinese": "这；这个；这样", "english": "this"}
+{"id": 1047, "stage": "小学", "grade": "KET", "chinese": "那些", "english": "those"}
+{"id": 1048, "stage": "小学", "grade": "KET", "chinese": "虽然；尽管；即使", "english": "though"}
+{"id": 1049, "stage": "小学", "grade": "KET", "chinese": "思想；想法；思考", "english": "thought"}
+{"id": 1050, "stage": "小学", "grade": "KET", "chinese": "千；一千", "english": "thousand"}
+{"id": 1051, "stage": "小学", "grade": "KET", "chinese": "三；三个", "english": "three"}
+{"id": 1052, "stage": "小学", "grade": "KET", "chinese": "穿过；通过；凭借", "english": "through"}
+{"id": 1053, "stage": "小学", "grade": "KET", "chinese": "扔；投；掷", "english": "throw"}
+{"id": 1054, "stage": "小学", "grade": "KET", "chinese": "星期四", "english": "Thursday"}
+{"id": 1055, "stage": "小学", "grade": "KET", "chinese": "票；入场券；车票", "english": "ticket"}
+{"id": 1056, "stage": "小学", "grade": "KET", "chinese": "整洁的；整齐的；整理", "english": "tidy"}
+{"id": 1057, "stage": "小学", "grade": "KET", "chinese": "领带；系；拴；捆", "english": "tie"}
+{"id": 1058, "stage": "小学", "grade": "KET", "chinese": "老虎", "english": "tiger"}
+{"id": 1059, "stage": "小学", "grade": "KET", "chinese": "时间；次；倍；时刻", "english": "time"}
+{"id": 1060, "stage": "小学", "grade": "KET", "chinese": "小费；建议；顶端", "english": "tip"}
+{"id": 1061, "stage": "小学", "grade": "KET", "chinese": "疲倦的；疲劳的；厌烦的", "english": "tired"}
+{"id": 1062, "stage": "小学", "grade": "KET", "chinese": "向；朝；到；对于", "english": "to"}
+{"id": 1063, "stage": "小学", "grade": "KET", "chinese": "今天；当今；现在", "english": "today"}
+{"id": 1064, "stage": "小学", "grade": "KET", "chinese": "一起；共同；同时", "english": "together"}
+{"id": 1065, "stage": "小学", "grade": "KET", "chinese": "厕所；洗手间；坐便器", "english": "toilet"}
+{"id": 1066, "stage": "小学", "grade": "KET", "chinese": "番茄；西红柿", "english": "tomato"}
+{"id": 1067, "stage": "小学", "grade": "KET", "chinese": "明天；未来；来日", "english": "tomorrow"}
+{"id": 1068, "stage": "小学", "grade": "KET", "chinese": "今晚；今夜", "english": "tonight"}
+{"id": 1069, "stage": "小学", "grade": "KET", "chinese": "也；太；非常", "english": "too"}
+{"id": 1070, "stage": "小学", "grade": "KET", "chinese": "工具；用具；器械", "english": "tool"}
+{"id": 1071, "stage": "小学", "grade": "KET", "chinese": "牙齿；齿", "english": "tooth"}
+{"id": 1072, "stage": "小学", "grade": "KET", "chinese": "顶部；顶端；最高的", "english": "top"}
+{"id": 1073, "stage": "小学", "grade": "KET", "chinese": "总数；总计；总的", "english": "total"}
+{"id": 1074, "stage": "小学", "grade": "KET", "chinese": "触摸；接触；碰", "english": "touch"}
+{"id": 1075, "stage": "小学", "grade": "KET", "chinese": "城镇；市镇；市区", "english": "town"}
+{"id": 1076, "stage": "小学", "grade": "KET", "chinese": "玩具；玩物", "english": "toy"}
+{"id": 1077, "stage": "小学", "grade": "KET", "chinese": "贸易；交易；买卖", "english": "trade"}
+{"id": 1078, "stage": "小学", "grade": "KET", "chinese": "火车；列车；训练", "english": "train"}
+{"id": 1079, "stage": "小学", "grade": "KET", "chinese": "翻译；转化；转变", "english": "translate"}
+{"id": 1080, "stage": "小学", "grade": "KET", "chinese": "旅行；游历；长途行走", "english": "travel"}
+{"id": 1081, "stage": "小学", "grade": "KET", "chinese": "树；树木；乔木", "english": "tree"}
+{"id": 1082, "stage": "小学", "grade": "KET", "chinese": "旅行；旅游；出行", "english": "trip"}
+{"id": 1083, "stage": "小学", "grade": "KET", "chinese": "麻烦；烦恼；困难", "english": "trouble"}
+{"id": 1084, "stage": "小学", "grade": "KET", "chinese": "裤子；长裤", "english": "trousers"}
+{"id": 1085, "stage": "小学", "grade": "KET", "chinese": "卡车；货车；载重汽车", "english": "truck"}
+{"id": 1086, "stage": "小学", "grade": "KET", "chinese": "真实的；正确的；真正的", "english": "true"}
+{"id": 1087, "stage": "小学", "grade": "KET", "chinese": "信任；信赖；相信", "english": "trust"}
+{"id": 1088, "stage": "小学", "grade": "KET", "chinese": "尝试；努力；试图", "english": "try"}
+{"id": 1089, "stage": "小学", "grade": "KET", "chinese": "星期二", "english": "Tuesday"}
+{"id": 1090, "stage": "小学", "grade": "KET", "chinese": "转动；旋转；轮流；转弯", "english": "turn"}
+{"id": 1091, "stage": "小学", "grade": "KET", "chinese": "电视；电视机，television 的缩写", "english": "TV"}
+{"id": 1092, "stage": "小学", "grade": "KET", "chinese": "十二", "english": "twelve"}
+{"id": 1093, "stage": "小学", "grade": "KET", "chinese": "第十二；十二分之一", "english": "twelfth"}
+{"id": 1094, "stage": "小学", "grade": "KET", "chinese": "二十", "english": "twenty"}
+{"id": 1095, "stage": "小学", "grade": "KET", "chinese": "两次；两倍", "english": "twice"}
+{"id": 1096, "stage": "小学", "grade": "KET", "chinese": "二；两个", "english": "two"}
+{"id": 1097, "stage": "小学", "grade": "KET", "chinese": "类型；种类；打字", "english": "type"}
+{"id": 1098, "stage": "小学", "grade": "KET", "chinese": "在…… 下面；低于；少于", "english": "under"}
+{"id": 1099, "stage": "小学", "grade": "KET", "chinese": "理解；明白；懂得", "english": "understand"}
+{"id": 1100, "stage": "小学", "grade": "KET", "chinese": "单元；单位；装置", "english": "unit"}
+{"id": 1101, "stage": "小学", "grade": "KET", "chinese": "大学；高等学府", "english": "university"}
+{"id": 1102, "stage": "小学", "grade": "KET", "chinese": "除非；如果不", "english": "unless"}
+{"id": 1103, "stage": "小学", "grade": "KET", "chinese": "直到…… 为止；在…… 以前", "english": "until"}
+{"id": 1104, "stage": "小学", "grade": "KET", "chinese": "向上；在上面；起来", "english": "up"}
+{"id": 1105, "stage": "小学", "grade": "KET", "chinese": "在…… 之上；当…… 时候", "english": "upon"}
+{"id": 1106, "stage": "小学", "grade": "KET", "chinese": "我们", "english": "us"}
+{"id": 1107, "stage": "小学", "grade": "KET", "chinese": "使用；利用；用途", "english": "use"}
+{"id": 1108, "stage": "小学", "grade": "KET", "chinese": "有用的；有益的", "english": "useful"}
+{"id": 1109, "stage": "小学", "grade": "KET", "chinese": "通常；经常；一般", "english": "usually"}
+{"id": 1110, "stage": "小学", "grade": "KET", "chinese": "假期；休假；度假", "english": "vacation"}
+{"id": 1111, "stage": "小学", "grade": "KET", "chinese": "价值；重要性；估价", "english": "value"}
+{"id": 1112, "stage": "小学", "grade": "KET", "chinese": "蔬菜；植物", "english": "vegetable"}
+{"id": 1113, "stage": "小学", "grade": "KET", "chinese": "非常；很；极其", "english": "very"}
+{"id": 1114, "stage": "小学", "grade": "KET", "chinese": "胜利；成功；战胜", "english": "victory"}
+{"id": 1115, "stage": "小学", "grade": "KET", "chinese": "视频；录像；录像带", "english": "video"}
+{"id": 1116, "stage": "小学", "grade": "KET", "chinese": "村庄；乡村；村落", "english": "village"}
+{"id": 1117, "stage": "小学", "grade": "KET", "chinese": "参观；访问；拜访", "english": "visit"}
+{"id": 1118, "stage": "小学", "grade": "KET", "chinese": "参观者；访问者；游客", "english": "visitor"}
+{"id": 1119, "stage": "小学", "grade": "KET", "chinese": "声音；嗓音；发言权", "english": "voice"}
+{"id": 1120, "stage": "小学", "grade": "KET", "chinese": "等待；等候；期待", "english": "wait"}
+{"id": 1121, "stage": "小学", "grade": "KET", "chinese": "男服务员；男招待", "english": "waiter"}
+{"id": 1122, "stage": "小学", "grade": "KET", "chinese": "女服务员；女招待", "english": "waitress"}
+{"id": 1123, "stage": "小学", "grade": "KET", "chinese": "走；步行；散步", "english": "walk"}
+{"id": 1124, "stage": "小学", "grade": "KET", "chinese": "墙；墙壁；围墙", "english": "wall"}
+{"id": 1125, "stage": "小学", "grade": "KET", "chinese": "想要；需要；希望", "english": "want"}
+{"id": 1126, "stage": "小学", "grade": "KET", "chinese": "战争；斗争；冲突", "english": "war"}
+{"id": 1127, "stage": "小学", "grade": "KET", "chinese": "温暖的；暖和的；使温暖", "english": "warm"}
+{"id": 1128, "stage": "小学", "grade": "KET", "chinese": "洗；洗涤；清洗", "english": "wash"}
+{"id": 1129, "stage": "小学", "grade": "KET", "chinese": "观看；注视；手表", "english": "watch"}
+{"id": 1130, "stage": "小学", "grade": "KET", "chinese": "水；给…… 浇水；灌溉", "english": "water"}
+{"id": 1131, "stage": "小学", "grade": "KET", "chinese": "方法；方式；道路", "english": "way"}
+{"id": 1132, "stage": "小学", "grade": "KET", "chinese": "我们", "english": "we"}
+{"id": 1133, "stage": "小学", "grade": "KET", "chinese": "虚弱的；无力的；微弱的", "english": "weak"}
+{"id": 1134, "stage": "小学", "grade": "KET", "chinese": "穿；戴；磨损", "english": "wear"}
+{"id": 1135, "stage": "小学", "grade": "KET", "chinese": "天气；气象", "english": "weather"}
+{"id": 1136, "stage": "小学", "grade": "KET", "chinese": "星期三", "english": "Wednesday"}
+{"id": 1137, "stage": "小学", "grade": "KET", "chinese": "周；星期；一周", "english": "week"}
+{"id": 1138, "stage": "小学", "grade": "KET", "chinese": "周末；周末休假", "english": "weekend"}
+{"id": 1139, "stage": "小学", "grade": "KET", "chinese": "欢迎；迎接；受欢迎的", "english": "welcome"}
+{"id": 1140, "stage": "小学", "grade": "KET", "chinese": "好；很好地；健康的", "english": "well"}
+{"id": 1141, "stage": "小学", "grade": "KET", "chinese": "西方；西部；西方的", "english": "west"}
+{"id": 1142, "stage": "小学", "grade": "KET", "chinese": "湿的；潮湿的；多雨的", "english": "wet"}
+{"id": 1143, "stage": "小学", "grade": "KET", "chinese": "什么；多么；多少", "english": "what"}
+{"id": 1144, "stage": "小学", "grade": "KET", "chinese": "什么时候；何时；当…… 时候", "english": "when"}
+{"id": 1145, "stage": "小学", "grade": "KET", "chinese": "在哪里；到哪里；何处", "english": "where"}
+{"id": 1146, "stage": "小学", "grade": "KET", "chinese": "是否；不管；无论", "english": "whether"}
+{"id": 1147, "stage": "小学", "grade": "KET", "chinese": "哪一个；哪些；那个", "english": "which"}
+{"id": 1148, "stage": "小学", "grade": "KET", "chinese": "在…… 期间；当…… 时候；然而", "english": "while"}
+{"id": 1149, "stage": "小学", "grade": "KET", "chinese": "白色；白色的", "english": "white"}
+{"id": 1150, "stage": "小学", "grade": "KET", "chinese": "谁；什么人；那个人", "english": "who"}
+{"id": 1151, "stage": "小学", "grade": "KET", "chinese": "完整的；全部的；整个的", "english": "whole"}
+{"id": 1152, "stage": "小学", "grade": "KET", "chinese": "为什么；为何；…… 的原因", "english": "why"}
+{"id": 1153, "stage": "小学", "grade": "KET", "chinese": "宽的；宽阔的；广泛的", "english": "wide"}
+{"id": 1154, "stage": "小学", "grade": "KET", "chinese": "妻子；太太；夫人", "english": "wife"}
+{"id": 1155, "stage": "小学", "grade": "KET", "chinese": "将；会；愿意；意志", "english": "will"}
+{"id": 1156, "stage": "小学", "grade": "KET", "chinese": "赢；获胜；赢得", "english": "win"}
+{"id": 1157, "stage": "小学", "grade": "KET", "chinese": "风；气流；缠绕", "english": "wind"}
+{"id": 1158, "stage": "小学", "grade": "KET", "chinese": "窗户；窗口；橱窗", "english": "window"}
+{"id": 1159, "stage": "小学", "grade": "KET", "chinese": "多风的；有风的", "english": "windy"}
+{"id": 1160, "stage": "小学", "grade": "KET", "chinese": "葡萄酒；果酒；酒", "english": "wine"}
+{"id": 1161, "stage": "小学", "grade": "KET", "chinese": "冬天；冬季", "english": "winter"}
+{"id": 1162, "stage": "小学", "grade": "KET", "chinese": "希望；愿望；祝愿", "english": "wish"}
+{"id": 1163, "stage": "小学", "grade": "KET", "chinese": "和…… 在一起；具有；用", "english": "with"}
+{"id": 1164, "stage": "小学", "grade": "KET", "chinese": "在…… 之内；不超过；在内部", "english": "within"}
+{"id": 1165, "stage": "小学", "grade": "KET", "chinese": "没有；缺乏；不使用", "english": "without"}
+{"id": 1166, "stage": "小学", "grade": "KET", "chinese": "成年女子；妇女；女性", "english": "woman"}
+{"id": 1167, "stage": "小学", "grade": "KET", "chinese": "woman 的复数形式，妇女；女性", "english": "women"}
+{"id": 1168, "stage": "小学", "grade": "KET", "chinese": "单词；字；话语", "english": "word"}
+{"id": 1169, "stage": "小学", "grade": "KET", "chinese": "工作；劳动；作品", "english": "work"}
+{"id": 1170, "stage": "小学", "grade": "KET", "chinese": "工人；劳动者；工作者", "english": "worker"}
+{"id": 1171, "stage": "小学", "grade": "KET", "chinese": "世界；地球；领域", "english": "world"}
+{"id": 1172, "stage": "小学", "grade": "KET", "chinese": "担心；担忧；发愁", "english": "worry"}
+{"id": 1173, "stage": "小学", "grade": "KET", "chinese": "写；书写；写作", "english": "write"}
+{"id": 1174, "stage": "小学", "grade": "KET", "chinese": "作家；作者；撰稿人", "english": "writer"}
+{"id": 1175, "stage": "小学", "grade": "KET", "chinese": "错误的；不对的；错误", "english": "wrong"}
+{"id": 1176, "stage": "小学", "grade": "KET", "chinese": "院子；场地；码", "english": "yard"}
+{"id": 1177, "stage": "小学", "grade": "KET", "chinese": "年；年度；年级", "english": "year"}
+{"id": 1178, "stage": "小学", "grade": "KET", "chinese": "黄色；黄色的", "english": "yellow"}
+{"id": 1179, "stage": "小学", "grade": "KET", "chinese": "是；是的；同意", "english": "yes"}
+{"id": 1180, "stage": "小学", "grade": "KET", "chinese": "昨天；昨日；前不久", "english": "yesterday"}
+{"id": 1181, "stage": "小学", "grade": "KET", "chinese": "还；仍然；然而", "english": "yet"}
+{"id": 1182, "stage": "小学", "grade": "KET", "chinese": "你；你们", "english": "you"}
+{"id": 1183, "stage": "小学", "grade": "KET", "chinese": "年轻的；年幼的；青春的", "english": "young"}
+{"id": 1184, "stage": "小学", "grade": "KET", "chinese": "你的；你们的", "english": "your"}
+{"id": 1185, "stage": "小学", "grade": "KET", "chinese": "你自己；您自己", "english": "yourself"}
+{"id": 1186, "stage": "小学", "grade": "KET", "chinese": "你们自己", "english": "yourselves"}
+{"id": 1187, "stage": "小学", "grade": "KET", "chinese": "零；零度；零点", "english": "zero"}
+{"id": 1188, "stage": "小学", "grade": "KET", "chinese": "能够的", "english": "able"}
+{"id": 1189, "stage": "小学", "grade": "KET", "chinese": "在国外", "english": "abroad"}
+{"id": 1190, "stage": "小学", "grade": "KET", "chinese": "绝对的", "english": "absolute"}
+{"id": 1191, "stage": "小学", "grade": "KET", "chinese": "陪伴", "english": "accompany"}
+{"id": 1192, "stage": "小学", "grade": "KET", "chinese": "根据", "english": "according"}
+{"id": 1193, "stage": "小学", "grade": "KET", "chinese": "账户；解释", "english": "account"}
+{"id": 1194, "stage": "小学", "grade": "KET", "chinese": "实现", "english": "achieve"}
+{"id": 1195, "stage": "小学", "grade": "KET", "chinese": "酸的", "english": "acid"}
+{"id": 1196, "stage": "小学", "grade": "KET", "chinese": "行动", "english": "action"}
+{"id": 1197, "stage": "小学", "grade": "KET", "chinese": "积极的", "english": "active"}
+{"id": 1198, "stage": "小学", "grade": "KET", "chinese": "演员", "english": "actor"}
+{"id": 1199, "stage": "小学", "grade": "KET", "chinese": "女演员", "english": "actress"}
+{"id": 1200, "stage": "小学", "grade": "KET", "chinese": "实际的", "english": "actual"}
+{"id": 1201, "stage": "小学", "grade": "KET", "chinese": "老年的", "english": "aged"}
+{"id": 1202, "stage": "小学", "grade": "KET", "chinese": "代理人", "english": "agent"}
+{"id": 1203, "stage": "小学", "grade": "KET", "chinese": "协议", "english": "agreement"}
+{"id": 1204, "stage": "小学", "grade": "KET", "chinese": "在前", "english": "ahead"}
+{"id": 1205, "stage": "小学", "grade": "KET", "chinese": "机场", "english": "airport"}
+{"id": 1206, "stage": "小学", "grade": "KET", "chinese": "警报", "english": "alarm"}
+{"id": 1207, "stage": "小学", "grade": "KET", "chinese": "相册", "english": "album"}
+{"id": 1208, "stage": "小学", "grade": "KET", "chinese": "酒精", "english": "alcohol"}
+{"id": 1209, "stage": "小学", "grade": "KET", "chinese": "活着的", "english": "alive"}
+{"id": 1210, "stage": "小学", "grade": "KET", "chinese": "大声地", "english": "aloud"}
+{"id": 1211, "stage": "小学", "grade": "KET", "chinese": "惊人的", "english": "amazing"}
+{"id": 1212, "stage": "小学", "grade": "KET", "chinese": "是", "english": "am"}
+{"id": 1213, "stage": "小学", "grade": "KET", "chinese": "数量", "english": "amount"}
+{"id": 1214, "stage": "小学", "grade": "KET", "chinese": "使娱乐", "english": "amuse"}
+{"id": 1215, "stage": "小学", "grade": "KET", "chinese": "娱乐", "english": "amusement"}
+{"id": 1216, "stage": "小学", "grade": "KET", "chinese": "公告", "english": "announcement"}
+{"id": 1217, "stage": "小学", "grade": "KET", "chinese": "另一个", "english": "another"}
+{"id": 1218, "stage": "小学", "grade": "KET", "chinese": "无论如何", "english": "anyway"}
+{"id": 1219, "stage": "小学", "grade": "KET", "chinese": "公寓", "english": "apartment"}
+{"id": 1220, "stage": "小学", "grade": "KET", "chinese": "道歉", "english": "apologize"}
+{"id": 1221, "stage": "小学", "grade": "KET", "chinese": "申请", "english": "apply"}
+{"id": 1222, "stage": "小学", "grade": "KET", "chinese": "约会", "english": "appointment"}
+{"id": 1223, "stage": "小学", "grade": "KET", "chinese": "欣赏", "english": "appreciate"}
+{"id": 1224, "stage": "小学", "grade": "KET", "chinese": "方法", "english": "approach"}
+{"id": 1225, "stage": "小学", "grade": "KET", "chinese": "适当的", "english": "appropriate"}
+{"id": 1226, "stage": "小学", "grade": "KET", "chinese": "批准", "english": "approve"}
+{"id": 1227, "stage": "小学", "grade": "KET", "chinese": "安排", "english": "arrange"}
+{"id": 1228, "stage": "小学", "grade": "KET", "chinese": "安排", "english": "arrangement"}
+{"id": 1229, "stage": "小学", "grade": "KET", "chinese": "文章", "english": "article"}
+{"id": 1230, "stage": "小学", "grade": "KET", "chinese": "艺术家", "english": "artist"}
+{"id": 1231, "stage": "小学", "grade": "KET", "chinese": "艺术的", "english": "artistic"}
+{"id": 1232, "stage": "小学", "grade": "KET", "chinese": "尝试", "english": "attempt"}
+{"id": 1233, "stage": "小学", "grade": "KET", "chinese": "态度", "english": "attitude"}
+{"id": 1234, "stage": "小学", "grade": "KET", "chinese": "有吸引力的", "english": "attractive"}
+{"id": 1235, "stage": "小学", "grade": "KET", "chinese": "观众", "english": "audience"}
+{"id": 1236, "stage": "小学", "grade": "KET", "chinese": "作者", "english": "author"}
+{"id": 1237, "stage": "小学", "grade": "KET", "chinese": "权威", "english": "authority"}
+{"id": 1238, "stage": "小学", "grade": "KET", "chinese": "自动的", "english": "automatic"}
+{"id": 1239, "stage": "小学", "grade": "KET", "chinese": "可获取的", "english": "available"}
+{"id": 1240, "stage": "小学", "grade": "KET", "chinese": "平均的", "english": "average"}
+{"id": 1241, "stage": "小学", "grade": "KET", "chinese": "避免", "english": "avoid"}
+{"id": 1242, "stage": "小学", "grade": "KET", "chinese": "清醒的", "english": "awake"}
+{"id": 1243, "stage": "小学", "grade": "KET", "chinese": "奖", "english": "award"}
+{"id": 1244, "stage": "小学", "grade": "KET", "chinese": "意识到的", "english": "aware"}
+{"id": 1245, "stage": "小学", "grade": "KET", "chinese": "糟糕的", "english": "awful"}
+{"id": 1246, "stage": "小学", "grade": "KET", "chinese": "背包", "english": "backpack"}
+{"id": 1247, "stage": "小学", "grade": "KET", "chinese": "培根", "english": "bacon"}
+{"id": 1248, "stage": "小学", "grade": "KET", "chinese": "烘焙", "english": "bake"}
+{"id": 1249, "stage": "小学", "grade": "KET", "chinese": "面包店", "english": "bakery"}
+{"id": 1250, "stage": "小学", "grade": "KET", "chinese": "平衡", "english": "balance"}
+{"id": 1251, "stage": "小学", "grade": "KET", "chinese": "乐队；带", "english": "band"}
+{"id": 1252, "stage": "小学", "grade": "KET", "chinese": "棒球", "english": "baseball"}
+{"id": 1253, "stage": "小学", "grade": "KET", "chinese": "基本的", "english": "basic"}
+{"id": 1254, "stage": "小学", "grade": "KET", "chinese": "电池", "english": "battery"}
+{"id": 1255, "stage": "小学", "grade": "KET", "chinese": "胡须", "english": "beard"}
+{"id": 1256, "stage": "小学", "grade": "KET", "chinese": "打；节拍", "english": "beat"}
+{"id": 1257, "stage": "小学", "grade": "KET", "chinese": "美", "english": "beauty"}
+{"id": 1258, "stage": "小学", "grade": "KET", "chinese": "啤酒", "english": "beer"}
+{"id": 1259, "stage": "小学", "grade": "KET", "chinese": "开始", "english": "beginning"}
+{"id": 1260, "stage": "小学", "grade": "KET", "chinese": "表现", "english": "behave"}
+{"id": 1261, "stage": "小学", "grade": "KET", "chinese": "行为", "english": "behavior"}
+{"id": 1262, "stage": "小学", "grade": "KET", "chinese": "皮带", "english": "belt"}
+{"id": 1263, "stage": "小学", "grade": "KET", "chinese": "长椅", "english": "bench"}
+{"id": 1264, "stage": "小学", "grade": "KET", "chinese": "好处", "english": "benefit"}
+{"id": 1265, "stage": "小学", "grade": "KET", "chinese": "超出", "english": "beyond"}
+{"id": 1266, "stage": "小学", "grade": "KET", "chinese": "十亿", "english": "billion"}
+{"id": 1267, "stage": "小学", "grade": "KET", "chinese": "饼干", "english": "biscuit"}
+{"id": 1268, "stage": "小学", "grade": "KET", "chinese": "咬", "english": "bite"}
+{"id": 1269, "stage": "小学", "grade": "KET", "chinese": "苦的", "english": "bitter"}
+{"id": 1270, "stage": "小学", "grade": "KET", "chinese": "毯子", "english": "blanket"}
+{"id": 1271, "stage": "小学", "grade": "KET", "chinese": "祝福", "english": "bless"}
+{"id": 1272, "stage": "小学", "grade": "KET", "chinese": "盲的", "english": "blind"}
+{"id": 1273, "stage": "小学", "grade": "KET", "chinese": "块；阻碍", "english": "block"}
+{"id": 1274, "stage": "小学", "grade": "KET", "chinese": "血液", "english": "blood"}
+{"id": 1275, "stage": "小学", "grade": "KET", "chinese": "吹", "english": "blow"}
+{"id": 1276, "stage": "小学", "grade": "KET", "chinese": "煮沸", "english": "boil"}
+{"id": 1277, "stage": "小学", "grade": "KET", "chinese": "炸弹", "english": "bomb"}
+{"id": 1278, "stage": "小学", "grade": "KET", "chinese": "骨头", "english": "bone"}
+{"id": 1279, "stage": "小学", "grade": "KET", "chinese": "书架", "english": "bookshelf"}
+{"id": 1280, "stage": "小学", "grade": "KET", "chinese": "靴子", "english": "boot"}
+{"id": 1281, "stage": "小学", "grade": "KET", "chinese": "边界", "english": "border"}
+{"id": 1282, "stage": "小学", "grade": "KET", "chinese": "感到无聊", "english": "bored"}
+{"id": 1283, "stage": "小学", "grade": "KET", "chinese": "借", "english": "borrow"}
+{"id": 1284, "stage": "小学", "grade": "KET", "chinese": "老板", "english": "boss"}
+{"id": 1285, "stage": "小学", "grade": "KET", "chinese": "底部", "english": "bottom"}
+{"id": 1286, "stage": "小学", "grade": "KET", "chinese": "碗", "english": "bowl"}
+{"id": 1287, "stage": "小学", "grade": "KET", "chinese": "男朋友", "english": "boyfriend"}
+{"id": 1288, "stage": "小学", "grade": "KET", "chinese": "大脑", "english": "brain"}
+{"id": 1289, "stage": "小学", "grade": "KET", "chinese": "勇敢的", "english": "brave"}
+{"id": 1290, "stage": "小学", "grade": "KET", "chinese": "呼吸", "english": "breath"}
+{"id": 1291, "stage": "小学", "grade": "KET", "chinese": "呼吸", "english": "breathe"}
+{"id": 1292, "stage": "小学", "grade": "KET", "chinese": "破损的", "english": "broken"}
+{"id": 1293, "stage": "小学", "grade": "KET", "chinese": "姐夫/妹夫/舅子/大伯/小舅", "english": "brother-in-law"}
+{"id": 1294, "stage": "小学", "grade": "KET", "chinese": "气泡", "english": "bubble"}
+{"id": 1295, "stage": "小学", "grade": "KET", "chinese": "平静的", "english": "calm"}
+{"id": 1296, "stage": "小学", "grade": "KET", "chinese": "取消", "english": "cancel"}
+{"id": 1297, "stage": "小学", "grade": "KET", "chinese": "糖果", "english": "candy"}
+{"id": 1298, "stage": "小学", "grade": "KET", "chinese": "帽子", "english": "cap"}
+{"id": 1299, "stage": "小学", "grade": "KET", "chinese": "首都；资本", "english": "capital"}
+{"id": 1300, "stage": "小学", "grade": "KET", "chinese": "队长；船长", "english": "captain"}
+{"id": 1301, "stage": "小学", "grade": "KET", "chinese": "卡通", "english": "cartoon"}
+{"id": 1302, "stage": "小学", "grade": "KET", "chinese": "案例；箱子", "english": "case"}
+{"id": 1303, "stage": "小学", "grade": "KET", "chinese": "现金", "english": "cash"}
+{"id": 1304, "stage": "小学", "grade": "KET", "chinese": "细胞；小单元", "english": "cell"}
+{"id": 1305, "stage": "小学", "grade": "KET", "chinese": "中心", "english": "center"}
+{"id": 1306, "stage": "小学", "grade": "KET", "chinese": "收费；充电", "english": "charge"}
+{"id": 1307, "stage": "小学", "grade": "KET", "chinese": "欺骗", "english": "cheat"}
+{"id": 1308, "stage": "小学", "grade": "KET", "chinese": "快乐的", "english": "cheerful"}
+{"id": 1309, "stage": "小学", "grade": "KET", "chinese": "胸部；箱子", "english": "chest"}
+{"id": 1310, "stage": "小学", "grade": "KET", "chinese": "教堂", "english": "church"}
+{"id": 1311, "stage": "小学", "grade": "KET", "chinese": "关闭的", "english": "closed"}
+{"id": 1312, "stage": "小学", "grade": "KET", "chinese": "衣物", "english": "clothing"}
+{"id": 1313, "stage": "小学", "grade": "KET", "chinese": "颜色", "english": "color"}
+{"id": 1314, "stage": "小学", "grade": "KET", "chinese": "舒适", "english": "comfort"}
+{"id": 1315, "stage": "小学", "grade": "KET", "chinese": "舒适的", "english": "comfortable"}
+{"id": 1316, "stage": "小学", "grade": "KET", "chinese": "命令", "english": "command"}
+{"id": 1317, "stage": "小学", "grade": "KET", "chinese": "比较", "english": "compare"}
+{"id": 1318, "stage": "小学", "grade": "KET", "chinese": "完整的；完成", "english": "complete"}
+{"id": 1319, "stage": "小学", "grade": "KET", "chinese": "集中", "english": "concentrate"}
+{"id": 1320, "stage": "小学", "grade": "KET", "chinese": "关心", "english": "concern"}
+{"id": 1321, "stage": "小学", "grade": "KET", "chinese": "条件", "english": "condition"}
+{"id": 1322, "stage": "小学", "grade": "KET", "chinese": "连接", "english": "connect"}
+{"id": 1323, "stage": "小学", "grade": "KET", "chinese": "联系", "english": "contact"}
+{"id": 1324, "stage": "小学", "grade": "KET", "chinese": "继续", "english": "continue"}
+{"id": 1325, "stage": "小学", "grade": "KET", "chinese": "控制", "english": "control"}
+{"id": 1326, "stage": "小学", "grade": "KET", "chinese": "饼干", "english": "cookie"}
+{"id": 1327, "stage": "小学", "grade": "KET", "chinese": "计算", "english": "count"}
+{"id": 1328, "stage": "小学", "grade": "KET", "chinese": "撞击；崩溃", "english": "crash"}
+{"id": 1329, "stage": "小学", "grade": "KET", "chinese": "信用", "english": "credit"}
+{"id": 1330, "stage": "小学", "grade": "KET", "chinese": "犯罪", "english": "crime"}
+{"id": 1331, "stage": "小学", "grade": "KET", "chinese": "犯罪的", "english": "criminal"}
+{"id": 1332, "stage": "小学", "grade": "KET", "chinese": "人群", "english": "crowd"}
+{"id": 1333, "stage": "小学", "grade": "KET", "chinese": "当前的", "english": "current"}
+{"id": 1334, "stage": "小学", "grade": "KET", "chinese": "窗帘", "english": "curtain"}
+{"id": 1335, "stage": "小学", "grade": "KET", "chinese": "习惯；定制", "english": "custom"}
+{"id": 1336, "stage": "小学", "grade": "KET", "chinese": "可爱的", "english": "cute"}
+{"id": 1337, "stage": "小学", "grade": "KET", "chinese": "日常的，日常", "english": "daily"}
+{"id": 1338, "stage": "小学", "grade": "KET", "chinese": "舞者", "english": "dancer"}
+{"id": 1339, "stage": "小学", "grade": "KET", "chinese": "交易；处理", "english": "deal"}
+{"id": 1340, "stage": "小学", "grade": "KET", "chinese": "决定；决策", "english": "decision"}
+{"id": 1341, "stage": "小学", "grade": "KET", "chinese": "深的", "english": "deep"}
+{"id": 1342, "stage": "小学", "grade": "KET", "chinese": "否认", "english": "deny"}
+{"id": 1343, "stage": "小学", "grade": "KET", "chinese": "描述；说明)", "english": "description"}
+{"id": 1344, "stage": "小学", "grade": "KET", "chinese": "设计", "english": "design"}
+{"id": 1345, "stage": "小学", "grade": "KET", "chinese": "设计师", "english": "designer"}
+{"id": 1346, "stage": "小学", "grade": "KET", "chinese": "细节", "english": "detail"}
+{"id": 1347, "stage": "小学", "grade": "KET", "chinese": "词典", "english": "dictionary"}
+{"id": 1348, "stage": "小学", "grade": "KET", "chinese": "区别", "english": "difference"}
+{"id": 1349, "stage": "小学", "grade": "KET", "chinese": "发现", "english": "discovery"}
+{"id": 1350, "stage": "小学", "grade": "KET", "chinese": "讨论", "english": "discuss"}
+{"id": 1351, "stage": "小学", "grade": "KET", "chinese": "讨论", "english": "discussion"}
+{"id": 1352, "stage": "小学", "grade": "KET", "chinese": "疾病", "english": "disease"}
+{"id": 1353, "stage": "小学", "grade": "KET", "chinese": "美元", "english": "dollar"}
+{"id": 1354, "stage": "小学", "grade": "KET", "chinese": "双倍的", "english": "double"}
+{"id": 1355, "stage": "小学", "grade": "KET", "chinese": "抽屉", "english": "drawer"}
+{"id": 1356, "stage": "小学", "grade": "KET", "chinese": "灰尘", "english": "dust"}
+{"id": 1357, "stage": "小学", "grade": "KET", "chinese": "职责", "english": "duty"}
+{"id": 1358, "stage": "小学", "grade": "KET", "chinese": "赚取", "english": "earn"}
+{"id": 1359, "stage": "小学", "grade": "KET", "chinese": "敌人", "english": "enemy"}
+{"id": 1360, "stage": "小学", "grade": "KET", "chinese": "享受，乐趣", "english": "enjoyment"}
+{"id": 1361, "stage": "小学", "grade": "KET", "chinese": "入口", "english": "entrance"}
+{"id": 1362, "stage": "小学", "grade": "KET", "chinese": "事件", "english": "event"}
+{"id": 1363, "stage": "小学", "grade": "KET", "chinese": "证据", "english": "evidence"}
+{"id": 1364, "stage": "小学", "grade": "KET", "chinese": "检查", "english": "examine"}
+{"id": 1365, "stage": "小学", "grade": "KET", "chinese": "除了", "english": "except"}
+{"id": 1366, "stage": "小学", "grade": "KET", "chinese": "兴奋", "english": "excitement"}
+{"id": 1367, "stage": "小学", "grade": "KET", "chinese": "令人兴奋的", "english": "exciting"}
+{"id": 1368, "stage": "小学", "grade": "KET", "chinese": "专家", "english": "expert"}
+{"id": 1369, "stage": "小学", "grade": "KET", "chinese": "解释；说明", "english": "explanation"}
+{"id": 1370, "stage": "小学", "grade": "KET", "chinese": "错误的；假的", "english": "false"}
+{"id": 1371, "stage": "小学", "grade": "KET", "chinese": "最喜欢的", "english": "favorite"}
+{"id": 1372, "stage": "小学", "grade": "KET", "chinese": "害怕；恐惧", "english": "fear"}
+{"id": 1373, "stage": "小学", "grade": "KET", "chinese": "恐惧", "english": "fright"}
+{"id": 1374, "stage": "小学", "grade": "KET", "chinese": "有", "english": "has"}
+{"id": 1375, "stage": "小学", "grade": "KET", "chinese": "面试；采访", "english": "interview"}
+{"id": 1376, "stage": "小学", "grade": "KET", "chinese": "互联网", "english": "internet"}
+{"id": 1377, "stage": "小学", "grade": "KET", "chinese": "灯", "english": "lamp"}
+{"id": 1378, "stage": "小学", "grade": "KET", "chinese": "更多", "english": "more"}
+{"id": 1379, "stage": "小学", "grade": "KET", "chinese": "正常的", "english": "normal"}
+{"id": 1380, "stage": "小学", "grade": "KET", "chinese": "包裹；打包", "english": "pack"}
+{"id": 1381, "stage": "小学", "grade": "KET", "chinese": "简单的；清晰的", "english": "plain"}
+{"id": 1382, "stage": "小学", "grade": "KET", "chinese": "漂亮的；相当", "english": "pretty"}
+{"id": 1383, "stage": "小学", "grade": "KET", "chinese": "坐下，sit的过去式", "english": "sat"}
+{"id": 1384, "stage": "小学", "grade": "KET", "chinese": "滑冰", "english": "skate"}
+{"id": 1385, "stage": "小学", "grade": "KET", "chinese": "汽水", "english": "soda"}
+{"id": 1386, "stage": "小学", "grade": "KET", "chinese": "沙发", "english": "sofa"}
+{"id": 1387, "stage": "小学", "grade": "KET", "chinese": "美国", "english": "United States"}
+{"id": 1388, "stage": "小学", "grade": "KET", "chinese": "动物园", "english": "zoo"}
+{"id": 1389, "stage": "小学", "grade": "一年级", "chinese": "七", "english": "seven"}
+{"id": 1390, "stage": "小学", "grade": "一年级", "chinese": "十七", "english": "seventeen"}
+{"id": 1391, "stage": "小学", "grade": "一年级", "chinese": "妈妈", "english": "mom"}
+{"id": 1392, "stage": "小学", "grade": "一年级", "chinese": "爷爷；外公", "english": "grandfather"}
+{"id": 1393, "stage": "小学", "grade": "一年级", "chinese": "奶奶；外婆", "english": "grandmother"}
+{"id": 1394, "stage": "小学", "grade": "一年级", "chinese": "兔子", "english": "rabbit"}
+{"id": 1395, "stage": "小学", "grade": "一年级", "chinese": "尺子", "english": "ruler"}
+{"id": 1396, "stage": "小学", "grade": "一年级", "chinese": "草莓", "english": "strawberry"}
+{"id": 1397, "stage": "小学", "grade": "一年级", "chinese": "西瓜", "english": "watermelon"}
+{"id": 1398, "stage": "小学", "grade": "一年级", "chinese": "桃子", "english": "peach"}
+{"id": 1399, "stage": "小学", "grade": "一年级", "chinese": "冰淇淋", "english": "ice cream"}
+{"id": 1400, "stage": "小学", "grade": "KET", "chinese": "飞机", "english": "airplane"}
+{"id": 1401, "stage": "小学", "grade": "KET", "chinese": "电子邮件", "english": "email"}
+{"id": 1402, "stage": "小学", "grade": "KET", "chinese": "护照", "english": "passport"}
+{"id": 1403, "stage": "小学", "grade": "一年级", "chinese": "蚂蚁", "english": "ant"}
+{"id": 1404, "stage": "小学", "grade": "一年级", "chinese": "短吻鳄", "english": "alligator"}
+{"id": 1405, "stage": "小学", "grade": "一年级", "chinese": "斧头", "english": "axe"}
+{"id": 1406, "stage": "小学", "grade": "一年级", "chinese": "箭；箭头", "english": "arrow"}
+{"id": 1407, "stage": "小学", "grade": "一年级", "chinese": "围裙", "english": "apron"}
+{"id": 1408, "stage": "小学", "grade": "一年级", "chinese": "蝴蝶", "english": "butterfly"}
+{"id": 1409, "stage": "小学", "grade": "一年级", "chinese": "圆珠笔", "english": "ballpen"}
+{"id": 1410, "stage": "小学", "grade": "一年级", "chinese": "胡萝卜", "english": "carrot"}
+{"id": 1411, "stage": "小学", "grade": "一年级", "chinese": "蜡烛", "english": "candle"}
+{"id": 1412, "stage": "小学", "grade": "一年级", "chinese": "城堡", "english": "castle"}
+{"id": 1413, "stage": "小学", "grade": "一年级", "chinese": "小丑", "english": "clown"}
+{"id": 1414, "stage": "小学", "grade": "一年级", "chinese": "梳子", "english": "comb"}
+{"id": 1415, "stage": "小学", "grade": "一年级", "chinese": "王冠", "english": "crown"}
+{"id": 1416, "stage": "小学", "grade": "一年级", "chinese": "螃蟹", "english": "crab"}
+{"id": 1417, "stage": "小学", "grade": "一年级", "chinese": "骆驼", "english": "camel"}
+{"id": 1418, "stage": "小学", "grade": "一年级", "chinese": "鹿", "english": "deer"}
+{"id": 1419, "stage": "小学", "grade": "一年级", "chinese": "鼓", "english": "drum"}
+{"id": 1420, "stage": "小学", "grade": "一年级", "chinese": "恐龙", "english": "dinosaur"}
+{"id": 1421, "stage": "小学", "grade": "一年级", "chinese": "驴子", "english": "donkey"}
+{"id": 1422, "stage": "小学", "grade": "一年级", "chinese": "钻石", "english": "diamond"}
+{"id": 1423, "stage": "小学", "grade": "一年级", "chinese": "雏菊", "english": "daisy"}
+{"id": 1424, "stage": "小学", "grade": "一年级", "chinese": "骰子", "english": "dice"}
+{"id": 1425, "stage": "小学", "grade": "一年级", "chinese": "飞镖", "english": "dart"}
+{"id": 1426, "stage": "小学", "grade": "一年级", "chinese": "鸽子", "english": "dove"}
+{"id": 1427, "stage": "小学", "grade": "一年级", "chinese": "水坝", "english": "dam"}
+{"id": 1428, "stage": "小学", "grade": "一年级", "chinese": "信封", "english": "envelope"}
+{"id": 1429, "stage": "小学", "grade": "一年级", "chinese": "鹰", "english": "eagle"}
+{"id": 1430, "stage": "小学", "grade": "一年级", "chinese": "肘部", "english": "elbow"}
+{"id": 1431, "stage": "小学", "grade": "一年级", "chinese": "鳗鱼", "english": "eel"}
+{"id": 1432, "stage": "小学", "grade": "一年级", "chinese": "茄子", "english": "eggplant"}
+{"id": 1433, "stage": "小学", "grade": "一年级", "chinese": "发动机", "english": "engine"}
+{"id": 1434, "stage": "小学", "grade": "一年级", "chinese": "榆树", "english": "elm"}
+{"id": 1435, "stage": "小学", "grade": "一年级", "chinese": "回声", "english": "echo"}
+{"id": 1436, "stage": "小学", "grade": "一年级", "chinese": "小精灵", "english": "elf"}
+{"id": 1437, "stage": "小学", "grade": "一年级", "chinese": "鸸鹋", "english": "emu"}
+{"id": 1438, "stage": "小学", "grade": "一年级", "chinese": "大口水罐", "english": "ewer"}
+{"id": 1439, "stage": "小学", "grade": "一年级", "chinese": "母羊", "english": "ewe"}
+{"id": 1440, "stage": "小学", "grade": "一年级", "chinese": "常绿树", "english": "evergreen"}
+{"id": 1441, "stage": "小学", "grade": "二年级", "chinese": "pen", "english": "钢笔"}
+{"id": 1442, "stage": "小学", "grade": "二年级", "chinese": "pencil", "english": "铅笔"}
+{"id": 1443, "stage": "小学", "grade": "二年级", "chinese": "pencil-case", "english": "铅笔盒"}
+{"id": 1444, "stage": "小学", "grade": "二年级", "chinese": "book", "english": "书"}
+{"id": 1445, "stage": "小学", "grade": "二年级", "chinese": "schoolbag", "english": "书包"}
+{"id": 1446, "stage": "小学", "grade": "二年级", "chinese": "postcard", "english": "明信片"}
+{"id": 1447, "stage": "小学", "grade": "二年级", "chinese": "newspaper", "english": "报纸"}
+{"id": 1448, "stage": "小学", "grade": "二年级", "chinese": "bag", "english": "包"}
+{"id": 1449, "stage": "小学", "grade": "二年级", "chinese": "eraser", "english": "橡皮"}
+{"id": 1450, "stage": "小学", "grade": "二年级", "chinese": "crayon", "english": "蜡笔"}
+{"id": 1451, "stage": "小学", "grade": "二年级", "chinese": "sharpener", "english": "卷笔刀"}
+{"id": 1452, "stage": "小学", "grade": "二年级", "chinese": "story-book", "english": "故事书"}
+{"id": 1453, "stage": "小学", "grade": "二年级", "chinese": "notebook", "english": "笔记本"}
+{"id": 1454, "stage": "小学", "grade": "二年级", "chinese": "magazine", "english": "杂志"}
+{"id": 1455, "stage": "小学", "grade": "二年级", "chinese": "dictionary", "english": "词典"}
+{"id": 1456, "stage": "小学", "grade": "二年级", "chinese": "foot", "english": "脚"}
+{"id": 1457, "stage": "小学", "grade": "二年级", "chinese": "head", "english": "头"}
+{"id": 1458, "stage": "小学", "grade": "二年级", "chinese": "face", "english": "脸"}
+{"id": 1459, "stage": "小学", "grade": "二年级", "chinese": "hair", "english": "头发"}
+{"id": 1460, "stage": "小学", "grade": "二年级", "chinese": "nose", "english": "鼻子"}
+{"id": 1461, "stage": "小学", "grade": "二年级", "chinese": "mouth", "english": "嘴"}
+{"id": 1462, "stage": "小学", "grade": "二年级", "chinese": "eye", "english": "眼睛"}
+{"id": 1463, "stage": "小学", "grade": "二年级", "chinese": "ear", "english": "耳朵"}
+{"id": 1464, "stage": "小学", "grade": "二年级", "chinese": "arm", "english": "手臂"}
+{"id": 1465, "stage": "小学", "grade": "二年级", "chinese": "hand", "english": "手"}
+{"id": 1466, "stage": "小学", "grade": "二年级", "chinese": "hand", "english": "手指"}
+{"id": 1467, "stage": "小学", "grade": "二年级", "chinese": "leg", "english": "腿"}
+{"id": 1468, "stage": "小学", "grade": "二年级", "chinese": "tail", "english": "尾巴"}
+{"id": 1469, "stage": "小学", "grade": "二年级", "chinese": "body", "english": "身体"}
+{"id": 1470, "stage": "小学", "grade": "二年级", "chinese": "red", "english": "红"}
+{"id": 1471, "stage": "小学", "grade": "二年级", "chinese": "blue", "english": "蓝"}
+{"id": 1472, "stage": "小学", "grade": "二年级", "chinese": "yellow", "english": "黄"}
+{"id": 1473, "stage": "小学", "grade": "二年级", "chinese": "green", "english": "绿"}
+{"id": 1474, "stage": "小学", "grade": "二年级", "chinese": "white", "english": "白"}
+{"id": 1475, "stage": "小学", "grade": "二年级", "chinese": "black", "english": "黑"}
+{"id": 1476, "stage": "小学", "grade": "二年级", "chinese": "pink", "english": "粉红"}
+{"id": 1477, "stage": "小学", "grade": "二年级", "chinese": "purple", "english": "紫"}
+{"id": 1478, "stage": "小学", "grade": "二年级", "chinese": "orange", "english": "橙"}
+{"id": 1479, "stage": "小学", "grade": "二年级", "chinese": "", "english": ""}
+{"id": 1480, "stage": "小学", "grade": "二年级", "chinese": "brown", "english": "棕"}
+{"id": 1481, "stage": "小学", "grade": "二年级", "chinese": "grey", "english": "灰"}
+{"id": 1482, "stage": "小学", "grade": "二年级", "chinese": "cat", "english": "猫"}
+{"id": 1483, "stage": "小学", "grade": "二年级", "chinese": "dog", "english": "狗"}
+{"id": 1484, "stage": "小学", "grade": "二年级", "chinese": "duck", "english": "鸭"}
+{"id": 1485, "stage": "小学", "grade": "二年级", "chinese": "rabbit", "english": "兔"}
+{"id": 1486, "stage": "小学", "grade": "二年级", "chinese": "horse", "english": "马"}
+{"id": 1487, "stage": "小学", "grade": "二年级", "chinese": "elephant", "english": "大象"}
+{"id": 1488, "stage": "小学", "grade": "二年级", "chinese": "ant", "english": "蚂蚁"}
+{"id": 1489, "stage": "小学", "grade": "二年级", "chinese": "fish", "english": "鱼"}
+{"id": 1490, "stage": "小学", "grade": "二年级", "chinese": "eagle", "english": "鹰"}
+{"id": 1491, "stage": "小学", "grade": "二年级", "chinese": "deer", "english": "鹿"}
+{"id": 1492, "stage": "小学", "grade": "二年级", "chinese": "beaver", "english": "海狸"}
+{"id": 1493, "stage": "小学", "grade": "二年级", "chinese": "bird", "english": "鸟"}
+{"id": 1494, "stage": "小学", "grade": "二年级", "chinese": "snake", "english": "蛇"}
+{"id": 1495, "stage": "小学", "grade": "二年级", "chinese": "mouse", "english": "老鼠"}
+{"id": 1496, "stage": "小学", "grade": "二年级", "chinese": "squirrel", "english": "松鼠"}
+{"id": 1497, "stage": "小学", "grade": "二年级", "chinese": "bear", "english": "熊"}
+{"id": 1498, "stage": "小学", "grade": "二年级", "chinese": "kangaroo", "english": "袋鼠"}
+{"id": 1499, "stage": "小学", "grade": "二年级", "chinese": "monkey", "english": "猴"}
+{"id": 1500, "stage": "小学", "grade": "二年级", "chinese": "panda", "english": "熊猫"}
+{"id": 1501, "stage": "小学", "grade": "二年级", "chinese": "lion", "english": "狮子"}
+{"id": 1502, "stage": "小学", "grade": "二年级", "chinese": "fox", "english": "狐狸"}
+{"id": 1503, "stage": "小学", "grade": "二年级", "chinese": "zebra", "english": "斑马"}
+{"id": 1504, "stage": "小学", "grade": "二年级", "chinese": "giraffe", "english": "长颈鹿"}
+{"id": 1505, "stage": "小学", "grade": "二年级", "chinese": "goose", "english": "鹅"}
+{"id": 1506, "stage": "小学", "grade": "二年级", "chinese": "hen", "english": "母鸡"}
+{"id": 1507, "stage": "小学", "grade": "二年级", "chinese": "turkey", "english": "火鸡"}
+{"id": 1508, "stage": "小学", "grade": "二年级", "chinese": "lamb", "english": "小羊"}
+{"id": 1509, "stage": "小学", "grade": "二年级", "chinese": "sheep", "english": "绵羊"}
+{"id": 1510, "stage": "小学", "grade": "二年级", "chinese": "goat", "english": "山羊"}
+{"id": 1511, "stage": "小学", "grade": "二年级", "chinese": "cow", "english": "奶牛"}
+{"id": 1512, "stage": "小学", "grade": "二年级", "chinese": "donkey", "english": "驴"}
+{"id": 1513, "stage": "小学", "grade": "二年级", "chinese": "lobster", "english": "龙虾"}
+{"id": 1514, "stage": "小学", "grade": "二年级", "chinese": "shark", "english": "鲨鱼"}
+{"id": 1515, "stage": "小学", "grade": "二年级", "chinese": "seal", "english": "海豹"}
+{"id": 1516, "stage": "小学", "grade": "二年级", "chinese": "friend", "english": "朋友"}
+{"id": 1517, "stage": "小学", "grade": "二年级", "chinese": "boy", "english": "男孩"}
+{"id": 1518, "stage": "小学", "grade": "二年级", "chinese": "girl", "english": "女孩"}
+{"id": 1519, "stage": "小学", "grade": "二年级", "chinese": "mother", "english": "母亲"}
+{"id": 1520, "stage": "小学", "grade": "二年级", "chinese": "father", "english": "父亲"}
+{"id": 1521, "stage": "小学", "grade": "二年级", "chinese": "brother", "english": "兄弟"}
+{"id": 1522, "stage": "小学", "grade": "二年级", "chinese": "uncle", "english": "叔叔"}
+{"id": 1523, "stage": "小学", "grade": "二年级", "chinese": "man", "english": "男人"}
+{"id": 1524, "stage": "小学", "grade": "二年级", "chinese": "woman", "english": "女人"}
+{"id": 1525, "stage": "小学", "grade": "二年级", "chinese": "Mr.", "english": "先生"}
+{"id": 1526, "stage": "小学", "grade": "二年级", "chinese": "lady", "english": "女士"}
+{"id": 1527, "stage": "小学", "grade": "二年级", "chinese": "mom", "english": "妈妈"}
+{"id": 1528, "stage": "小学", "grade": "二年级", "chinese": "dad", "english": "爸爸"}
+{"id": 1529, "stage": "小学", "grade": "二年级", "chinese": "parents", "english": "父母"}
+{"id": 1530, "stage": "小学", "grade": "二年级", "chinese": "grandma", "english": "祖母"}
+{"id": 1531, "stage": "小学", "grade": "二年级", "chinese": "grandpa", "english": "祖父"}
+{"id": 1532, "stage": "小学", "grade": "二年级", "chinese": "Miss", "english": "小姐"}
+{"id": 1533, "stage": "小学", "grade": "二年级", "chinese": "aunt", "english": "姑姑"}
+{"id": 1534, "stage": "小学", "grade": "二年级", "chinese": "son", "english": "儿子"}
+{"id": 1535, "stage": "小学", "grade": "二年级", "chinese": "baby", "english": "婴儿"}
+{"id": 1536, "stage": "小学", "grade": "二年级", "chinese": "classmate", "english": "同学"}
+{"id": 1537, "stage": "小学", "grade": "二年级", "chinese": "queen", "english": "女王"}
+{"id": 1538, "stage": "小学", "grade": "二年级", "chinese": "visitor", "english": "参观者"}
+{"id": 1539, "stage": "小学", "grade": "二年级", "chinese": "neighbors", "english": "邻居"}
+{"id": 1540, "stage": "小学", "grade": "二年级", "chinese": "principal", "english": "校长"}
+{"id": 1541, "stage": "小学", "grade": "二年级", "chinese": "tourist", "english": "旅行者"}
+{"id": 1542, "stage": "小学", "grade": "二年级", "chinese": "people", "english": "人物"}
+{"id": 1543, "stage": "小学", "grade": "二年级", "chinese": "robot", "english": "机器人"}
+{"id": 1544, "stage": "小学", "grade": "二年级", "chinese": "teacher", "english": "教师"}
+{"id": 1545, "stage": "小学", "grade": "二年级", "chinese": "student", "english": "学生"}
+{"id": 1546, "stage": "小学", "grade": "二年级", "chinese": "doctor", "english": "医生"}
+{"id": 1547, "stage": "小学", "grade": "二年级", "chinese": "nurse", "english": "护士"}
+{"id": 1548, "stage": "小学", "grade": "二年级", "chinese": "driver", "english": "司机"}
+{"id": 1549, "stage": "小学", "grade": "二年级", "chinese": "farmer", "english": "农民"}
+{"id": 1550, "stage": "小学", "grade": "二年级", "chinese": "singer", "english": "歌唱家"}
+{"id": 1551, "stage": "小学", "grade": "二年级", "chinese": "policeman", "english": "警察"}
+{"id": 1552, "stage": "小学", "grade": "二年级", "chinese": "writer", "english": "作家"}
+{"id": 1553, "stage": "小学", "grade": "二年级", "chinese": "actor", "english": "男演员"}
+{"id": 1554, "stage": "小学", "grade": "二年级", "chinese": "actress", "english": "女演员"}
+{"id": 1555, "stage": "小学", "grade": "二年级", "chinese": "artist", "english": "画家"}
+{"id": 1556, "stage": "小学", "grade": "二年级", "chinese": "engineer", "english": "工程师"}
+{"id": 1557, "stage": "小学", "grade": "二年级", "chinese": "accountant", "english": "会计"}
+{"id": 1558, "stage": "小学", "grade": "二年级", "chinese": "salesperson", "english": "销售员"}
+{"id": 1559, "stage": "小学", "grade": "二年级", "chinese": "cleaner", "english": "清洁工"}
+{"id": 1560, "stage": "小学", "grade": "三年级", "chinese": "肮脏，凌乱", "english": "mess"}
+{"id": 1561, "stage": "小学", "grade": "三年级", "chinese": "一副刀叉", "english": "a knife and fork"}
+{"id": 1562, "stage": "小学", "grade": "三年级", "chinese": "快餐", "english": "fast food"}
+{"id": 1563, "stage": "小学", "grade": "三年级", "chinese": "妈妈", "english": "mum"}
+{"id": 1564, "stage": "小学", "grade": "三年级", "chinese": "淘气的", "english": "naughty"}
+{"id": 1565, "stage": "小学", "grade": "三年级", "chinese": "龙舟", "english": "dragon boat"}
+{"id": 1566, "stage": "小学", "grade": "三年级", "chinese": "走开，离开", "english": "get out"}
+{"id": 1567, "stage": "小学", "grade": "三年级", "chinese": "胜利者", "english": "winner"}
+{"id": 1568, "stage": "小学", "grade": "三年级", "chinese": "不能", "english": "can't"}
+{"id": 1569, "stage": "小学", "grade": "三年级", "chinese": "树袋熊，考拉", "english": "koala"}
+{"id": 1570, "stage": "小学", "grade": "三年级", "chinese": "外出", "english": "go out"}
+{"id": 1571, "stage": "小学", "grade": "三年级", "chinese": "谢谢", "english": "thanks"}
+{"id": 1572, "stage": "小学", "grade": "三年级", "chinese": "有", "english": "have got"}
+{"id": 1573, "stage": "小学", "grade": "三年级", "chinese": "胃痛；腹痛", "english": "stomachache"}
+{"id": 1574, "stage": "小学", "grade": "三年级", "chinese": "咳嗽", "english": "cough"}
+{"id": 1575, "stage": "小学", "grade": "三年级", "chinese": "雨伞", "english": "umbrella"}
+{"id": 1576, "stage": "小学", "grade": "三年级", "chinese": "跳远", "english": "long jump"}
+{"id": 1577, "stage": "小学", "grade": "三年级", "chinese": "交朋友", "english": "make friends"}
+{"id": 1578, "stage": "小学", "grade": "三年级", "chinese": "运动日", "english": "sports day"}
+{"id": 1579, "stage": "小学", "grade": "三年级", "chinese": "跳高", "english": "high jump"}
+{"id": 1580, "stage": "小学", "grade": "三年级", "chinese": "伯父", "english": "uncle"}
+{"id": 1581, "stage": "小学", "grade": "三年级", "chinese": "铅笔盒", "english": "pencil box"}
+{"id": 1582, "stage": "小学", "grade": "三年级", "chinese": "好", "english": "ok"}
+{"id": 1583, "stage": "小学", "grade": "三年级", "chinese": "熊猫", "english": "panda"}
+{"id": 1584, "stage": "小学", "grade": "三年级", "chinese": "盘子", "english": "plate"}
+{"id": 1585, "stage": "小学", "grade": "三年级", "chinese": "铅笔盒", "english": "pencil-case"}
+{"id": 1586, "stage": "小学", "grade": "三年级", "chinese": "卷笔刀", "english": "sharpener"}
+{"id": 1587, "stage": "小学", "grade": "三年级", "chinese": "紫色的", "english": "purple"}
+{"id": 1588, "stage": "小学", "grade": "三年级", "chinese": "松鼠", "english": "squirrel"}
+{"id": 1589, "stage": "小学", "grade": "三年级", "chinese": "热狗", "english": "hot dog"}
+{"id": 1590, "stage": "小学", "grade": "三年级", "chinese": "榨薯条", "english": "French fries"}
+{"id": 1591, "stage": "小学", "grade": "三年级", "chinese": "可乐", "english": "Coke"}
+{"id": 1592, "stage": "小学", "grade": "三年级", "chinese": "我是", "english": "I’m"}
+{"id": 1593, "stage": "小学", "grade": "三年级", "chinese": "早上好", "english": "good morning"}
+{"id": 1594, "stage": "小学", "grade": "三年级", "chinese": "下午好", "english": "good afternoon"}
+{"id": 1595, "stage": "小学", "grade": "三年级", "chinese": "让我们", "english": "let’s"}
+{"id": 1596, "stage": "小学", "grade": "三年级", "chinese": "多少", "english": "how many"}
+{"id": 1597, "stage": "小学", "grade": "三年级", "chinese": "看；瞧", "english": "look at"}
+{"id": 1598, "stage": "小学", "grade": "三年级", "chinese": "有活力的", "english": "energetic"}
+{"id": 1599, "stage": "小学", "grade": "三年级", "chinese": "自信的", "english": "confident"}
+{"id": 1600, "stage": "小学", "grade": "三年级", "chinese": "允许", "english": "permission"}
+{"id": 1601, "stage": "小学", "grade": "三年级", "chinese": "打扰；使恼怒", "english": "bother"}
+{"id": 1602, "stage": "小学", "grade": "三年级", "chinese": "一点也不", "english": "not...in the slightest"}
+{"id": 1603, "stage": "小学", "grade": "三年级", "chinese": "使烦恼", "english": "annoy"}
+{"id": 1604, "stage": "小学", "grade": "三年级", "chinese": "相当地", "english": "fairly"}
+{"id": 1605, "stage": "小学", "grade": "三年级", "chinese": "足够的；很多的", "english": "plenty of"}
+{"id": 1606, "stage": "小学", "grade": "三年级", "chinese": "与… 相处", "english": "get along with"}
+{"id": 1607, "stage": "小学", "grade": "三年级", "chinese": "圈子；阶层", "english": "circle"}
+{"id": 1608, "stage": "小学", "grade": "三年级", "chinese": "听者；收听者", "english": "listener"}
+{"id": 1609, "stage": "小学", "grade": "三年级", "chinese": "知识渊博的", "english": "knowledgeable"}
+{"id": 1610, "stage": "小学", "grade": "三年级", "chinese": "代表；表示", "english": "represent"}
+{"id": 1611, "stage": "小学", "grade": "三年级", "chinese": "使…… 失望或沮丧", "english": "let...down"}
+{"id": 1612, "stage": "小学", "grade": "三年级", "chinese": "提出", "english": "come up with"}
+{"id": 1613, "stage": "小学", "grade": "三年级", "chinese": "帮助；救助；援助；救护", "english": "aid"}
+{"id": 1614, "stage": "小学", "grade": "三年级", "chinese": "急救", "english": "first-aid"}
+{"id": 1615, "stage": "小学", "grade": "三年级", "chinese": "附近的；近处的", "english": "nearby"}
+{"id": 1616, "stage": "小学", "grade": "三年级", "chinese": "发表；书等出版", "english": "come out"}
+{"id": 1617, "stage": "小学", "grade": "三年级", "chinese": "压，按；挤", "english": "press"}
+{"id": 1618, "stage": "小学", "grade": "三年级", "chinese": "在楼下；顺楼梯而下", "english": "downstairs"}
+{"id": 1619, "stage": "小学", "grade": "三年级", "chinese": "对待", "english": "treat"}
+{"id": 1620, "stage": "小学", "grade": "三年级", "chinese": "属于", "english": "belong"}
+{"id": 1621, "stage": "小学", "grade": "三年级", "chinese": "属于", "english": "belong to"}
+{"id": 1622, "stage": "小学", "grade": "三年级", "chinese": "野餐", "english": "picnic"}
+{"id": 1623, "stage": "小学", "grade": "三年级", "chinese": "发带", "english": "hair band"}
+{"id": 1624, "stage": "小学", "grade": "三年级", "chinese": "可能地；也许", "english": "possible"}
+{"id": 1625, "stage": "小学", "grade": "三年级", "chinese": "交响乐", "english": "symphony"}
+{"id": 1626, "stage": "小学", "grade": "三年级", "chinese": "验光师", "english": "optometrist"}
+{"id": 1627, "stage": "小学", "grade": "三年级", "chinese": "关键的", "english": "crucial"}
+{"id": 1628, "stage": "小学", "grade": "三年级", "chinese": "形成", "english": "make up"}
+{"id": 1629, "stage": "小学", "grade": "三年级", "chinese": "不安的", "english": "anxious"}
+{"id": 1630, "stage": "小学", "grade": "三年级", "chinese": "焦虑的", "english": "worried"}
+{"id": 1631, "stage": "小学", "grade": "三年级", "chinese": "牛津大学", "english": "Oxford"}
+{"id": 1632, "stage": "小学", "grade": "三年级", "chinese": "牛津大学", "english": "Oxford University"}
+{"id": 1633, "stage": "小学", "grade": "三年级", "chinese": "追逐；追赶", "english": "chase"}
+{"id": 1634, "stage": "小学", "grade": "三年级", "chinese": "直升机", "english": "helicopter"}
+{"id": 1635, "stage": "小学", "grade": "三年级", "chinese": "生物；动物", "english": "creature"}
+{"id": 1636, "stage": "小学", "grade": "三年级", "chinese": "不高兴的；伤心的", "english": "unhappy"}
+{"id": 1637, "stage": "小学", "grade": "三年级", "chinese": "极其，非常", "english": "extremely"}
+{"id": 1638, "stage": "小学", "grade": "三年级", "chinese": "邻居", "english": "neighbor"}
+{"id": 1639, "stage": "小学", "grade": "三年级", "chinese": "脚步声；足迹", "english": "footstep"}
+{"id": 1640, "stage": "小学", "grade": "三年级", "chinese": "垃圾；废料", "english": "garbage"}
+{"id": 1641, "stage": "小学", "grade": "三年级", "chinese": "神秘的事物；谜", "english": "mystery"}
+{"id": 1642, "stage": "小学", "grade": "三年级", "chinese": "主管；主任", "english": "director"}
+{"id": 1643, "stage": "小学", "grade": "三年级", "chinese": "狗叫", "english": "bark"}
+{"id": 1644, "stage": "小学", "grade": "三年级", "chinese": "石头，石块", "english": "stone"}
+{"id": 1645, "stage": "小学", "grade": "三年级", "chinese": "不诚实的", "english": "dishonest"}
+{"id": 1646, "stage": "小学", "grade": "三年级", "chinese": "假装", "english": "pretend"}
+{"id": 1647, "stage": "小学", "grade": "三年级", "chinese": "用完，耗尽", "english": "use up"}
+{"id": 1648, "stage": "小学", "grade": "四年级", "chinese": "袋鼠", "english": "kangaroo"}
+{"id": 1649, "stage": "小学", "grade": "四年级", "chinese": "鹦鹉", "english": "parrot"}
+{"id": 1650, "stage": "小学", "grade": "四年级", "chinese": "蛇", "english": "snake"}
+{"id": 1651, "stage": "小学", "grade": "四年级", "chinese": "小姐", "english": "Miss"}
+{"id": 1652, "stage": "小学", "grade": "四年级", "chinese": "父母", "english": "parents"}
+{"id": 1653, "stage": "小学", "grade": "四年级", "chinese": "祖父母；外祖父母", "english": "grandparents"}
+{"id": 1654, "stage": "小学", "grade": "四年级", "chinese": "爷爷；外公", "english": "grandpa"}
+{"id": 1655, "stage": "小学", "grade": "四年级", "chinese": "奶奶；外婆", "english": "grandma"}
+{"id": 1656, "stage": "小学", "grade": "四年级", "chinese": "笔友", "english": "pen pal"}
+{"id": 1657, "stage": "小学", "grade": "四年级", "chinese": "电影明星", "english": "film star"}
+{"id": 1658, "stage": "小学", "grade": "四年级", "chinese": "消防员", "english": "fireman"}
+{"id": 1659, "stage": "小学", "grade": "四年级", "chinese": "足球运动员", "english": "footballer"}
+{"id": 1660, "stage": "小学", "grade": "四年级", "chinese": "工程师", "english": "engineer"}
+{"id": 1661, "stage": "小学", "grade": "四年级", "chinese": "会计", "english": "accountant"}
+{"id": 1662, "stage": "小学", "grade": "四年级", "chinese": "男售货员", "english": "salesman"}
+{"id": 1663, "stage": "小学", "grade": "四年级", "chinese": "女售货员", "english": "saleswoman"}
+{"id": 1664, "stage": "小学", "grade": "四年级", "chinese": "清洁工", "english": "cleaner"}
+{"id": 1665, "stage": "小学", "grade": "四年级", "chinese": "棒球运动员", "english": "baseball player"}
+{"id": 1666, "stage": "小学", "grade": "四年级", "chinese": "面条", "english": "noodles"}
+{"id": 1667, "stage": "小学", "grade": "四年级", "chinese": "蔬菜汤", "english": "vegetable soup"}
+{"id": 1668, "stage": "小学", "grade": "四年级", "chinese": "可乐", "english": "cola"}
+{"id": 1669, "stage": "小学", "grade": "四年级", "chinese": "香肠", "english": "sausage"}
+{"id": 1670, "stage": "小学", "grade": "四年级", "chinese": "炸薯条", "english": "chips"}
+{"id": 1671, "stage": "小学", "grade": "四年级", "chinese": "下雨的；多雨的", "english": "rainy"}
+{"id": 1672, "stage": "小学", "grade": "四年级", "chinese": "记者", "english": "reporter"}
+{"id": 1673, "stage": "小学", "grade": "四年级", "chinese": "星期一", "english": "Monday"}
+{"id": 1674, "stage": "小学", "grade": "四年级", "chinese": "星期日", "english": "Sunday"}
+{"id": 1675, "stage": "小学", "grade": "四年级", "chinese": "七十", "english": "seventy"}
+{"id": 1676, "stage": "小学", "grade": "四年级", "chinese": "第七", "english": "seventh"}
+{"id": 1677, "stage": "小学", "grade": "四年级", "chinese": "第十", "english": "tenth"}
+{"id": 1678, "stage": "小学", "grade": "四年级", "chinese": "第十一", "english": "eleventh"}
+{"id": 1679, "stage": "小学", "grade": "四年级", "chinese": "有朝一日；某一天", "english": "someday"}
+{"id": 1680, "stage": "小学", "grade": "四年级", "chinese": "五月", "english": "May"}
+{"id": 1681, "stage": "小学", "grade": "四年级", "chinese": "十月", "english": "October"}
+{"id": 1682, "stage": "小学", "grade": "四年级", "chinese": "十一月", "english": "November"}
+{"id": 1683, "stage": "小学", "grade": "四年级", "chinese": "铅笔盒", "english": "pencil-box"}
+{"id": 1684, "stage": "小学", "grade": "四年级", "chinese": "借书证", "english": "library card"}
+{"id": 1685, "stage": "小学", "grade": "四年级", "chinese": "中学", "english": "middle school"}
+{"id": 1686, "stage": "小学", "grade": "四年级", "chinese": "数学", "english": "Maths"}
+{"id": 1687, "stage": "小学", "grade": "四年级", "chinese": "科学", "english": "Science"}
+{"id": 1688, "stage": "小学", "grade": "四年级", "chinese": "音乐", "english": "Music"}
+{"id": 1689, "stage": "小学", "grade": "四年级", "chinese": "物理", "english": "Physics"}
+{"id": 1690, "stage": "小学", "grade": "四年级", "chinese": "地理", "english": "Geography"}
+{"id": 1691, "stage": "小学", "grade": "四年级", "chinese": "体育", "english": "PE"}
+{"id": 1692, "stage": "小学", "grade": "四年级", "chinese": "小学", "english": "primary school"}
+{"id": 1693, "stage": "小学", "grade": "四年级", "chinese": "乒乓球", "english": "table tennis"}
+{"id": 1694, "stage": "小学", "grade": "四年级", "chinese": "早操", "english": "morning exercises"}
+{"id": 1695, "stage": "小学", "grade": "四年级", "chinese": "宇宙飞船", "english": "spaceship"}
+{"id": 1696, "stage": "小学", "grade": "四年级", "chinese": "吉普车", "english": "jeep"}
+{"id": 1697, "stage": "小学", "grade": "四年级", "chinese": "肩膀", "english": "shoulder"}
+{"id": 1698, "stage": "小学", "grade": "四年级", "chinese": "芒果", "english": "mango"}
+{"id": 1699, "stage": "小学", "grade": "四年级", "chinese": "我", "english": "I"}
+{"id": 1700, "stage": "小学", "grade": "五年级", "chinese": "年轻的", "english": "Young "}
+{"id": 1701, "stage": "小学", "grade": "五年级", "chinese": "滑稽可笑的", "english": "funny "}
+{"id": 1702, "stage": "小学", "grade": "五年级", "chinese": "高的", "english": "tall "}
+{"id": 1703, "stage": "小学", "grade": "五年级", "chinese": "强壮的", "english": "strong "}
+{"id": 1704, "stage": "小学", "grade": "五年级", "chinese": "和蔼的、亲切的", "english": "kind "}
+{"id": 1705, "stage": "小学", "grade": "五年级", "chinese": "年老的", "english": "old "}
+{"id": 1706, "stage": "小学", "grade": "五年级", "chinese": "矮的", "english": "short "}
+{"id": 1707, "stage": "小学", "grade": "五年级", "chinese": "瘦的", "english": "thin "}
+{"id": 1708, "stage": "小学", "grade": "五年级", "chinese": "先生", "english": "Mr "}
+{"id": 1709, "stage": "小学", "grade": "五年级", "chinese": "像、喜欢", "english": "like "}
+{"id": 1710, "stage": "小学", "grade": "五年级", "chinese": "严格的", "english": "strict "}
+{"id": 1711, "stage": "小学", "grade": "五年级", "chinese": "聪明的、巧妙的", "english": "smart "}
+{"id": 1712, "stage": "小学", "grade": "五年级", "chinese": "积极的、活跃的", "english": "active "}
+{"id": 1713, "stage": "小学", "grade": "五年级", "chinese": "安静的、文静的", "english": "quiet "}
+{"id": 1714, "stage": "小学", "grade": "五年级", "chinese": "很、非常", "english": "very "}
+{"id": 1715, "stage": "小学", "grade": "五年级", "chinese": "但是", "english": "but "}
+{"id": 1716, "stage": "小学", "grade": "五年级", "chinese": "校长", "english": "principal"}
+{"id": 1717, "stage": "小学", "grade": "五年级", "chinese": "大学生", "english": "university student"}
+{"id": 1718, "stage": "小学", "grade": "五年级", "chinese": "星期一", "english": "Mondy "}
+{"id": 1719, "stage": "小学", "grade": "五年级", "chinese": "星期二", "english": "Tuesday "}
+{"id": 1720, "stage": "小学", "grade": "五年级", "chinese": "星期三", "english": "Wednesday "}
+{"id": 1721, "stage": "小学", "grade": "五年级", "chinese": "星期四", "english": "Thursday "}
+{"id": 1722, "stage": "小学", "grade": "五年级", "chinese": "星期五", "english": "Friday "}
+{"id": 1723, "stage": "小学", "grade": "五年级", "chinese": "星期六", "english": "Saturday "}
+{"id": 1724, "stage": "小学", "grade": "五年级", "chinese": "星期天", "english": "Sunday "}
+{"id": 1725, "stage": "小学", "grade": "五年级", "chinese": "天", "english": "day "}
+{"id": 1726, "stage": "小学", "grade": "五年级", "chinese": "有、吃", "english": "have "}
+{"id": 1727, "stage": "小学", "grade": "五年级", "chinese": "在…..时候", "english": "on "}
+{"id": 1728, "stage": "小学", "grade": "五年级", "chinese": "做作业", "english": "do homework "}
+{"id": 1729, "stage": "小学", "grade": "五年级", "chinese": "看电视", "english": "watch TV "}
+{"id": 1730, "stage": "小学", "grade": "五年级", "chinese": "读书", "english": "read books "}
+{"id": 1731, "stage": "小学", "grade": "五年级", "chinese": "茄子", "english": "eggplant "}
+{"id": 1732, "stage": "小学", "grade": "五年级", "chinese": "鱼", "english": "fish "}
+{"id": 1733, "stage": "小学", "grade": "五年级", "chinese": "青豆", "english": "green beans "}
+{"id": 1734, "stage": "小学", "grade": "五年级", "chinese": "豆腐", "english": "tofu "}
+{"id": 1735, "stage": "小学", "grade": "五年级", "chinese": "土豆", "english": "potato "}
+{"id": 1736, "stage": "小学", "grade": "五年级", "chinese": "西红柿", "english": "tomato "}
+{"id": 1737, "stage": "小学", "grade": "五年级", "chinese": "为", "english": "for "}
+{"id": 1738, "stage": "小学", "grade": "五年级", "chinese": "中餐", "english": "lunch "}
+{"id": 1739, "stage": "小学", "grade": "五年级", "chinese": "我们", "english": "we "}
+{"id": 1740, "stage": "小学", "grade": "五年级", "chinese": "好吃的", "english": "tasty "}
+{"id": 1741, "stage": "小学", "grade": "五年级", "chinese": "甜的", "english": "sweet "}
+{"id": 1742, "stage": "小学", "grade": "五年级", "chinese": "酸的", "english": "sour "}
+{"id": 1743, "stage": "小学", "grade": "五年级", "chinese": "新鲜的", "english": "fresh "}
+{"id": 1744, "stage": "小学", "grade": "五年级", "chinese": "咸的", "english": "salty "}
+{"id": 1745, "stage": "小学", "grade": "五年级", "chinese": "最喜欢的", "english": "favourite "}
+{"id": 1746, "stage": "小学", "grade": "五年级", "chinese": "他们是", "english": "they are "}
+{"id": 1747, "stage": "小学", "grade": "五年级", "chinese": "水果", "english": "fruit "}
+{"id": 1748, "stage": "小学", "grade": "五年级", "chinese": "葡萄", "english": "grape "}
+{"id": 1749, "stage": "小学", "grade": "五年级", "chinese": "倒垃圾", "english": "Cook the meals "}
+{"id": 1750, "stage": "小学", "grade": "五年级", "chinese": "浇花", "english": "water the flowers "}
+{"id": 1751, "stage": "小学", "grade": "五年级", "chinese": "扫地", "english": "sweep the floor "}
+{"id": 1752, "stage": "小学", "grade": "五年级", "chinese": "打扫卧室", "english": "clean the bedroom "}
+{"id": 1753, "stage": "小学", "grade": "五年级", "chinese": "铺床", "english": "make the bed "}
+{"id": 1754, "stage": "小学", "grade": "六年级", "chinese": "地铁", "english": "subway"}
+{"id": 1755, "stage": "小学", "grade": "六年级", "chinese": "上学", "english": "go to school"}
+{"id": 1756, "stage": "小学", "grade": "六年级", "chinese": "交通", "english": "traffic"}
+{"id": 1757, "stage": "小学", "grade": "六年级", "chinese": "交通灯", "english": "traffic light"}
+{"id": 1758, "stage": "小学", "grade": "六年级", "chinese": "交通规则", "english": "traffic rule"}
+{"id": 1759, "stage": "小学", "grade": "六年级", "chinese": "到达", "english": "get to"}
+{"id": 1760, "stage": "小学", "grade": "六年级", "chinese": "邮局", "english": "post office"}
+{"id": 1761, "stage": "小学", "grade": "六年级", "chinese": "书店", "english": "bookstore"}
+{"id": 1762, "stage": "小学", "grade": "六年级", "chinese": "科学博物馆", "english": "science museum"}
+{"id": 1763, "stage": "小学", "grade": "六年级", "chinese": "对不起", "english": "excuse me"}
+{"id": 1764, "stage": "小学", "grade": "六年级", "chinese": "与… 相邻", "english": "next to"}
+{"id": 1765, "stage": "小学", "grade": "六年级", "chinese": "放学以后", "english": "after school"}
+{"id": 1766, "stage": "小学", "grade": "六年级", "chinese": "一双", "english": "a pair of"}
+{"id": 1767, "stage": "小学", "grade": "六年级", "chinese": "鞋店", "english": "shoe store"}
+{"id": 1768, "stage": "小学", "grade": "六年级", "chinese": "下车", "english": "get off"}
+{"id": 1769, "stage": "小学", "grade": "六年级", "chinese": "右边", "english": "right "}
+{"id": 1770, "stage": "小学", "grade": "六年级", "chinese": "寻找", "english": "look for"}
+{"id": 1771, "stage": "小学", "grade": "六年级", "chinese": "下周", "english": "next week"}
+{"id": 1772, "stage": "小学", "grade": "六年级", "chinese": "今天上午", "english": "this morning"}
+{"id": 1773, "stage": "小学", "grade": "六年级", "chinese": "今天下午", "english": "this afternoon"}
+{"id": 1774, "stage": "小学", "grade": "六年级", "chinese": "ruler", "english": "尺子"}
+{"id": 1775, "stage": "小学", "grade": "六年级", "chinese": "comic book", "english": "漫画书"}
+{"id": 1776, "stage": "小学", "grade": "六年级", "chinese": "Chinese book", "english": "语文书"}
+{"id": 1777, "stage": "小学", "grade": "六年级", "chinese": "English book", "english": "英语书"}
+{"id": 1778, "stage": "小学", "grade": "六年级", "chinese": "math book", "english": "数学书"}
+{"id": 1779, "stage": "小学", "grade": "六年级", "chinese": "pig", "english": "猪"}
+{"id": 1780, "stage": "小学", "grade": "六年级", "chinese": "tiger", "english": "老虎"}
+{"id": 1781, "stage": "小学", "grade": "六年级", "chinese": "squid", "english": "鱿鱼"}
+{"id": 1782, "stage": "小学", "grade": "六年级", "chinese": "sperm whale", "english": "抹香鲸"}
+{"id": 1783, "stage": "小学", "grade": "六年级", "chinese": "killer whale", "english": "虎鲸"}
+{"id": 1784, "stage": "小学", "grade": "六年级", "chinese": "sister", "english": "姐妹"}
+{"id": 1785, "stage": "小学", "grade": "六年级", "chinese": "kid", "english": "小孩"}
+{"id": 1786, "stage": "小学", "grade": "六年级", "chinese": "university student", "english": "大学生"}
+{"id": 1787, "stage": "小学", "grade": "六年级", "chinese": "pen pal", "english": "笔友"}
+{"id": 1788, "stage": "小学", "grade": "六年级", "chinese": "TV reporter", "english": "电视台记者"}
+{"id": 1789, "stage": "小学", "grade": "六年级", "chinese": "assistant", "english": "售货员"}
+{"id": 1790, "stage": "小学", "grade": "六年级", "chinese": "baseball player", "english": "棒球运动员"}
+{"id": 1791, "stage": "小学", "grade": "六年级", "chinese": "Monday", "english": "星期一"}
+{"id": 1792, "stage": "小学", "grade": "六年级", "chinese": "Tuesday", "english": "星期二"}
+{"id": 1793, "stage": "小学", "grade": "六年级", "chinese": "Wednesday", "english": "星期三"}
+{"id": 1794, "stage": "小学", "grade": "六年级", "chinese": "Thursday", "english": "星期四"}
+{"id": 1795, "stage": "小学", "grade": "六年级", "chinese": "Friday", "english": "星期五"}
+{"id": 1796, "stage": "小学", "grade": "六年级", "chinese": "Saturday", "english": "星期六"}
+{"id": 1797, "stage": "小学", "grade": "六年级", "chinese": "Sunday", "english": "星期日"}
+{"id": 1798, "stage": "小学", "grade": "六年级", "chinese": "weekend", "english": "周末"}
+{"id": 1799, "stage": "小学", "grade": "六年级", "chinese": "January (Jan)", "english": "一月份"}
+{"id": 1800, "stage": "小学", "grade": "六年级", "chinese": "February (Feb)", "english": "二月份"}
+{"id": 1801, "stage": "小学", "grade": "六年级", "chinese": "March (Mar) ", "english": "三月份"}
+{"id": 1802, "stage": "小学", "grade": "六年级", "chinese": "May (May)", "english": "五月份"}
+{"id": 1803, "stage": "小学", "grade": "六年级", "chinese": "June (Jun)", "english": "六月份"}
+{"id": 1804, "stage": "小学", "grade": "六年级", "chinese": "July (Jul)", "english": "七月份"}
+{"id": 1805, "stage": "小学", "grade": "六年级", "chinese": "August (Aug)", "english": "八月份"}
+{"id": 1806, "stage": "小学", "grade": "六年级", "chinese": "September (Sept)", "english": "九月份"}
+{"id": 1807, "stage": "小学", "grade": "六年级", "chinese": "October (Oct)", "english": "十月份"}
+{"id": 1808, "stage": "小学", "grade": "六年级", "chinese": "November (Nov)", "english": "十一月"}
+{"id": 1809, "stage": "小学", "grade": "六年级", "chinese": "December (Dec)", "english": "十二月"}
+{"id": 1810, "stage": "小学", "grade": "六年级", "chinese": "spring", "english": "春"}
+{"id": 1811, "stage": "小学", "grade": "六年级", "chinese": "summer", "english": "夏"}
+{"id": 1812, "stage": "小学", "grade": "六年级", "chinese": "autumn /fall", "english": "秋"}
+{"id": 1813, "stage": "小学", "grade": "六年级", "chinese": "winter", "english": "冬"}
+{"id": 1814, "stage": "小学", "grade": "六年级", "chinese": "south", "english": "南"}
+{"id": 1815, "stage": "小学", "grade": "六年级", "chinese": "north", "english": "北"}
+{"id": 1816, "stage": "小学", "grade": "六年级", "chinese": "east", "english": "东"}
+{"id": 1817, "stage": "小学", "grade": "六年级", "chinese": "west", "english": "西"}
+{"id": 1818, "stage": "小学", "grade": "六年级", "chinese": "left", "english": "左边"}
+{"id": 1819, "stage": "小学", "grade": "六年级", "chinese": "right", "english": "右边"}
+{"id": 1820, "stage": "小学", "grade": "六年级", "chinese": "up", "english": "上"}
+{"id": 1821, "stage": "小学", "grade": "六年级", "chinese": "down", "english": "下"}
+{"id": 1822, "stage": "小学", "grade": "六年级", "chinese": "have a fever ", "english": "发烧"}
+{"id": 1823, "stage": "小学", "grade": "六年级", "chinese": "hurt", "english": "疼痛"}
+{"id": 1824, "stage": "小学", "grade": "六年级", "chinese": "have a cold", "english": "感冒"}
+{"id": 1825, "stage": "小学", "grade": "六年级", "chinese": "have a toothache ", "english": "牙疼"}
+{"id": 1826, "stage": "小学", "grade": "六年级", "chinese": "have a headache", "english": "头疼"}
+{"id": 1827, "stage": "小学", "grade": "六年级", "chinese": "have a sore throat", "english": "喉咙疼"}
+{"id": 1828, "stage": "小学", "grade": "六年级", "chinese": "瘦的", "english": "thin"}
+{"id": 1829, "stage": "小学", "grade": "六年级", "chinese": "聪明的；巧妙的", "english": "smart"}
+{"id": 1830, "stage": "小学", "grade": "六年级", "chinese": "酸的", "english": "sour"}
+{"id": 1831, "stage": "小学", "grade": "六年级", "chinese": "咸的", "english": "salty"}
+{"id": 1832, "stage": "小学", "grade": "六年级", "chinese": "新鲜的", "english": "fresh"}
+{"id": 1833, "stage": "小学", "grade": "六年级", "chinese": "好吃的", "english": "tasty"}
+{"id": 1834, "stage": "小学", "grade": "六年级", "chinese": "兴奋的", "english": "excited"}
+{"id": 1835, "stage": "小学", "grade": "六年级", "chinese": "更高的", "english": "taller"}
+{"id": 1836, "stage": "小学", "grade": "六年级", "chinese": "更矮的；更短的", "english": "shorter"}
+{"id": 1837, "stage": "小学", "grade": "六年级", "chinese": "更强壮的", "english": "stronger"}
+{"id": 1838, "stage": "小学", "grade": "六年级", "chinese": "更老的；年龄更大的", "english": "older"}
+{"id": 1839, "stage": "小学", "grade": "六年级", "chinese": "更年轻的", "english": "younger"}
+{"id": 1840, "stage": "小学", "grade": "六年级", "chinese": "更大的", "english": "bigger"}
+{"id": 1841, "stage": "小学", "grade": "六年级", "chinese": "更小的", "english": "smaller"}
+{"id": 1842, "stage": "小学", "grade": "六年级", "chinese": "更长的", "english": "longer"}
+{"id": 1843, "stage": "小学", "grade": "六年级", "chinese": "更瘦的", "english": "thinner"}
+{"id": 1844, "stage": "小学", "grade": "六年级", "chinese": "更重的", "english": "heavier"}
+{"id": 1845, "stage": "小学", "grade": "六年级", "chinese": "更坏的；更差的", "english": "worse"}
+{"id": 1846, "stage": "小学", "grade": "六年级", "chinese": "今天晚上", "english": "this evening"}
+{"id": 1847, "stage": "小学", "grade": "六年级", "chinese": "中午", "english": "noon"}
+{"id": 1848, "stage": "小学", "grade": "六年级", "chinese": "起床", "english": "get up"}
+{"id": 1849, "stage": "小学", "grade": "六年级", "chinese": "回家", "english": "go home"}
+{"id": 1850, "stage": "小学", "grade": "六年级", "chinese": "上床睡觉", "english": "go to bed"}
+{"id": 1851, "stage": "小学", "grade": "六年级", "chinese": "看电视", "english": "watch TV"}
+{"id": 1852, "stage": "小学", "grade": "六年级", "chinese": "读书", "english": "read books"}
+{"id": 1853, "stage": "小学", "grade": "六年级", "chinese": "做作业", "english": "do homework"}
+{"id": 1854, "stage": "小学", "grade": "六年级", "chinese": "做家务", "english": "do housework"}
+{"id": 1855, "stage": "小学", "grade": "六年级", "chinese": "踢足球", "english": "play football"}
+{"id": 1856, "stage": "小学", "grade": "六年级", "chinese": "打篮球", "english": "play basketball"}
+{"id": 1857, "stage": "小学", "grade": "六年级", "chinese": "打乒乓球", "english": "play ping-pong"}
+{"id": 1858, "stage": "小学", "grade": "六年级", "chinese": "下棋", "english": "play chess"}
+{"id": 1859, "stage": "小学", "grade": "六年级", "chinese": "去购物", "english": "go shopping"}
+{"id": 1860, "stage": "小学", "grade": "六年级", "chinese": "去远足", "english": "go hiking"}
+{"id": 1861, "stage": "小学", "grade": "六年级", "chinese": "去钓鱼", "english": "go fishing"}
+{"id": 1862, "stage": "小学", "grade": "六年级", "chinese": "去游泳", "english": "go swimming"}
+{"id": 1863, "stage": "小学", "grade": "六年级", "chinese": "去滑雪", "english": "go skiing"}
+{"id": 1864, "stage": "小学", "grade": "六年级", "chinese": "去滑冰", "english": "go ice-skating"}
+{"id": 1865, "stage": "小学", "grade": "六年级", "chinese": "看望祖父母", "english": "visit grandparents"}
+{"id": 1866, "stage": "小学", "grade": "六年级", "chinese": "洗衣服", "english": "wash clothes"}
+{"id": 1867, "stage": "小学", "grade": "六年级", "chinese": "打扫房间", "english": "clean the room"}
+{"id": 1868, "stage": "小学", "grade": "六年级", "chinese": "做晚餐", "english": "cook dinner"}
+{"id": 1869, "stage": "小学", "grade": "六年级", "chinese": "浇花", "english": "water the flowers"}
+{"id": 1870, "stage": "小学", "grade": "六年级", "chinese": "画画", "english": "draw pictures"}
+{"id": 1871, "stage": "小学", "grade": "六年级", "chinese": "制作风筝", "english": "make kites"}
+{"id": 1872, "stage": "小学", "grade": "六年级", "chinese": "集邮", "english": "collect stamps"}
+{"id": 1873, "stage": "小学", "grade": "六年级", "chinese": "骑自行车", "english": "ride a bike"}
+{"id": 1874, "stage": "小学", "grade": "六年级", "chinese": "弹钢琴", "english": "play the piano"}
+{"id": 1875, "stage": "小学", "grade": "六年级", "chinese": "拉小提琴", "english": "play the violin"}
+{"id": 1876, "stage": "小学", "grade": "六年级", "chinese": "唱歌", "english": "sing songs"}
+{"id": 1877, "stage": "小学", "grade": "六年级", "chinese": "吃早餐", "english": "eat breakfast"}
+{"id": 1878, "stage": "小学", "grade": "六年级", "chinese": "吃午餐", "english": "eat lunch"}
+{"id": 1879, "stage": "小学", "grade": "六年级", "chinese": "吃晚餐", "english": "eat dinner"}
+{"id": 1880, "stage": "小学", "grade": "六年级", "chinese": "喝水", "english": "drink water"}
+{"id": 1881, "stage": "小学", "grade": "六年级", "chinese": "喝牛奶", "english": "drink milk"}
+{"id": 1882, "stage": "小学", "grade": "六年级", "chinese": "喝茶", "english": "drink tea"}
+{"id": 1883, "stage": "小学", "grade": "六年级", "chinese": "喝咖啡", "english": "drink coffee"}
+{"id": 1884, "stage": "小学", "grade": "六年级", "chinese": "上英语课", "english": "have English class"}
+{"id": 1885, "stage": "小学", "grade": "六年级", "chinese": "上数学课", "english": "have math class"}
+{"id": 1886, "stage": "小学", "grade": "六年级", "chinese": "上语文课", "english": "have Chinese class"}
+{"id": 1887, "stage": "小学", "grade": "六年级", "chinese": "上体育课", "english": "have P.E. class"}
+{"id": 1888, "stage": "小学", "grade": "六年级", "chinese": "上美术课", "english": "have art class"}
+{"id": 1889, "stage": "小学", "grade": "六年级", "chinese": "上音乐课", "english": "have music class"}
+{"id": 1890, "stage": "小学", "grade": "六年级", "chinese": "上科学课", "english": "have science class"}
+{"id": 1891, "stage": "小学", "grade": "六年级", "chinese": "去公园", "english": "go to the park"}
+{"id": 1892, "stage": "小学", "grade": "六年级", "chinese": "去动物园", "english": "go to the zoo"}
+{"id": 1893, "stage": "小学", "grade": "六年级", "chinese": "去看电影", "english": "go to the cinema"}
+{"id": 1894, "stage": "小学", "grade": "六年级", "chinese": "去图书馆", "english": "go to the library"}
+{"id": 1895, "stage": "小学", "grade": "六年级", "chinese": "去医院", "english": "go to the hospital"}
+{"id": 1896, "stage": "小学", "grade": "六年级", "chinese": "去超市", "english": "go to the supermarket"}
+{"id": 1897, "stage": "小学", "grade": "六年级", "chinese": "去银行", "english": "go to the bank"}
+{"id": 1898, "stage": "小学", "grade": "六年级", "chinese": "去邮局", "english": "go to the post office"}
+{"id": 1899, "stage": "小学", "grade": "六年级", "chinese": "去书店", "english": "go to the bookstore"}
+{"id": 1900, "stage": "小学", "grade": "六年级", "chinese": "去博物馆", "english": "go to the museum"}
+{"id": 1901, "stage": "小学", "grade": "六年级", "chinese": "去剧院", "english": "go to the theatre"}
+{"id": 1902, "stage": "小学", "grade": "六年级", "chinese": "去餐馆", "english": "go to the restaurant"}
+{"id": 1903, "stage": "小学", "grade": "六年级", "chinese": "去旅行", "english": "take a trip"}
+{"id": 1904, "stage": "小学", "grade": "六年级", "chinese": "读杂志", "english": "read a magazine"}
+{"id": 1905, "stage": "小学", "grade": "六年级", "chinese": "去野餐", "english": "go on a picnic"}
+{"id": 1906, "stage": "小学", "grade": "六年级", "chinese": "站；站立", "english": "stand"}
+{"id": 1907, "stage": "小学", "grade": "六年级", "chinese": "醒来", "english": "wake up"}
+{"id": 1908, "stage": "小学", "grade": "六年级", "chinese": "穿衣服", "english": "get dressed"}
+{"id": 1909, "stage": "小学", "grade": "六年级", "chinese": "刷牙", "english": "brush teeth"}
+{"id": 1910, "stage": "小学", "grade": "六年级", "chinese": "洗脸", "english": "wash face"}
+{"id": 1911, "stage": "小学", "grade": "六年级", "chinese": "洗手", "english": "wash hands"}
+{"id": 1912, "stage": "小学", "grade": "六年级", "chinese": "洗澡", "english": "take a bath"}
+{"id": 1913, "stage": "小学", "grade": "六年级", "chinese": "去厕所", "english": "go to the toilet"}
+{"id": 1914, "stage": "小学", "grade": "六年级", "chinese": "在…… 对面", "english": "across from"}

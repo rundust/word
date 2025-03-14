@@ -18,9 +18,12 @@ Page({
         difficulties: ['简单', '困难'],
         difficultyIndex: 1, // 默认困难模式
         boardSize: 8 // 默认8x8
-    },
+  },
 
-    onLoad() {
+  onLoad() {
+        wx.cloud.init({
+            env: 'cloud1'
+        });
         this.updateGrades();
         this.fetchWords();
     },
@@ -57,22 +60,19 @@ Page({
     },
 
     fetchWords() {
-        wx.request({
-            url: 'http://127.0.0.1:5000/get_words',
-            method: 'GET',
+        wx.cloud.callFunction({
+            name: 'getWords',
             data: {
                 stage: this.data.stages[this.data.stageIndex],
                 grade: this.data.grades[this.data.gradeIndex]
-            },
-            success: (res) => {
-                this.setData({
-                    wordList: res.data
-                });
-                this.createEmptyBoard();
-            },
-            fail: (err) => {
-                console.error('获取单词数据失败:', err);
             }
+        }).then(res => {
+            this.setData({
+                wordList: res.result.data
+            });
+            this.createEmptyBoard();
+        }).catch(err => {
+            console.error('获取单词数据失败:', err);
         });
     },
 
