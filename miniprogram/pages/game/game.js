@@ -314,25 +314,20 @@ Page({
         const value = this.data.board[i][j];
         
         if (!value) return; // 空格子不处理
-        
-        // 处理放大状态
-        if (this.data.enlargedCell && this.data.enlargedCell.i === i && this.data.enlargedCell.j === j) {
-            // 如果点击的是当前放大的格子，取消放大
-            this.setData({
-                enlargedCell: null
-            });
-        } else {
-            // 放大点击的格子
-            this.setData({
-                enlargedCell: { i, j }
-            });
-        }
 
-        // 原有的匹配逻辑
+        // 放大点击的格子
+        this.setData({
+            enlargedCell: { i, j }
+        });
+
+        // 匹配逻辑
         if (this.data.selected) {
             const selected = this.data.selected;
             if (i === selected.i && j === selected.j) {
-                this.setData({ selected: null });
+                this.setData({ 
+                    selected: null,
+                    enlargedCell: null // 取消放大
+                });
                 return;
             }
             
@@ -366,6 +361,7 @@ Page({
                     board: newBoard,
                     wordTypes: newWordTypes,
                     selected: null,
+                    enlargedCell: null, // 匹配成功，取消所有放大状态
                     score: this.data.score + 1,
                     emptyCells: newEmptyCells,
                     usedWords: usedWords
@@ -373,7 +369,10 @@ Page({
                     this.checkGameState();
                 });
             } else {
-                this.setData({ selected: null }, () => {
+                this.setData({ 
+                    selected: null,
+                    enlargedCell: null // 匹配失败，取消所有放大状态
+                }, () => {
                     wx.showToast({
                         title: '不匹配',
                         icon: 'none',

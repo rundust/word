@@ -117,11 +117,11 @@
 }
 
 .game-board {
-    width: 100%;
+    width: 94%;
     aspect-ratio: 1;
     display: grid;
     gap: 10rpx;
-    margin: 10rpx 0;
+    margin: 10rpx auto;
     flex-shrink: 0;
     background: #ffffff;
     padding: 10rpx;
