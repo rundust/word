@@ -1,0 +1,223 @@
+/* pages/game/game.wxss */
+.container {
+    padding: 20rpx;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: #f5f7fa;
+}
+
+.controls {
+    padding: 20rpx;
+    display: flex;
+    gap: 20rpx;
+    background: #ffffff;
+    border-radius: 16rpx;
+    box-shadow: 0 2rpx 8rpx rgba(0, 0, 0, 0.05);
+    margin-bottom: 10rpx;
+    align-items: stretch;
+    min-height: 240rpx;
+}
+
+.controls-left, .controls-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10rpx;
+}
+
+.selectors {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10rpx;
+    gap: 10rpx;
+}
+.picker {
+    height: 70rpx;
+    line-height: 70rpx;
+    text-align: center;
+    border-radius: 8rpx;
+    font-size: 28rpx;
+    font-weight: 500;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+}
+
+.picker:nth-child(1) {
+    background: linear-gradient(135deg, #FF6B6B 0%, #FF5252 100%);
+    box-shadow: 0 4rpx 8rpx rgba(255, 82, 82, 0.2);
+}
+
+.picker:nth-child(2) {
+    background: linear-gradient(135deg, #4CAF50 0%, #45A049 100%);
+    box-shadow: 0 4rpx 8rpx rgba(76, 175, 80, 0.2);
+}
+
+.picker:nth-child(3) {
+    background: linear-gradient(135deg, #9C27B0 0%, #7B1FA2 100%);
+    box-shadow: 0 4rpx 8rpx rgba(156, 39, 176, 0.2);
+}
+
+.picker:active {
+    transform: scale(0.95);
+    opacity: 0.9;
+}
+
+.score {
+    height: 70rpx;
+    line-height: 70rpx;
+    text-align: center;
+    font-size: 28rpx;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+    border-radius: 8rpx;
+    box-shadow: 0 4rpx 8rpx rgba(255, 152, 0, 0.2);
+    box-sizing: border-box;
+}
+
+.buttons {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10rpx;
+}
+
+.btn {
+    height: 70rpx;
+    line-height: 70rpx;
+    text-align: center;
+    border-radius: 8rpx;
+    font-size: 28rpx;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    color: white;
+    box-sizing: border-box;
+}
+
+.btn:active {
+    transform: scale(0.95);
+    opacity: 0.9;
+}
+
+.btn-start {
+    background: linear-gradient(135deg, #40c9ff 0%, #0099ff 100%);
+    box-shadow: 0 4rpx 8rpx rgba(0, 153, 255, 0.2);
+}
+
+.btn-help {
+    background: linear-gradient(135deg, #ffb340 0%, #ff9500 100%);
+    box-shadow: 0 4rpx 8rpx rgba(255, 149, 0, 0.2);
+}
+
+.game-board {
+    width: 94%;
+    display: grid;
+    gap: 8rpx;
+    margin: 10rpx auto;
+    background: #ffffff;
+    padding: 10rpx;
+    border-radius: 16rpx;
+    box-shadow: 0 2rpx 8rpx rgba(0, 0, 0, 0.05);
+    overflow: auto;
+    align-items: center; /* 垂直居中 */
+    justify-items: center; /* 水平居中 */
+}
+
+.cell {
+    aspect-ratio: 1;
+    width: 100%;
+    display: flex;
+    align-items: center; /* 垂直居中 */
+    justify-content: center; /* 水平居中 */
+    line-height: 1.4;
+    padding: 8rpx;
+    font-size: 24rpx;
+    font-weight: bold;
+    color: #333;
+    background: #ffffff;
+    border: 2rpx solid #e8eef5;
+    border-radius: 8rpx;
+    box-shadow: 0 1rpx 2rpx rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    white-space: normal;
+    word-break: break-word; /* 更智能的换行方式 */
+}
+
+.cell.enlarged {
+    transform: scale(1.2);
+    box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.2);
+    z-index: 100;
+}
+
+.cell:active {
+    opacity: 0.8;
+}
+
+.cell.english-word {
+    color: #0099ff;
+    font-weight: 500;
+    letter-spacing: 1rpx;
+    text-shadow: 0 2rpx 4rpx rgba(0, 153, 255, 0.2);
+    background: linear-gradient(135deg, #f0f7ff 0%, #e6f4ff 100%);
+    border-color: #69c0ff;
+}
+
+.cell.chinese-word {
+    color: #ff6b00;
+    font-weight: 500;
+    letter-spacing: 1rpx;
+    text-shadow: 0 2rpx 4rpx rgba(255, 107, 0, 0.2);
+    background: linear-gradient(135deg, #fff7f0 0%, #fff2e6 100%);
+    border-color: #ffa940;
+}
+
+.cell.hint {
+    animation: hintHighlight 1s ease infinite;
+    z-index: 2;
+}
+
+@keyframes hintHighlight {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 rgba(255, 223, 0, 0);
+    }
+    50% {
+        transform: scale(1.05);
+        box-shadow: 0 0 20rpx rgba(255, 223, 0, 0.5);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 0 rgba(255, 223, 0, 0);
+    }
+}
+
+.cell.empty {
+    background: #ffffff !important;
+    border-color: #e8eef5 !important;
+    color: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+
+.help-count {
+    color: #ff9500;
+    margin-left: 6rpx;
+}
+
+.cell-content {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center; /* 垂直居中 */
+    justify-content: center; /* 水平居中 */
+    text-align: center;
+    overflow: hidden;
+}

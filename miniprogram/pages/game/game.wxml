@@ -1,0 +1,38 @@
+<!--pages/game/game.wxml-->
+<view class="container">
+    <view class="controls">
+        <view class="controls-left">
+            <picker bindchange="onStageChange" value="{{stageIndex}}" range="{{stages}}">
+                <view class="picker">{{stages[stageIndex]}}</view>
+            </picker>
+            <picker bindchange="onGradeChange" value="{{gradeIndex}}" range="{{grades}}">
+                <view class="picker">{{grades[gradeIndex]}}</view>
+            </picker>
+            <picker bindchange="onDifficultyChange" value="{{difficultyIndex}}" range="{{difficulties}}">
+                <view class="picker">{{difficulties[difficultyIndex]}}</view>
+            </picker>
+        </view>
+        <view class="controls-right">
+            <view class="score">得分：{{score}}</view>
+            <view class="buttons">
+                <view class="btn btn-start" bindtap="startGame">开始游戏</view>
+                <view class="btn btn-help" bindtap="onHelpTap">提示 ({{helpCount}})</view>
+            </view>
+        </view>
+    </view>
+
+    <!-- 修改游戏板样式为固定6列 -->
+    <view class="game-board" style="grid-template-columns: repeat(6, 1fr);">
+        <block wx:for="{{board}}" wx:for-item="row" wx:for-index="i" wx:key="i">
+            <block wx:for="{{row}}" wx:for-item="cell" wx:for-index="j" wx:key="j">
+                <view class="cell {{wordTypes[i][j] === 'chinese' ? 'chinese-word' : wordTypes[i][j] === 'english' ? 'english-word' : wordTypes[i][j] === 'hint' ? 'hint' : wordTypes[i][j] === 'empty' ? 'empty' : ''}} {{enlargedCell.i === i && enlargedCell.j === j ? 'enlarged' : ''}}" 
+                      bindtap="onCellTap" 
+                      data-i="{{i}}" 
+                      data-j="{{j}}" 
+                      data-length="{{cell.length}}">
+                    <view class="cell-content">{{cell}}</view>
+                </view>
+            </block>
+        </block>
+    </view>
+</view>

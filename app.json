@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/game/game",
+    "pages/rank/rank"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "单词消消乐",
+    "navigationBarTextStyle": "black"
+  }
+}
