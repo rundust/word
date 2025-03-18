@@ -20,11 +20,10 @@ Page({
         gameStarted: false,
         wordTypes: [],
         usedWords: new Set(),
-        difficulties: ['简单', '困难'],
-        difficultyIndex: 1, // 默认困难模式
-        rows: 12, // 默认困难模式行数
-        columns: 6, // 固定列数
-        enlargedCell: null
+        difficulties: ['简单', '中等', '困难'],  // 增加中等难度
+        difficultyIndex: 0,                     // 默认简单模式
+        rows: 6,                                // 默认简单模式行数
+        columns: 6                              // 默认简单模式列数
     },
 
     /**
@@ -84,7 +83,18 @@ Page({
      * 用户点击右上角分享
      */
     onShareAppMessage() {
-
+        return {
+            title: '快来一起玩单词匹配游戏', // 分享标题
+            path: '/miniprogram/pages/game/game', // 分享路径，指向当前游戏页面
+            imageUrl: '', // 可选，分享卡片的图片地址，需替换为实际可用地址
+            success(res) {
+                console.log('分享成功', res);
+                // 可在此添加分享成功后的逻辑，比如给用户奖励积分等
+            },
+            fail(err) {
+                console.log('分享失败', err);
+            }
+        };
     },
 
     updateGrades() {
@@ -121,8 +131,8 @@ Page({
     fetchWords() {
         const stage = this.data.stages[this.data.stageIndex];
         const grade = this.data.grades[this.data.gradeIndex];
-        console.log('正在获取单词数据...', {stage, grade});
-        
+        console.log('正在获取单词数据...', { stage, grade });
+
         wx.cloud.callFunction({
             name: 'getWords',
             data: {
@@ -154,33 +164,37 @@ Page({
         });
     },
 
+    // 更新难度切换逻辑
     onDifficultyChange(e) {
         const index = parseInt(e.detail.value);
-        // 简单模式8行，困难模式12行
-        const rows = index === 0 ? 8 : 12; 
+        const config = [
+            { rows: 6, columns: 6 },   // 简单 6x6
+            { rows: 6, columns: 8 },   // 中等 6x8
+            { rows: 6, columns: 10 }   // 困难 6x10
+        ];
         this.setData({
             difficultyIndex: index,
-            rows: rows
+            rows: config[index].rows,
+            columns: config[index].columns  // 新增列数更新
         });
         this.createEmptyBoard();
     },
-
+    
+    // 更新棋盘创建方法
     createEmptyBoard() {
-        const rows = this.data.rows;
-        const columns = this.data.columns;
+        const { rows, columns } = this.data;  // 使用当前数据中的行列数
         var board = [];
-        // 创建6行N列的棋盘
         for (var i = 0; i < rows; i++) {
-            board[i] = new Array(columns).fill('');
+            board[i] = new Array(columns).fill('');  // 使用动态列数
         }
-        
+
         var wordTypes = [];
         // 修复：将size替换为rows和columns
         for (var i = 0; i < rows; i++) {
             wordTypes[i] = new Array(columns).fill('');
         }
-        
-        this.setData({ 
+
+        this.setData({
             board: board,
             gameStarted: false,
             score: 0,
@@ -194,36 +208,72 @@ Page({
     },
 
     startGame() {
-        if (this.data.gameStarted) return;
+        // 01移除所有开始条件判断
+        this.createEmptyBoard(); // 强制重置棋盘
         
-        // 修复：使用rows和columns代替原来的size
-        const rows = this.data.rows;
-        const columns = this.data.columns;
-        var board = [];
-        for (var i = 0; i < rows; i++) {
-            var row = [];
-            for (var j = 0; j < columns; j++) {
-                row.push('');
-            }
-            board.push(row);
-        }
-        
-        this.setData({ 
-            board: board,
+        this.setData({
             gameStarted: true,
-            score: 0,
-            selected: null,
-            // 修复：计算总单元格数为rows * columns
-            emptyCells: rows * columns,
-            usedWords: new Set()
+            // 合并本地存储的已用单词
+            usedWords: new Set(wx.getStorageSync('usedWords') || [])
+        }, () => {
+            // 根据难度生成初始单词
+            const totalCells = this.data.rows * this.data.columns;
+            const initialWords = Math.floor(totalCells / 2);
+            for (let i = 0; i < initialWords; i++) {
+                this.addWords();
+            }
         });
-    
-        // 根据难度设置初始单词数量
-        const totalCells = rows * columns;
-        const initialWords = Math.floor(totalCells / 2); // 每个单词占用2个格子
-        for (var i = 0; i < initialWords; i++) {
-            this.addWords();
-        }
+    },
+
+    startGame2() {
+        // 02初始化当前回合的临时存储
+        wx.setStorageSync('currentUsedWords', []); 
+        this.setData({
+            gameStarted: true,
+            usedWords: new Set(wx.getStorageSync('usedWords') || [])
+        }, () => {
+            const totalCells = this.data.rows * this.data.columns;
+            const initialWords = Math.floor(totalCells / 2);
+            for (let i = 0; i < initialWords; i++) {
+                this.addWords();
+            }
+        });
+    },
+
+    // 在 gameOver 方法后添加 gameWin 方法
+    gameOver() {
+        if (!this.data.gameStarted) return;
+        // 完全重置游戏状态
+        this.setData({
+            gameStarted: false,
+            score: 0,
+            helpCount: 3,
+            selected: null,
+            // 重置为初始空单元格数
+            emptyCells: this.data.rows * this.data.columns  
+        }, () => {
+            this.createEmptyBoard(); // 确保在状态更新后重置棋盘
+        });
+    },
+
+    // 新增胜利提示方法
+    gameWin() {
+        if (!this.data.gameStarted) return;
+        this.setData({ gameStarted: false });
+        wx.showModal({
+            title: '恭喜胜利！',
+            content: `你成功消除了所有单词！得分：${this.data.score}`,
+            showCancel: false,
+            success: (res) => {
+                if (res.confirm) {
+                    // 合并当前使用的单词到永久存储
+                    const localUsed = new Set(wx.getStorageSync('usedWords') || []);
+                    const currentUsed = new Set([...localUsed, ...wx.getStorageSync('currentUsedWords')]);
+                    wx.setStorageSync('usedWords', Array.from(currentUsed));
+                    this.createEmptyBoard();
+                }
+            }
+        });
     },
 
     onHelpTap() {
@@ -249,11 +299,11 @@ Page({
                         for (let y = 0; y < columns; y++) {
                             if (board[x][y] === (selectedValue === word.english ? word.chinese : word.english)) {
                                 hintWord = word;
-                                enPos = selectedValue === word.english ? 
-                                    { i: this.data.selected.i, j: this.data.selected.j } : 
+                                enPos = selectedValue === word.english ?
+                                    { i: this.data.selected.i, j: this.data.selected.j } :
                                     { i: x, j: y };
-                                cnPos = selectedValue === word.chinese ? 
-                                    { i: this.data.selected.i, j: this.data.selected.j } : 
+                                cnPos = selectedValue === word.chinese ?
+                                    { i: this.data.selected.i, j: this.data.selected.j } :
                                     { i: x, j: y };
                                 break;
                             }
@@ -321,7 +371,7 @@ Page({
         const i = e.currentTarget.dataset.i;
         const j = e.currentTarget.dataset.j;
         const value = this.data.board[i][j];
-        
+
         if (!value) return; // 空格子不处理
 
         // 放大点击的格子
@@ -333,26 +383,28 @@ Page({
         if (this.data.selected) {
             const selected = this.data.selected;
             if (i === selected.i && j === selected.j) {
-                this.setData({ 
+                this.setData({
                     selected: null,
                     enlargedCell: null // 取消放大
                 });
                 return;
             }
-            
+
             let isMatch = false;
             let matchedWord = null;
             const wordList = this.data.wordList;
             for (let k = 0; k < wordList.length; k++) {
                 const word = wordList[k];
-                if ((selected.value === word.english && value === word.chinese) ||
-                    (selected.value === word.chinese && value === word.english)) {
+                if (
+                    (selected.value === word.english && value === word.chinese) ||
+                    (selected.value === word.chinese && value === word.english)
+                ) {
                     isMatch = true;
                     matchedWord = word;
                     break;
                 }
             }
-            
+
             if (isMatch) {
                 const newBoard = this.data.board.map(row => [...row]);
                 const newWordTypes = this.data.wordTypes.map(row => [...row]);
@@ -361,16 +413,21 @@ Page({
                 newWordTypes[selected.i][selected.j] = 'empty';
                 newWordTypes[i][j] = 'empty';
                 const newEmptyCells = this.data.emptyCells + 2;
-                
+
                 const usedWords = new Set(this.data.usedWords);
                 usedWords.add(matchedWord.english);
                 usedWords.add(matchedWord.chinese);
-                
+
+                // 更新临时存储 currentUsedWords
+                const currentUsedWords = wx.getStorageSync('currentUsedWords') || [];
+                currentUsedWords.push(matchedWord.english, matchedWord.chinese);
+                wx.setStorageSync('currentUsedWords', currentUsedWords);
+
                 this.setData({
                     board: newBoard,
                     wordTypes: newWordTypes,
                     selected: null,
-                    enlargedCell: null, // 匹配成功，取消所有放大状态
+                    enlargedCell: null,
                     score: this.data.score + 1,
                     emptyCells: newEmptyCells,
                     usedWords: usedWords
@@ -378,9 +435,9 @@ Page({
                     this.checkGameState();
                 });
             } else {
-                this.setData({ 
+                this.setData({
                     selected: null,
-                    enlargedCell: null // 匹配失败，取消所有放大状态
+                    enlargedCell: null
                 }, () => {
                     wx.showToast({
                         title: '不匹配',
@@ -388,9 +445,9 @@ Page({
                         duration: 1000
                     });
                     setTimeout(() => {
-                        this.addWords();  // 先增加新单词
+                        this.addWords();
                         setTimeout(() => {
-                            this.rearrangeWords();  // 然后打乱顺序
+                            this.rearrangeWords();
                         }, 100);
                     }, 500);
                 });
@@ -456,7 +513,7 @@ Page({
                 }
             }
         }
-        
+
         if (emptyPositions.length < 2) {
             console.log('空位置不足，游戏结束');
             this.gameOver();
@@ -469,7 +526,7 @@ Page({
             this.gameOver();
             return;
         }
-        
+
         const pos1Index = Math.floor(Math.random() * emptyPositions.length);
         const pos1 = emptyPositions[pos1Index];
         emptyPositions.splice(pos1Index, 1);
@@ -506,7 +563,7 @@ Page({
         // 创建新的棋盘和类型数组
         const newBoard = Array(rows).fill().map(() => Array(columns).fill(''));
         const newWordTypes = Array(rows).fill().map(() => Array(columns).fill(''));
-        
+
         // 收集所有非空位置和对应的单词
         const nonEmptyPositions = [];
         const nonEmptyWords = [];
@@ -581,6 +638,8 @@ Page({
     gameOver() {
         if (!this.data.gameStarted) return;
         this.setData({ gameStarted: false });
+        // 清空当前回合的已用单词（不保存到本地）
+        wx.setStorageSync('currentUsedWords', []); 
         wx.showModal({
             title: '游戏结束',
             content: `你的分数是: ${this.data.score}`,
@@ -593,53 +652,29 @@ Page({
         });
     },
 
-    gameWin() {
-        if (!this.data.gameStarted) return;
-        this.setData({ gameStarted: false });
-        const currentStage = this.data.stages[this.data.stageIndex];
-        const currentGrade = this.data.grades[this.data.gradeIndex];
-        const isLastGrade = this.data.gradeIndex === this.data.grades.length - 1;
-        const isLastStage = this.data.stageIndex === this.data.stages.length - 1;
+    startNewRound() {
+        // 合并历史已用单词和当前回合的临时存储
+        const localUsed = new Set(wx.getStorageSync('usedWords') || []);
+        const currentUsed = new Set([...localUsed, ...wx.getStorageSync('currentUsedWords')]);
+        
+        this.setData({ 
+            usedWords: currentUsed,
+            gameStarted: true
+        }, () => {
+            this.createEmptyBoard();
+            this.generateInitialWords();
+        });
+        // 保存到永久存储
+        wx.setStorageSync('usedWords', Array.from(currentUsed)); 
+    },
 
-        if (isLastStage && isLastGrade) {
-            wx.showModal({
-                title: '游戏通关',
-                content: `恭喜你通关所有关卡！你的分数是: ${this.data.score}`,
-                showCancel: false,
-                success: (res) => {
-                    if (res.confirm) {
-                        this.createEmptyBoard();
-                    }
-                }
-            });
-        } else {
-            let nextStageIndex = this.data.stageIndex;
-            let nextGradeIndex = this.data.gradeIndex + 1;
-            let nextStage = currentStage;
-            let nextGrade = '';
-
-            if (isLastGrade) {
-                nextStageIndex++;
-                nextGradeIndex = 0;
-                nextStage = this.data.stages[nextStageIndex];
-            }
-            nextGrade = this.data.grades[nextGradeIndex];
-
-            wx.showModal({
-                title: '恭喜过关',
-                content: `你的分数是: ${this.data.score}\n即将进入下一关: ${nextStage}${nextGrade}`,
-                showCancel: false,
-                success: (res) => {
-                    if (res.confirm) {
-                        this.setData({
-                            stageIndex: nextStageIndex,
-                            gradeIndex: nextGradeIndex
-                        });
-                        this.updateGrades();
-                        this.fetchWords();
-                    }
-                }
-            });
+    // 注意：这里缺少 generateInitialWords 方法的定义
+    // 如果需要使用 startNewRound，请添加以下实现或调整逻辑
+    generateInitialWords() {
+        const totalCells = this.data.rows * this.data.columns;
+        const initialWords = Math.floor(totalCells / 2);
+        for (let i = 0; i < initialWords; i++) {
+            this.addWords();
         }
     }
 })

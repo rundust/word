@@ -8,8 +8,14 @@
             <picker bindchange="onGradeChange" value="{{gradeIndex}}" range="{{grades}}">
                 <view class="picker">{{grades[gradeIndex]}}</view>
             </picker>
-            <picker bindchange="onDifficultyChange" value="{{difficultyIndex}}" range="{{difficulties}}">
-                <view class="picker">{{difficulties[difficultyIndex]}}</view>
+            <picker 
+                range="{{difficulties}}" 
+                value="{{difficultyIndex}}" 
+                bindchange="onDifficultyChange"
+            >
+                <view class="picker">
+                    当前难度：{{difficulties[difficultyIndex]}}
+                </view>
             </picker>
         </view>
         <view class="controls-right">
